@@ -4,64 +4,52 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>1022 Productions</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
-  <style>
-    /* Add any site-specific overrides here if needed */
-  </style>
+  <link rel="stylesheet" href="/assets/css/styles.css">
 </head>
-<body class="bg-white text-gray-900 font-sans">
-  <!-- Header -->
-  <header class="w-full border-b border-gray-200">
-    <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-      <h1 class="text-xl font-semibold">1022 Productions</h1>
-      <nav class="space-x-6 text-sm">
-        <a href="/" class="hover:underline">Home</a>
-        <a href="#apps" class="hover:underline">Apps</a>
-        <a href="/contact.html" class="hover:underline">Contact</a>
-      </nav>
-    </div>
-  </header>
-
-  <!-- Hero Section -->
-  <section class="bg-gray-50 py-20">
-    <div class="max-w-4xl mx-auto text-center px-6">
-      <h2 class="text-4xl font-bold mb-4">Crafting Beautiful Apps with Purpose</h2>
-      <p class="text-lg text-gray-600">Welcome to 1022 Productions — a home for thoughtfully designed mobile apps that make life simpler and more fun.</p>
-    </div>
-  </section>
-
+<body class="site-body">
   <!-- App Grid Section -->
-  <section id="apps" class="py-16 bg-white">
-    <div class="max-w-6xl mx-auto px-6">
-      <h3 class="text-2xl font-semibold mb-10 text-center">Our Apps</h3>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-
-        <!-- App Card Template -->
-        <a href="/apps/app-one.html" class="block border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition">
-          <img src="/assets/images/app-one-icon.png" alt="App One Icon" class="w-16 h-16 mb-4">
-          <h4 class="text-xl font-medium mb-2">App One</h4>
-          <p class="text-sm text-gray-600">A short description of what App One does and why it’s awesome.</p>
-        </a>
-
-        <a href="/apps/app-two.html" class="block border border-gray-200 rounded-2xl p-6 hover:shadow-lg transition">
-          <img src="/assets/images/app-two-icon.png" alt="App Two Icon" class="w-16 h-16 mb-4">
-          <h4 class="text-xl font-medium mb-2">App Two</h4>
-          <p class="text-sm text-gray-600">A short description of what App Two does and why it’s useful.</p>
-        </a>
-
-        <!-- Add more apps using the same card structure -->
-
+  <section class="cards-wrapper">
+    <!-- Praise -->
+    <div class="app-card">
+      <div class="card-text-group center-text">
+        <p class="card-title">Praise: Prayer Journal</p>
+        <p class="card-text">
+          Praise is your personal prayer companion, designed to elevate your prayer life and deepen your connection with God.
+        </p>
+        <div class="card-buttons center-buttons">
+          <a href="/apps/praise.html" class="card-button">Learn more</a>
+          <a href="https://apps.apple.com/app/idYOUR_APP_ID_HERE" class="card-button secondary">Download</a>
+        </div>
       </div>
+      <img class="card-image" src="/assets/praise/Praise-Website.png" alt="Praise app preview">
     </div>
+
+    <!-- Space Watch -->
+    <div class="app-card">
+      <div class="card-text-group center-text">
+        <p class="card-title">Space Watch</p>
+        <p class="card-text">
+          Space Watch is your go-to source for up-to-the-minute details on upcoming rocket launches.
+        </p>
+        <div class="card-buttons center-buttons">
+          <a href="/apps/praise.html" class="card-button">Learn more</a>
+          <a href="https://apps.apple.com/app/idYOUR_APP_ID_HERE" class="card-button secondary">Download</a>
+        </div>
+      </div>
+      <img class="card-image" src="/assets/space-watch/SpaceWatch-WebsiteIcon.png" alt="Praise app preview">
+    </div>
+    
+    
+
   </section>
 
   <!-- Footer -->
-  <footer class="border-t border-gray-200 py-8 mt-20">
-    <div class="max-w-6xl mx-auto px-6 text-sm text-gray-500 flex flex-col sm:flex-row justify-between">
+  <footer class="site-footer">
+    <div class="container footer-inner">
       <p>© 2025 1022 Productions</p>
-      <div class="space-x-4 mt-2 sm:mt-0">
-        <a href="/legal/privacy-policy.html" class="hover:underline">Privacy Policy</a>
-        <a href="/legal/terms-of-use.html" class="hover:underline">Terms of Use</a>
+      <div class="footer-links">
+        <a href="/legal/privacy-policy.html">Privacy Policy</a>
+        <a href="/legal/terms-of-use.html">Terms of Use</a>
       </div>
     </div>
   </footer>
