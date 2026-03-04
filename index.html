@@ -3,53 +3,71 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>1022 Productions</title>
-  <link rel="stylesheet" href="/assets/css/styles.css">
+  <title>1022 Productions | Apps for Daily Life</title>
+  <meta name="description" content="Explore iOS apps from 1022 Productions, including Praise and Space Watch. Find app details, media kits, and legal docs.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,500;6..72,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body class="site-body">
-  <!-- App Grid Section -->
-  <section class="cards-wrapper">
-    <!-- Praise -->
-    <div class="app-card">
-      <div class="card-text-group center-text">
-        <p class="card-title">Praise: Prayer Journal</p>
-        <p class="card-text">
-          Praise is your personal prayer companion, designed to elevate your prayer life and deepen your connection with God.
-        </p>
-        <div class="card-buttons center-buttons">
-          <a href="/apps/praise.html" class="card-button">Learn more</a>
-          <a href="https://apps.apple.com/app/idYOUR_APP_ID_HERE" class="card-button secondary">Download</a>
-        </div>
+  <header class="site-header">
+    <nav class="top-nav" aria-label="Global">
+      <a class="nav-brand" href="index.html">1022 Productions</a>
+      <div class="nav-links">
+        <a href="praise/">Praise</a>
+        <a href="space-watch/">Space Watch</a>
       </div>
-      <img class="card-image" src="/assets/praise/Praise-Website.png" alt="Praise app preview">
-    </div>
+    </nav>
+  </header>
+  <main class="page-shell">
+    <header class="hero">
+      <p class="eyebrow">1022 Productions</p>
+      <h1>Thoughtful iPhone apps, built to be used every day.</h1>
+      <p class="hero-copy">
+        Explore our current apps and quickly find downloads, media kits, and legal documents.
+        This layout is intentionally app-first so new products can be added with minimal edits.
+      </p>
+    </header>
 
-    <!-- Space Watch -->
-    <div class="app-card">
-      <div class="card-text-group center-text">
-        <p class="card-title">Space Watch</p>
-        <p class="card-text">
-          Space Watch is your go-to source for up-to-the-minute details on upcoming rocket launches.
-        </p>
-        <div class="card-buttons center-buttons">
-          <a href="/apps/praise.html" class="card-button">Learn more</a>
-          <a href="https://apps.apple.com/app/idYOUR_APP_ID_HERE" class="card-button secondary">Download</a>
+    <section class="app-grid" aria-label="App directory">
+      <!-- Duplicate one app-card block to add future apps -->
+      <article class="app-card app-card--praise" id="praise">
+        <div class="app-content">
+          <h2>Praise</h2>
+          <p class="app-description">
+            A personal prayer journal designed to help you stay consistent, focused, and grounded.
+          </p>
+          <nav class="link-row" aria-label="Praise links">
+            <a class="pill-link" href="praise/">Learn More</a>
+            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">Download</a>
+          </nav>
         </div>
-      </div>
-      <img class="card-image" src="/assets/space-watch/SpaceWatch-WebsiteIcon.png" alt="Praise app preview">
-    </div>
-    
-    
+        <img class="app-image" src="assets/praise/Praise-Website.png" alt="Praise app preview">
+      </article>
 
-  </section>
+      <article class="app-card app-card--space-watch" id="space-watch">
+        <div class="app-content">
+          <h2>Space Watch</h2>
+          <p class="app-description">
+            Track upcoming rocket launches and get the details that matter most to space enthusiasts.
+          </p>
+          <nav class="link-row" aria-label="Space Watch links">
+            <a class="pill-link" href="space-watch/">Learn More</a>
+            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">Download</a>
+          </nav>
+        </div>
+        <img class="app-image app-image--contain" src="assets/space-watch/SpaceWatch-WebsiteIcon.png" alt="Space Watch app icon">
+      </article>
+    </section>
+  </main>
 
-  <!-- Footer -->
   <footer class="site-footer">
-    <div class="container footer-inner">
-      <p>© 2025 1022 Productions</p>
+    <div class="footer-inner">
+      <p>© 2026 1022 Productions</p>
       <div class="footer-links">
-        <a href="/legal/privacy-policy.html">Privacy Policy</a>
-        <a href="/legal/terms-of-use.html">Terms of Use</a>
+        <a href="praise/">Praise</a>
+        <a href="space-watch/">Space Watch</a>
       </div>
     </div>
   </footer>
