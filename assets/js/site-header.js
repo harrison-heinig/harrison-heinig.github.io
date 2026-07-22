@@ -6,6 +6,7 @@
         '  <nav class="top-nav" aria-label="Global">',
         '    <a class="nav-brand" href="/">1022 Productions</a>',
         '    <div class="nav-links">',
+        '      <a href="/jubilee/">Jubilee</a>',
         '      <a href="/praise/">Praise</a>',
         '      <a href="/space-watch/">Space Watch</a>',
         '    </div>',
