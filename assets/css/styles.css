@@ -232,87 +232,6 @@ h2 {
   padding: 0;
 }
 
-.jubilee-card-art {
-  position: relative;
-  min-height: 265px;
-  display: grid;
-  place-items: center;
-  overflow: hidden;
-  background:
-    linear-gradient(145deg, rgba(106, 70, 181, 0.09), rgba(255, 170, 90, 0.16)),
-    repeating-linear-gradient(90deg, transparent, transparent 44px, rgba(92, 61, 143, 0.04) 44px, rgba(92, 61, 143, 0.04) 45px);
-}
-
-.jubilee-date-tile {
-  position: relative;
-  z-index: 2;
-  width: min(300px, 72%);
-  padding: 1.2rem 1.4rem;
-  border-radius: 26px;
-  color: #291948;
-  text-align: center;
-  background: rgba(255, 255, 255, 0.88);
-  border: 1px solid rgba(77, 47, 127, 0.12);
-  box-shadow: 0 24px 50px rgba(65, 40, 111, 0.2);
-  transform: rotate(-2deg);
-}
-
-.jubilee-date-tile span,
-.jubilee-date-tile small {
-  display: block;
-}
-
-.jubilee-date-tile span {
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #72579c;
-}
-
-.jubilee-date-tile strong {
-  display: block;
-  margin: 0.05rem 0;
-  font-family: "Newsreader", Georgia, serif;
-  font-size: 5.2rem;
-  line-height: 0.95;
-}
-
-.jubilee-date-tile small {
-  color: #5a4b70;
-  font-weight: 600;
-}
-
-.jubilee-confetti {
-  position: absolute;
-  width: 16px;
-  height: 44px;
-  border-radius: 999px;
-  transform: rotate(28deg);
-}
-
-.jubilee-confetti--one {
-  top: 16%;
-  left: 17%;
-  background: #ff9b55;
-}
-
-.jubilee-confetti--two {
-  right: 18%;
-  bottom: 13%;
-  background: #8f6bdb;
-  transform: rotate(-38deg);
-}
-
-.jubilee-confetti--three {
-  right: 10%;
-  top: 12%;
-  width: 24px;
-  height: 24px;
-  background: #f2c94c;
-  transform: rotate(18deg);
-}
-
 .site-footer {
   width: min(1140px, 92%);
   margin: 0 auto;
@@ -428,19 +347,28 @@ h2 {
 }
 
 .detail-hero--jubilee {
+  grid-template-columns: minmax(0, 0.86fr) minmax(300px, 1.14fr);
+  align-items: center;
   overflow: hidden;
   background:
-    radial-gradient(circle at 88% 14%, rgba(255, 238, 179, 0.86), transparent 34%),
-    linear-gradient(145deg, rgba(255, 255, 255, 0.96), rgba(244, 231, 255, 0.83));
+    radial-gradient(circle at 10% 8%, rgba(255, 171, 71, 0.3), transparent 32%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.97), rgba(247, 239, 232, 0.9));
 }
 
-.jubilee-hero-art {
-  min-height: 330px;
-  border-radius: 20px;
+.jubilee-page .feature-card {
+  background:
+    radial-gradient(circle at 10% 8%, rgba(255, 171, 71, 0.3), transparent 42%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.97), rgba(247, 239, 232, 0.9));
+  border-color: rgba(219, 122, 47, 0.14);
+  box-shadow: 0 16px 38px rgba(104, 69, 46, 0.1);
 }
 
-.jubilee-hero-art .jubilee-date-tile {
-  width: min(320px, 78%);
+.jubilee-hero-icon {
+  width: 72px;
+  height: 72px;
+  margin-bottom: 1rem;
+  border-radius: 18px;
+  box-shadow: 0 14px 28px rgba(34, 27, 23, 0.2);
 }
 
 .detail-text {
@@ -607,9 +535,43 @@ h2 {
   padding: 0.75rem;
 }
 
+.media-kit-icon {
+  display: block;
+  width: min(240px, 66%);
+  margin-top: 1rem;
+  border-radius: 23%;
+  box-shadow: 0 20px 42px rgba(18, 28, 45, 0.2);
+}
+
+.media-kit-screenshot {
+  display: block;
+  width: min(330px, 100%);
+  max-height: 620px;
+  margin-top: 1rem;
+  border-radius: 32px;
+  object-fit: cover;
+  object-position: top;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  box-shadow: 0 20px 42px rgba(18, 28, 45, 0.16);
+}
+
+.media-kit-promo {
+  display: block;
+  width: min(760px, 100%);
+  margin-top: 1rem;
+  border-radius: 24px;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  box-shadow: 0 20px 42px rgba(18, 28, 45, 0.16);
+}
+
+.doc-card .media-download-row {
+  margin-top: 1rem;
+}
+
 @media (max-width: 920px) {
   .detail-hero,
   .detail-hero--space-watch,
+  .detail-hero--jubilee,
   .app-card--jubilee {
     grid-template-columns: 1fr;
   }
@@ -636,13 +598,4 @@ h2 {
     border-radius: 18px;
   }
 
-  .jubilee-card-art,
-  .jubilee-hero-art {
-    min-height: 235px;
-    border-radius: 16px;
-  }
-
-  .jubilee-date-tile strong {
-    font-size: 4.2rem;
-  }
 }
