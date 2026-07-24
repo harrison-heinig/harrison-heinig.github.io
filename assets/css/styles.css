@@ -406,7 +406,7 @@ h2 {
 .resource-grid {
   display: grid;
   gap: 0.35rem 1.1rem;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
 .resource-link {
