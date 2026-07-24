@@ -346,28 +346,21 @@ h2 {
   padding: clamp(1.1rem, 2.5vw, 2rem);
 }
 
+.detail-hero--jubilee,
+.detail-hero--praise,
 .detail-hero--space-watch {
-  grid-template-columns: 1.15fr 0.85fr;
-}
-
-.detail-hero--jubilee {
   grid-template-columns: minmax(0, 0.86fr) minmax(300px, 1.14fr);
   align-items: center;
   overflow: hidden;
-  background:
-    radial-gradient(circle at 10% 8%, rgba(255, 171, 71, 0.3), transparent 32%),
-    linear-gradient(145deg, rgba(255, 255, 255, 0.97), rgba(247, 239, 232, 0.9));
 }
 
-.jubilee-page .feature-card {
-  background:
-    radial-gradient(circle at 10% 8%, rgba(255, 171, 71, 0.3), transparent 42%),
-    linear-gradient(145deg, rgba(255, 255, 255, 0.97), rgba(247, 239, 232, 0.9));
-  border-color: rgba(219, 122, 47, 0.14);
-  box-shadow: 0 16px 38px rgba(104, 69, 46, 0.1);
+.detail-hero--jubilee .link-row,
+.detail-hero--praise .link-row,
+.detail-hero--space-watch .link-row {
+  margin-top: clamp(0.55rem, 1.25vw, 1rem);
 }
 
-.jubilee-hero-icon {
+.app-hero-icon {
   width: 72px;
   height: 72px;
   margin-bottom: 1rem;
@@ -387,11 +380,6 @@ h2 {
   object-fit: cover;
   background: rgba(255, 255, 255, 0.65);
   border: 1px solid rgba(15, 23, 42, 0.08);
-}
-
-.detail-hero-image--contain {
-  object-fit: contain;
-  padding: 0.8rem;
 }
 
 .feature-grid {
