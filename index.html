@@ -5,34 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>1022 Productions</title>
   <meta name="description" content="Explore iOS apps from 1022 Productions, including Jubilee, Praise, and Space Watch. Find app details, media kits, and legal docs.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;family=Newsreader:opsz,wght@6..72,500;6..72,700&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/styles.css">
-  <script src="/assets/js/site-header.js?v=20260722" defer></script>
+  <link rel="stylesheet" href="assets/css/styles.css?v=20260727d">
+  <script src="/assets/js/site-header.js?v=20260726" defer></script>
 </head>
 <body class="site-body">
   <site-header></site-header>
   <main class="page-shell">
     <header class="hero">
-      <p class="eyebrow">1022 Productions</p>
-      <h1>Apps made to solve everyday problems.</h1>
-      <p class="hero-copy">
-        1022 Productions is an independent software studio run by one developer. Each app is designed to be focused, practical, and easy to use.
-      </p>
+      <div class="hero-heading">
+        <p class="eyebrow">1022 Productions</p>
+        <h1>Apps made to solve everyday problems.</h1>
+      </div>
+      <div class="hero-note">
+        <p class="hero-copy">
+          1022 Productions is an independent software studio run by one developer. Each app is designed to be focused, practical, and easy to use.
+        </p>
+      </div>
     </header>
 
     <section class="app-grid" aria-label="App directory">
       <!-- Duplicate one app-card block to add future apps -->
       <article class="app-card app-card--jubilee" id="jubilee">
         <div class="app-content">
+          <p class="app-kicker">Dates &amp; milestones</p>
           <h2>Jubilee</h2>
           <p class="app-description">
             Keep track of birthdays, anniversaries, milestones, and other important dates.
           </p>
           <nav class="link-row" aria-label="Jubilee links">
-            <a class="pill-link" href="jubilee/">Learn More</a>
-            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">Download</a>
+            <a class="pill-link" href="jubilee/">Learn more</a>
+            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">App Store <span aria-hidden="true">↗</span></a>
           </nav>
         </div>
         <img class="app-image" src="assets/jubilee/Jubilee-Website.png" alt="Jubilee app icon surrounded by Event Highlights screens">
@@ -40,13 +42,14 @@
 
       <article class="app-card app-card--praise" id="praise">
         <div class="app-content">
+          <p class="app-kicker">Prayer &amp; reflection</p>
           <h2>Praise</h2>
           <p class="app-description">
             Organize your prayers, record updates, and remember how God has moved in your life.
           </p>
           <nav class="link-row" aria-label="Praise links">
-            <a class="pill-link" href="praise/">Learn More</a>
-            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">Download</a>
+            <a class="pill-link" href="praise/">Learn more</a>
+            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">App Store <span aria-hidden="true">↗</span></a>
           </nav>
         </div>
         <img class="app-image" src="assets/praise/Praise-Website.png" alt="Praise app preview">
@@ -54,13 +57,14 @@
 
       <article class="app-card app-card--space-watch" id="space-watch">
         <div class="app-content">
+          <p class="app-kicker">Launches &amp; missions</p>
           <h2>Space Watch</h2>
           <p class="app-description">
             Follow upcoming rocket launches, view mission details, and keep track of launch times.
           </p>
           <nav class="link-row" aria-label="Space Watch links">
-            <a class="pill-link" href="space-watch/">Learn More</a>
-            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">Download</a>
+            <a class="pill-link" href="space-watch/">Learn more</a>
+            <a class="pill-link pill-link--solid" href="https://apps.apple.com/app/idYOUR_APP_ID_HERE">App Store <span aria-hidden="true">↗</span></a>
           </nav>
         </div>
         <img class="app-image app-image--contain" src="assets/space-watch/SpaceWatch-WebsiteIcon.png" alt="Space Watch app icon">
@@ -70,7 +74,7 @@
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>© 2026 1022 Productions</p>
+      <p class="footer-brand">1022 Productions <span>© 2026</span></p>
       <div class="footer-links">
         <a href="jubilee/">Jubilee</a>
         <a href="praise/">Praise</a>
