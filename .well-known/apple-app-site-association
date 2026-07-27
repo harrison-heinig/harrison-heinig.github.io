@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "ZKP5QQP74N.com.1022productions.jubilee-events"
+        ],
+        "components": [
+          {
+            "/": "/jubilee/share-event/*",
+            "comment": "Opens shared Jubilee events in the app."
+          }
+        ]
+      }
+    ]
+  }
+}
