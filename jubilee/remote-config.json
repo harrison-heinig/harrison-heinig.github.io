@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "analytics": {
+    "enabled": true,
+    "enabledEvents": [
+      "jubilee.session.started",
+      "jubilee.feature.used",
+      "jubilee.paywall.presented",
+      "jubilee.paywall.dismissed",
+      "jubilee.paywall.purchase.started",
+      "jubilee.paywall.purchase.completed",
+      "jubilee.paywall.purchase.failed",
+      "jubilee.paywall.restore.started",
+      "jubilee.paywall.restore.completed",
+      "jubilee.paywall.restore.not_found",
+      "jubilee.paywall.restore.failed"
+    ],
+    "enabledFeatures": [
+      "event_created",
+      "event_edited",
+      "event_deleted",
+      "event_viewed",
+      "event_shared",
+      "event_search",
+      "event_photo",
+      "linked_contacts",
+      "contact_message",
+      "contact_email",
+      "contacts_import",
+      "contacts_export",
+      "calendar_sync",
+      "reminders",
+      "shared_event_import",
+      "shortcut_create_event"
+    ]
+  }
+}
