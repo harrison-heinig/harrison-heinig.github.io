@@ -4,11 +4,11 @@
       this.innerHTML = [
         '<header class="site-header">',
         '  <nav class="top-nav" aria-label="Global">',
-        '    <a class="nav-brand" href="/" aria-label="1022 Productions home"><span class="brand-number">1022</span><span class="brand-word">Productions</span></a>',
+        '    <a class="nav-brand" href="/" aria-label="1022 Productions home"><span class="brand-name">1022 Productions</span></a>',
         '    <div class="nav-links">',
-        '      <a href="/jubilee/"><span>01</span>Jubilee</a>',
-        '      <a href="/praise/"><span>02</span>Praise</a>',
-        '      <a href="/space-watch/"><span>03</span>Space Watch</a>',
+        '      <a href="/jubilee/">Jubilee</a>',
+        '      <a href="/praise/">Praise</a>',
+        '      <a href="/space-watch/">Space Watch</a>',
         '    </div>',
         '  </nav>',
         '</header>'
