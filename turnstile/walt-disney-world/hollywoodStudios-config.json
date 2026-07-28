@@ -1,0 +1,726 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "288747d1-8b4f-4a64-867e-ea7c9b27bad8",
+    "name": "Hollywood Studios",
+    "location": {
+      "latitude": 28.36,
+      "longitude": -81.558,
+      "mapSpan": 0.035,
+      "heading": -140.0
+    },
+    "liveDataFileName": "hollywoodStudios-live.json"
+  },
+  "entities": [
+    {
+      "id": "e6fed1a4-caca-4af4-b2ed-32686fdaa7a3",
+      "name": "Star Wars Launch Bay: Encounter Darth Vader",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "starwarslaunchbayencounterdarthvader",
+      "externalId": "18189398;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3581387982894,
+        "longitude": -81.5608885508893,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "c3829334-4ab7-4e71-b832-89ddfe12ff68",
+      "name": "Star Wars Launch Bay: BB-8 Astromech on Duty",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "bb8astromechonduty",
+      "externalId": "18669338;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3580201699138,
+        "longitude": -81.5610394270006,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "a7763ca6-bca3-4e78-b75c-22886aa06bec",
+      "name": "The Little Mermaid – A Musical Adventure – New!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "412328858;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3574862,
+        "longitude": -81.560848,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "69cb35f2-c58e-4b44-88c9-ea0cc720e075",
+      "name": "Disney Villains: Unfairly Ever After",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "412328859;entityType=Entertainment",
+      "location": {
+        "latitude": 28.359869,
+        "longitude": -81.560947,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "289c5f39-3633-4493-ac54-6b45c535032c",
+      "name": "Get Animated at Animation Courtyard",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "412380258;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3576710754713,
+        "longitude": -81.5607404903583,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "0e7426d1-7406-4e7c-9da6-ac6c126211c6",
+      "name": "Meet Joy at Pixar Plaza",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "411908664;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356374,
+        "longitude": -81.560839,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "7a73a6df-4d33-4648-b3e3-57985f84f0ae",
+      "name": "Roundup Rodeo BBQ",
+      "entityType": "RESTAURANT",
+      "slug": null,
+      "externalId": "19553134;entityType=restaurant",
+      "location": {
+        "latitude": 28.356832,
+        "longitude": -81.56201,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "79860074-658f-49bc-8c1b-624af8b4718e",
+      "name": "Meet Edna Mode at the Edna Mode Experience",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "19205017;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356086,
+        "longitude": -81.560742,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "c113b1cf-7b6d-416a-8e21-bf8f387ecd77",
+      "name": "Meet Ariel at Walt Disney Presents",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "411926516;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356945,
+        "longitude": -81.560998,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "eb325677-d32a-41ec-b2c9-e1ab91bade02",
+      "name": "Meet Pixar Pals at Pixar Plaza",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "411927635;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3563769305406,
+        "longitude": -81.5609562845992,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "343de9f4-e100-4a52-9285-0fcc3a486603",
+      "name": "First Order Searches for the Resistance",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "411979428;entityType=Entertainment",
+      "location": {
+        "latitude": 28.354335,
+        "longitude": -81.562562,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "d7669edc-eaa1-4af2-bbb5-6e98df564166",
+      "name": "Walt Disney Presents",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "waltdisneypresents",
+      "externalId": "18770880;entityType=Attraction",
+      "location": {
+        "latitude": 28.35686,
+        "longitude": -81.560982,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "6225cefe-eada-453b-9443-d1e679e28cda",
+      "name": "Star Wars Launch Bay",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "starwarslaunchbay",
+      "externalId": "18240543;entityType=Attraction",
+      "location": {
+        "latitude": 28.357849,
+        "longitude": -81.560996,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "d56506e2-6ad3-443a-8065-fea37987248d",
+      "name": "Alien Swirling Saucers",
+      "entityType": "ATTRACTION",
+      "attractionType": "Spinner",
+      "slug": "alienswirlingsaucers",
+      "externalId": "18904172;entityType=Attraction",
+      "location": {
+        "latitude": 28.355385,
+        "longitude": -81.562379,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 32
+    },
+    {
+      "id": "399aa0a1-98e2-4d2b-b297-2b451e9665e1",
+      "name": "Slinky Dog Dash",
+      "entityType": "ATTRACTION",
+      "attractionType": "Thrill Ride",
+      "slug": "slinkydogdash",
+      "externalId": "18904138;entityType=Attraction",
+      "location": {
+        "latitude": 28.356245,
+        "longitude": -81.562786,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 38
+    },
+    {
+      "id": "9211adc9-b296-4667-8e97-b40cf76108e4",
+      "name": "Vacation Fun - An Original Animated Short with Mickey & Minnie",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "vacationfunanoriginalanimatedshortwithmickeyminnie",
+      "externalId": "19497952;entityType=Attraction",
+      "location": {
+        "latitude": 28.356316,
+        "longitude": -81.559031,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "6e118e37-5002-408d-9d88-0b5d9cdb5d14",
+      "name": "Mickey & Minnie's Runaway Railway",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "mickeyminniesrunawayrailway",
+      "externalId": "19259335;entityType=Attraction",
+      "location": {
+        "latitude": 28.3566783801,
+        "longitude": -81.5605667783,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "1a2e70d9-50d5-4140-b69e-799e950f7d18",
+      "name": "Star Wars: Rise of the Resistance",
+      "entityType": "ATTRACTION",
+      "attractionType": "Simulator",
+      "slug": "starwarsriseoftheresistance",
+      "externalId": "19263736;entityType=Attraction",
+      "location": {
+        "latitude": 28.354884,
+        "longitude": -81.560457,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 40
+    },
+    {
+      "id": "34c4916b-989b-4ff1-a7e3-a6a846a3484f",
+      "name": "Millennium Falcon: Smugglers Run",
+      "entityType": "ATTRACTION",
+      "attractionType": "Simulator",
+      "slug": "millenniumfalconsmugglersrun",
+      "externalId": "19263735;entityType=Attraction",
+      "location": {
+        "latitude": 28.353889,
+        "longitude": -81.561689,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 38
+    },
+    {
+      "id": "6f6998e8-a629-412c-b964-2cb06af8e26b",
+      "name": "The Twilight Zone Tower of Terror™",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "thetwilightzonetowerofterror",
+      "externalId": "80010218;entityType=Attraction",
+      "location": {
+        "latitude": 28.359553,
+        "longitude": -81.559772,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 40
+    },
+    {
+      "id": "20b5daa8-e1ea-436f-830c-2d7d18d929b5",
+      "name": "Toy Story Mania!",
+      "entityType": "ATTRACTION",
+      "attractionType": "Interactive Ride",
+      "slug": "toystorymania",
+      "externalId": "209857;entityType=Attraction",
+      "location": {
+        "latitude": 28.356404,
+        "longitude": -81.561894,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "3b290419-8ca2-44bc-a710-a6c83fca76ec",
+      "name": "Star Tours – The Adventures Continue",
+      "entityType": "ATTRACTION",
+      "attractionType": "Simulator",
+      "slug": "startourstheadventurescontinue",
+      "externalId": "80010193;entityType=Attraction",
+      "location": {
+        "latitude": 28.355695,
+        "longitude": -81.558891,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 40
+    },
+    {
+      "id": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
+      "name": "Rock 'n' Roller Coaster Starring Aerosmith",
+      "entityType": "ATTRACTION",
+      "attractionType": "Thrill Ride",
+      "slug": "rocknrollercoasterstarringaerosmith",
+      "externalId": "80010182;entityType=Attraction",
+      "location": {
+        "latitude": 28.359712,
+        "longitude": -81.56059,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 48
+    },
+    {
+      "id": "f27c4d19-bfb4-42c6-a73b-ac474676a806",
+      "name": "The Trolley Car Café",
+      "entityType": "RESTAURANT",
+      "slug": "thetrolleycarcaf",
+      "externalId": "17928418;entityType=restaurant",
+      "location": {
+        "latitude": 28.357767,
+        "longitude": -81.559604,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "07fc0229-4e50-419a-ba10-0ce07cc54a53",
+      "name": "BaseLine Tap House",
+      "entityType": "RESTAURANT",
+      "slug": "baselinetaphouse",
+      "externalId": "18744584;entityType=restaurant",
+      "location": {
+        "latitude": 28.355696,
+        "longitude": -81.559565,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "d2af9650-9f91-45ef-98be-de44b4b44c32",
+      "name": "The Hollywood Brown Derby Lounge",
+      "entityType": "RESTAURANT",
+      "slug": "thehollywoodbrownderbylounge",
+      "externalId": "17571157;entityType=restaurant",
+      "location": {
+        "latitude": 28.3576436192,
+        "longitude": -81.5601785481,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "f020b5e3-d26d-4339-83f9-0f1f858a0e40",
+      "name": "Oga's Cantina at the Walt Disney World Resort",
+      "entityType": "RESTAURANT",
+      "slug": "ogascantinaatthewaltdisneyworldresort",
+      "externalId": "19267226;entityType=restaurant",
+      "location": {
+        "latitude": 28.354095,
+        "longitude": -81.562075,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "451855cc-d19e-40c3-838a-33c8fefe4af8",
+      "name": "Docking Bay 7 Food and Cargo",
+      "entityType": "RESTAURANT",
+      "slug": "dockingbay7foodandcargo",
+      "externalId": "19267227;entityType=restaurant",
+      "location": {
+        "latitude": 28.354088,
+        "longitude": -81.561643,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c600282c-227b-4ffc-b1ee-b5987609ee4f",
+      "name": "50's Prime Time Café",
+      "entityType": "RESTAURANT",
+      "slug": "50sprimetimecaf",
+      "externalId": "90001216;entityType=restaurant",
+      "location": {
+        "latitude": 28.357444,
+        "longitude": -81.558881,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "1ae86482-6627-4229-814d-0f1ccebb20d4",
+      "name": "ABC Commissary",
+      "entityType": "RESTAURANT",
+      "slug": "abccommissary",
+      "externalId": "90001220;entityType=restaurant",
+      "location": {
+        "latitude": 28.356062,
+        "longitude": -81.559872,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "43891eb1-27bb-429e-b6b9-430b54f57858",
+      "name": "Kat Saka's Kettle",
+      "entityType": "RESTAURANT",
+      "slug": "katsakaskettle",
+      "externalId": "19296379;entityType=restaurant",
+      "location": {
+        "latitude": 28.35432,
+        "longitude": -81.561467,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "4ea1129c-749c-4be8-a0f9-9700740213fc",
+      "name": "Ronto Roasters",
+      "entityType": "RESTAURANT",
+      "slug": "rontoroasters",
+      "externalId": "19296378;entityType=restaurant",
+      "location": {
+        "latitude": 28.354341,
+        "longitude": -81.561652,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "7bf05bdc-8279-427b-8a6d-50fc62ef31cb",
+      "name": "Hollywood & Vine",
+      "entityType": "RESTAURANT",
+      "slug": "hollywoodvine",
+      "externalId": "90001744;entityType=restaurant",
+      "location": {
+        "latitude": 28.357611,
+        "longitude": -81.558975,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "a595b641-4472-4d2b-92b5-5a0e31785193",
+      "name": "Catalina Eddie's",
+      "entityType": "RESTAURANT",
+      "slug": "catalinaeddies",
+      "externalId": "90001365;entityType=restaurant",
+      "location": {
+        "latitude": 28.358915,
+        "longitude": -81.560278,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "904887b2-82b5-426c-b2b0-0b5d6977ff94",
+      "name": "Fairfax Fare",
+      "entityType": "RESTAURANT",
+      "slug": "fairfaxfare",
+      "externalId": "90001531;entityType=restaurant",
+      "location": {
+        "latitude": 28.3590392579,
+        "longitude": -81.5600222899,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d9dbd260-9e34-406d-abb7-19f9d733e577",
+      "name": "Sci-Fi Dine-In Theater Restaurant",
+      "entityType": "RESTAURANT",
+      "slug": "scifidineintheaterrestaurant",
+      "externalId": "90002114;entityType=restaurant",
+      "location": {
+        "latitude": 28.3559,
+        "longitude": -81.559495,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "917783a5-da9c-4c55-ac51-0ac1f8253131",
+      "name": "The Hollywood Brown Derby",
+      "entityType": "RESTAURANT",
+      "slug": "thehollywoodbrownderby",
+      "externalId": "90002245;entityType=restaurant",
+      "location": {
+        "latitude": 28.357648,
+        "longitude": -81.560297,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "0beccd84-7a6d-454a-94d3-c8a3265e7e8d",
+      "name": "Tune-In Lounge",
+      "entityType": "RESTAURANT",
+      "slug": "tuneinlounge",
+      "externalId": "90002300;entityType=restaurant",
+      "location": {
+        "latitude": 28.357482,
+        "longitude": -81.558808,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "a8804f66-ed5c-4daa-99a1-bcddd2f1fca6",
+      "name": "Rosie's All-American Café",
+      "entityType": "RESTAURANT",
+      "slug": "rosiesallamericancaf",
+      "externalId": "90002090;entityType=restaurant",
+      "location": {
+        "latitude": 28.358821,
+        "longitude": -81.560268,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "27f9fc86-2341-4bf4-8cbf-67fc16a841f1",
+      "name": "Meet Olaf at Celebrity Spotlight",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "celebrityspotlight",
+      "externalId": "18368385;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356072,
+        "longitude": -81.559158,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "02861a9b-584d-47d5-a8d0-98e05c3b5dce",
+      "name": "Meet Disney Stars at Red Carpet Dreams",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "mickeyandminniestarringinredcarpetdreams",
+      "externalId": "18368386;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356068,
+        "longitude": -81.559479,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "d91a0e9a-8652-4036-822f-e7b12b381273",
+      "name": "For the First Time in Forever: A Frozen Sing-Along Celebration",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "forthefirsttimeinforeverafrozensingalongcelebration",
+      "externalId": "17842841;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3568243,
+        "longitude": -81.559694,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "b1ed574f-40f2-4132-a1ee-893a276633c8",
+      "name": "Wonderful World of Animation",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "wonderfulworldofanimation",
+      "externalId": "19260580;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356965,
+        "longitude": -81.560425,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "375197ac-27ac-41f7-bd93-f4e9b9fc4d5d",
+      "name": "Beauty and the Beast – Live on Stage",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "beautyandthebeastliveonstage",
+      "externalId": "80010848;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3589163,
+        "longitude": -81.559599,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "42328c39-76ab-4f03-b862-4206c8d9f7bb",
+      "name": "Fantasmic!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "fantasmic",
+      "externalId": "80010887;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3612252,
+        "longitude": -81.558233,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "bc2c2ffe-3cf0-4e75-a408-bf5e86515c4c",
+      "name": "Green Army Drum Corps",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "greenarmydrumcorps",
+      "externalId": "19025720;entityType=Entertainment",
+      "location": {
+        "latitude": 28.355815,
+        "longitude": -81.562344,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "7357772c-6b11-4a8d-af97-05a1bb45f001",
+      "name": "Indiana Jones™ Epic Stunt Spectacular!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "136;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3566701,
+        "longitude": -81.558611,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "0e38399f-2666-422c-a315-942105d3a8a7",
+      "name": "Star Wars Launch Bay: Meet Chewbacca",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "starwarslaunchbaymeetchewbacca",
+      "externalId": "18189394;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3580437948549,
+        "longitude": -81.5609857809673,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "c35fd0d8-3a15-4609-8edf-92204c20d0e6",
+      "name": "Disney Jr. Play and Dance!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "disneyjuniorplayanddance",
+      "externalId": "19583373;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357948,
+        "longitude": -81.560773,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "83edcec8-7ff2-495e-9f61-fe596aa92447",
+      "name": "Backlot Express",
+      "entityType": "RESTAURANT",
+      "slug": "backlotexpress",
+      "externalId": "90001260;entityType=restaurant",
+      "location": {
+        "latitude": 28.35589,
+        "longitude": -81.558388,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "e2e6cccf-acf4-48f4-bbfb-47b712714583",
+      "name": "Dockside Diner",
+      "entityType": "RESTAURANT",
+      "slug": "docksidediner",
+      "externalId": "90001951;entityType=restaurant",
+      "location": {
+        "latitude": 28.3570985,
+        "longitude": -81.559552,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "6a696644-26ba-496e-8e2b-efbaad615785",
+      "name": "Milk Stand",
+      "entityType": "RESTAURANT",
+      "slug": "milkstand",
+      "externalId": "19267228;entityType=restaurant",
+      "location": {
+        "latitude": 28.354311,
+        "longitude": -81.562296,
+        "mapSpan": 0.005
+      },
+      "foodType": "Snack"
+    },
+    {
+      "id": "07b8c193-a185-4559-a403-4d950c3b386d",
+      "name": "Woody's Lunch Box",
+      "entityType": "RESTAURANT",
+      "slug": "woodyslunchbox",
+      "externalId": "18904173;entityType=restaurant",
+      "location": {
+        "latitude": 28.355747,
+        "longitude": -81.562185,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    }
+  ]
+}

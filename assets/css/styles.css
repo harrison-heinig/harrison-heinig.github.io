@@ -8,6 +8,7 @@
   --jubilee: #fecc9c;
   --praise: #185BC6;
   --space: #2c2c3c;
+  --turnstile: #e8ff5b;
   --content-width: 1220px;
   --radius: 18px;
 }
@@ -465,6 +466,45 @@ h2 {
   background: var(--space);
 }
 
+.detail-hero--turnstile {
+  background: var(--turnstile);
+}
+
+.turnstile-mark {
+  min-height: 570px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-left: 2px solid var(--line);
+  background:
+    linear-gradient(90deg, transparent 49.7%, var(--line) 49.7%, var(--line) 50.3%, transparent 50.3%),
+    var(--paper-light);
+}
+
+.turnstile-mark::before {
+  width: min(58%, 300px);
+  aspect-ratio: 1;
+  border: 18px solid var(--line);
+  border-radius: 50%;
+  background:
+    linear-gradient(var(--line), var(--line)) center / 100% 18px no-repeat,
+    linear-gradient(90deg, var(--line), var(--line)) center / 18px 100% no-repeat,
+    var(--turnstile);
+  box-shadow: 0 0 0 18px var(--paper-light), 0 0 0 20px var(--line);
+  content: "";
+  transform: rotate(45deg);
+}
+
+.status-label {
+  min-height: 44px;
+  padding: 0.7rem 0.9rem;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid currentColor;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
 .detail-hero--praise .pill-link--solid,
 .detail-hero--space-watch .pill-link--solid {
   color: var(--ink);
@@ -794,7 +834,8 @@ h2 {
     grid-template-columns: 1fr;
   }
 
-  .detail-hero-image {
+  .detail-hero-image,
+  .turnstile-mark {
     min-height: 390px;
     border-top: 2px solid var(--line);
     border-left: 0;

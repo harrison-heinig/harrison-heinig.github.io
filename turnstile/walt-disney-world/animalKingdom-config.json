@@ -1,0 +1,728 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "1c84a229-8862-4648-9c71-378ddd2c7693",
+    "name": "Animal Kingdom",
+    "location": {
+      "latitude": 28.3547,
+      "longitude": -81.5895,
+      "mapSpan": 0.025,
+      "heading": -10.0
+    },
+    "liveDataFileName": "animalKingdom-live.json"
+  },
+  "entities": [
+    {
+      "id": "b798c405-bffe-4068-ae84-95b108f21122",
+      "name": "Daisy’s Dig at Restaurantosaurus",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "412421865;entityType=Entertainment",
+      "location": {
+        "latitude": 28.356138,
+        "longitude": -81.588996,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "a08d9f84-fbdf-45f3-9b68-645d296de307",
+      "name": "DiVine",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "432709;entityType=Entertainment",
+      "location": {
+        "latitude": 28.355795,
+        "longitude": -81.589863,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "52be1d78-e0b4-433f-b1ce-0be4f7053813",
+      "name": "Beats and Strings",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "412226163;entityType=Entertainment",
+      "location": {
+        "latitude": 28.358553,
+        "longitude": -81.590054,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "6ef1b126-5b0b-46a1-8608-4fcf98ab92c8",
+      "name": "Wilderness Explorers",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "wildernessexplorers",
+      "externalId": "17396838;entityType=Attraction",
+      "location": {
+        "latitude": 28.356682,
+        "longitude": -81.590292,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "1b15c77b-0311-4171-8e59-7f38e6d60754",
+      "name": "Zootopia: Better Zoogether!",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": null,
+      "externalId": "412430582;entityType=Attraction",
+      "location": {
+        "latitude": 28.357488,
+        "longitude": -81.590118,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "dbd47eef-9fd9-41ca-aeeb-9a83ab9f01ec",
+      "name": "A Celebration Sing-Along at Discovery Island",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "412380334;entityType=Entertainment",
+      "location": {
+        "latitude": 28.3571984355519,
+        "longitude": -81.5897252812442,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "7a5af3b7-9bc1-4962-92d0-3ea9c9ce35f0",
+      "name": "Na'vi River Journey",
+      "entityType": "ATTRACTION",
+      "attractionType": "Boat Ride",
+      "slug": "naviriverjourney",
+      "externalId": "18665185;entityType=Attraction",
+      "location": {
+        "latitude": 28.355257,
+        "longitude": -81.591641,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "55c531b6-3ce2-4c47-a8a1-0dc9107d825b",
+      "name": "DINOSAUR",
+      "entityType": "ATTRACTION",
+      "attractionType": "Dark Ride",
+      "slug": "dinosaur",
+      "externalId": "80010123;entityType=Attraction",
+      "location": {
+        "latitude": 28.355307,
+        "longitude": -81.588444,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 40
+    },
+    {
+      "id": "4d27b0d7-2b0a-4569-90fa-e79f117ec7ef",
+      "name": "Discovery Island Trails",
+      "entityType": "ATTRACTION",
+      "attractionType": "Walkthrough",
+      "slug": "discoveryislandtrails",
+      "externalId": "80010126;entityType=Attraction",
+      "location": {
+        "latitude": 28.3581032852655,
+        "longitude": -81.5911151562868,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "b9be5b8f-fe1f-4a77-bcad-5399429ecaa6",
+      "name": "Dino-Sue",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "dinosue",
+      "externalId": "80010124;entityType=Attraction",
+      "location": {
+        "latitude": 28.355745,
+        "longitude": -81.588646,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "a15ce7cf-342a-4c7a-9372-7a1fa1054747",
+      "name": "Affection Section",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "affectionsection",
+      "externalId": "80010104;entityType=Attraction",
+      "location": {
+        "latitude": 28.3653458262,
+        "longitude": -81.5888520134,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "6fbe6d02-4057-43bb-80a3-047b1e8a50ca",
+      "name": "Conservation Station",
+      "entityType": "ATTRACTION",
+      "attractionType": "Walkthrough",
+      "slug": "conservationstation",
+      "externalId": "80010119;entityType=Attraction",
+      "location": {
+        "latitude": 28.36533,
+        "longitude": -81.58872,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "1a8ea967-229a-42a0-8290-59b036c84e14",
+      "name": "Maharajah Jungle Trek",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "maharajahjungletrek",
+      "externalId": "80010164;entityType=Attraction",
+      "location": {
+        "latitude": 28.359379,
+        "longitude": -81.589019,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
+      "name": "Kali River Rapids",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "kaliriverrapids",
+      "externalId": "80010154;entityType=Attraction",
+      "location": {
+        "latitude": 28.3587834288,
+        "longitude": -81.5889412165,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 38
+    },
+    {
+      "id": "bc997600-fcc0-4f6f-b908-a1419b26cfd8",
+      "name": "The Oasis Exhibits",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "theoasisexhibits",
+      "externalId": "80010214;entityType=Attraction",
+      "location": {
+        "latitude": 28.355965,
+        "longitude": -81.59014,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "4f391f0e-52be-4f9d-99d6-b3ae0373b43c",
+      "name": "Wildlife Express Train",
+      "entityType": "ATTRACTION",
+      "attractionType": "Transportation",
+      "slug": "wildlifeexpresstrain",
+      "externalId": "80010235;entityType=Attraction",
+      "location": {
+        "latitude": 28.3598097347,
+        "longitude": -81.5914175464,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "f609fcf6-0aef-44ef-b838-f10ff3b8543b",
+      "name": "Warung Outpost",
+      "entityType": "RESTAURANT",
+      "slug": "warungoutpost",
+      "externalId": "15921468;entityType=restaurant",
+      "location": {
+        "latitude": 28.35874,
+        "longitude": -81.590306,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "e12fb6d6-0985-44e5-bdd3-65ff74433063",
+      "name": "Tiffins Restaurant",
+      "entityType": "RESTAURANT",
+      "slug": "tiffinsrestaurant",
+      "externalId": "18069632;entityType=restaurant",
+      "location": {
+        "latitude": 28.356846,
+        "longitude": -81.591487,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "4d6d9f96-84be-40d9-8c14-e96fb740c65b",
+      "name": "Creature Comforts",
+      "entityType": "RESTAURANT",
+      "slug": "creaturecomforts",
+      "externalId": "18058385;entityType=restaurant",
+      "location": {
+        "latitude": 28.35781,
+        "longitude": -81.591685,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f210842b-8c9b-4088-9f48-6284e9ce389a",
+      "name": "Nomad Lounge",
+      "entityType": "RESTAURANT",
+      "slug": "nomadlounge",
+      "externalId": "18377778;entityType=restaurant",
+      "location": {
+        "latitude": 28.356719,
+        "longitude": -81.591487,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
+      "name": "Yak & Yeti™ Restaurant",
+      "entityType": "RESTAURANT",
+      "slug": "yakyetirestaurant",
+      "externalId": "215686;entityType=restaurant",
+      "location": {
+        "latitude": 28.35859,
+        "longitude": -81.58958,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "6c1fb59d-e0c0-4d42-b57a-4fc0e02414c9",
+      "name": "Yak & Yeti™ Local Food Cafes",
+      "entityType": "RESTAURANT",
+      "slug": "yakyetilocalfoodcafes",
+      "externalId": "241676;entityType=restaurant",
+      "location": {
+        "latitude": 28.358594,
+        "longitude": -81.589385,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "84f51faa-72a3-4491-9449-20a999e5885c",
+      "name": "Yak & Yeti™ Quality Beverages",
+      "entityType": "RESTAURANT",
+      "slug": "yakyetiqualitybeverages",
+      "externalId": "247503;entityType=restaurant",
+      "location": {
+        "latitude": 28.358803,
+        "longitude": -81.5893,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
+      "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+      "entityType": "RESTAURANT",
+      "slug": "rainforestcafeatdisneysanimalkingdom",
+      "externalId": "90002440;entityType=restaurant",
+      "location": {
+        "latitude": 28.35478,
+        "longitude": -81.59039,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "1f3d98d2-259a-4314-a7dc-54521021a6fc",
+      "name": "Restaurantosaurus",
+      "entityType": "RESTAURANT",
+      "slug": "restaurantosaurus",
+      "externalId": "90002632;entityType=restaurant",
+      "location": {
+        "latitude": 28.356138,
+        "longitude": -81.588996,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "625821c3-5bd2-4c08-b449-257f3c81cbde",
+      "name": "Pizzafari",
+      "entityType": "RESTAURANT",
+      "slug": "pizzafari",
+      "externalId": "90002620;entityType=restaurant",
+      "location": {
+        "latitude": 28.3572167558,
+        "longitude": -81.5912854671,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d58db4d0-3bad-4655-937b-1cbc9ed0e880",
+      "name": "Tusker House Restaurant",
+      "entityType": "RESTAURANT",
+      "slug": "tuskerhouserestaurant",
+      "externalId": "90002686;entityType=restaurant",
+      "location": {
+        "latitude": 28.3585843066,
+        "longitude": -81.5921041919,
+        "mapSpan": 0.005
+      },
+      "foodType": "Table Service"
+    },
+    {
+      "id": "9a64300c-4861-4bed-9713-b4f49e55e566",
+      "name": "The Smiling Crocodile",
+      "entityType": "RESTAURANT",
+      "slug": "thesmilingcrocodile",
+      "externalId": "90002646;entityType=restaurant",
+      "location": {
+        "latitude": 28.3577,
+        "longitude": -81.589802,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d8497541-53a2-4206-b95f-39cb238ae511",
+      "name": "Tam Tam Drummers of Harambe",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "tamtamdrummersofharambe",
+      "externalId": "72877;entityType=Entertainment",
+      "location": {
+        "latitude": 28.35873,
+        "longitude": -81.591928,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "13d7c9d1-a785-403d-9ba8-71fee2f02d55",
+      "name": "Meet Favorite Disney Pals at Adventurers Outpost",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "meetfavoritedisneypalsatadventurersoutpost",
+      "externalId": "17421326;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357972,
+        "longitude": -81.589796,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "dd142c0b-622a-4b44-8e22-c0facb2b20a8",
+      "name": "Kora Tinga Tinga",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "koratingatinga",
+      "externalId": "18435910;entityType=Entertainment",
+      "location": {
+        "latitude": 28.35899,
+        "longitude": -81.591471,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
+      "name": "Harambe Village Street Band – Burudika",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "16235871;entityType=Entertainment",
+      "location": {
+        "latitude": 28.35873,
+        "longitude": -81.591951,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "859a02c9-5d54-49fa-a85c-0a6318d4986b",
+      "name": "Zuri's Sweet Shop",
+      "entityType": "RESTAURANT",
+      "slug": null,
+      "externalId": "19624454;entityType=restaurant",
+      "location": {
+        "latitude": 28.359071,
+        "longitude": -81.591605,
+        "mapSpan": 0.005
+      },
+      "foodType": "Snack"
+    },
+    {
+      "id": "bc1ffa86-9b1a-4ce9-84a5-b479dfa3cb53",
+      "name": "Tree of Life",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "treeoflife",
+      "externalId": "80010217;entityType=Attraction",
+      "location": {
+        "latitude": 28.357994,
+        "longitude": -81.590597,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "e7976e25-4322-4587-8ded-fb1d9dcbb83c",
+      "name": "Gorilla Falls Exploration Trail",
+      "entityType": "ATTRACTION",
+      "attractionType": "Walkthrough",
+      "slug": "gorillafallsexplorationtrail",
+      "externalId": "80010175;entityType=Attraction",
+      "location": {
+        "latitude": 28.359954,
+        "longitude": -81.592149,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "43e5558e-2be0-4989-b80b-074afa8302a9",
+      "name": "The Boneyard",
+      "entityType": "ATTRACTION",
+      "attractionType": "Attraction",
+      "slug": "theboneyard",
+      "externalId": "80010203;entityType=Attraction",
+      "location": {
+        "latitude": 28.3566787564,
+        "longitude": -81.5884791864,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "24cf863c-b6ba-4826-a056-0b698989cbf7",
+      "name": "Avatar Flight of Passage",
+      "entityType": "ATTRACTION",
+      "attractionType": "Simulator",
+      "slug": "avatarflightofpassage",
+      "externalId": "18665186;entityType=Attraction",
+      "location": {
+        "latitude": 28.355554,
+        "longitude": -81.592147,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 44
+    },
+    {
+      "id": "32e01181-9a5f-4936-8a77-0dace1de836c",
+      "name": "Kilimanjaro Safaris",
+      "entityType": "ATTRACTION",
+      "attractionType": "Safari Ride",
+      "slug": "kilimanjarosafaris",
+      "externalId": "80010157;entityType=Attraction",
+      "location": {
+        "latitude": 28.359331,
+        "longitude": -81.59228,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "64a6915f-a835-4226-ba5c-8389fc4cade3",
+      "name": "Expedition Everest - Legend of the Forbidden Mountain",
+      "entityType": "ATTRACTION",
+      "attractionType": "Thrill Ride",
+      "slug": "expeditioneverestlegendoftheforbiddenmountain",
+      "externalId": "26068;entityType=Attraction",
+      "location": {
+        "latitude": 28.3584769119,
+        "longitude": -81.5873781396,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 44
+    },
+    {
+      "id": "3b7309a5-7b57-4edf-b4e6-36ad958ac21e",
+      "name": "The Animation Experience at Conservation Station",
+      "entityType": "ATTRACTION",
+      "attractionType": "Walkthrough",
+      "slug": "theanimationexperienceatconservationstation",
+      "externalId": "19330300;entityType=Attraction",
+      "location": {
+        "latitude": 28.365188,
+        "longitude": -81.588669,
+        "mapSpan": 0.005
+      },
+      "minimumHeight": 0
+    },
+    {
+      "id": "f526f3ab-190b-4576-8c79-e2968d171b4e",
+      "name": "Meet Moana at Character Landing",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": null,
+      "externalId": "411921961;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357086,
+        "longitude": -81.589374,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "a349429a-5ef8-41c4-9a28-84ed4f7a0465",
+      "name": "Viva Gaia Street Band!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "vivagaiastreetband",
+      "externalId": "16629705;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357122,
+        "longitude": -81.589667,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
+      "name": "Animal Encounters: Winged Encounters – The Kingdom Takes Flight",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "animalencounterswingedencountersthekingdomtakesflight",
+      "externalId": "17821434;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357339,
+        "longitude": -81.590462,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "95712b31-ceed-4f7d-be3e-3d5e6badac5c",
+      "name": "Finding Nemo: The Big Blue... and Beyond!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "411550125;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357401,
+        "longitude": -81.587455,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "d8214ba6-22a7-4a92-8977-bae3779d5c4c",
+      "name": "Feathered Friends in Flight!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "featheredfriendsinflight",
+      "externalId": "19581372;entityType=Entertainment",
+      "location": {
+        "latitude": 28.358791,
+        "longitude": -81.590061,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "3a4e0f49-f9ff-4481-a95b-d4952cdf6097",
+      "name": "Festival of the Lion King",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": "acelebrationoffestivalofthelionking",
+      "externalId": "12432;entityType=Entertainment",
+      "location": {
+        "latitude": 28.35811,
+        "longitude": -81.592643,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "665cc4c1-1bcd-4e5e-a44d-adb6a6889abc",
+      "name": "Harambe Market",
+      "entityType": "RESTAURANT",
+      "slug": "harambemarket",
+      "externalId": "18088970;entityType=restaurant",
+      "location": {
+        "latitude": 28.359161,
+        "longitude": -81.591369,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "6730b8bb-f592-40cd-8e6f-e7788f3f175b",
+      "name": "Flame Tree Barbecue",
+      "entityType": "RESTAURANT",
+      "slug": "flametreebarbecue",
+      "externalId": "90002524;entityType=restaurant",
+      "location": {
+        "latitude": 28.35734,
+        "longitude": -81.58954,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "88d5c6ad-fd4a-4c8b-8ed3-656e3ee3a4eb",
+      "name": "Thirsty River Bar",
+      "entityType": "RESTAURANT",
+      "slug": "thirstyriverbartreksnacks",
+      "externalId": "18076996;entityType=restaurant",
+      "location": {
+        "latitude": 28.358551,
+        "longitude": -81.587646,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "1286aad3-bdbe-401b-99ef-4097477c556d",
+      "name": "Dawa Bar",
+      "entityType": "RESTAURANT",
+      "slug": "dawabar",
+      "externalId": "90001443;entityType=restaurant",
+      "location": {
+        "latitude": 28.35854,
+        "longitude": -81.59198,
+        "mapSpan": 0.005
+      },
+      "foodType": "Lounge"
+    },
+    {
+      "id": "7aa4f221-7b52-445e-bc27-f7baac4530ad",
+      "name": "Satu'li Canteen",
+      "entityType": "RESTAURANT",
+      "slug": "satulicanteen",
+      "externalId": "18665138;entityType=restaurant",
+      "location": {
+        "latitude": 28.3560347386574,
+        "longitude": -81.5924408283262,
+        "mapSpan": 0.005
+      },
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "2a55aee6-c87a-4bda-a3d4-b022693a62a3",
+      "name": "Tree of Life Awakenings",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "slug": null,
+      "externalId": "18447293;entityType=Entertainment",
+      "location": {
+        "latitude": 28.357994,
+        "longitude": -81.590597,
+        "mapSpan": 0.005
+      }
+    },
+    {
+      "id": "f8d2730d-1fcb-414e-94bb-0a0f876d7720",
+      "name": "Donald's Dino-Bash!",
+     "entityType": "SHOW",
+     "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "slug": "donaldsdinobash",
+      "externalId": "18984704;entityType=Entertainment",
+      "location": {
+        "latitude": 28.35601515,
+        "longitude": -81.58836761,
+        "mapSpan": 0.005
+      }
+    }
+  ]
+}
