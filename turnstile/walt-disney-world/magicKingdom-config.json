@@ -15,208 +15,333 @@
     {
       "id": "51392ca4-f824-42d8-8808-8110ec8e0e22",
       "name": "Main Street Philharmonic at Main Street, U.S.A.",
+      "shortName": "Main Street Philharmonic",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "mainstreetphilharmonicatmainstreetusa",
       "externalId": "8066;entityType=Entertainment",
       "location": {
-        "latitude": 28.4185407873192,
-        "longitude": -81.5813068741155,
+        "latitude": 28.41854079,
+        "longitude": -81.58130687,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "796b0a25-c51e-456e-9bb8-50a324e301b3",
       "name": "Jungle Cruise",
+      "shortName": "Jungle Cruise",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Boat Ride",
       "slug": "junglecruise",
       "externalId": "80010153;entityType=Attraction",
       "location": {
         "latitude": 28.41797818,
-        "longitude": -81.5834393157,
+        "longitude": -81.58343932,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "d69261dc-62b8-434c-83bd-93649b43c408",
       "name": "Disney Starlight: Dream the Night Away",
+      "shortName": "Disney Starlight",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Parade",
       "externalId": "412328853;entityType=Entertainment",
       "location": {
         "latitude": 28.4168649,
         "longitude": -81.581193,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "3b515c31-90b3-4625-bf14-01ed053f5c2c",
       "name": "Rusty Cutlass Pirate Band at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Rusty Cutlass Pirate Band",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "411979827;entityType=Entertainment",
       "location": {
         "latitude": 28.418207,
         "longitude": -81.584026,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "52ac3730-b955-452a-a7cc-17e3b06182ac",
       "name": "Trick-or-Treat Locations at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Trick-or-Treat Locations",
       "entityType": "ATTRACTION",
-      "attractionType": "Event Experience",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Seasonal Event",
       "externalId": "17511582;entityType=Attraction",
       "location": {
-        "latitude": 28.420965290619,
-        "longitude": -81.5784311924997,
+        "latitude": 28.42096529,
+        "longitude": -81.57843119,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "1be7f786-d087-49be-b765-75ee758c0c9c",
       "name": "Big Top Bash at Storybook Circus",
+      "shortName": "Big Top Bash",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Seasonal Event",
       "externalId": "412380331;entityType=Entertainment",
       "location": {
-        "latitude": 28.4213984333433,
-        "longitude": -81.5787678350132,
+        "latitude": 28.42139843,
+        "longitude": -81.57876784,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "5c00cd7c-b207-4d9d-9c8c-a8d418fc5425",
       "name": "Mickey’s Boo-To-You Halloween Parade at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Boo-To-You Parade",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Parade",
       "externalId": "8317;entityType=Entertainment",
       "location": {
         "latitude": 28.4168668,
         "longitude": -81.5812,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "86c198b0-7c02-4354-814a-27ad70067d45",
       "name": "Disney Enchantment at Disney After Hours at Magic Kingdom",
+      "shortName": "Disney Enchantment",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Nighttime Spectacular",
       "externalId": "412040920;entityType=Entertainment",
       "location": {
         "latitude": 28.419507,
         "longitude": -81.581177,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 12,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "05ca3e51-580b-44ca-8046-7d3e57a6d248",
       "name": "Disney’s Not-So-Spooky Spectacular at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Not-So-Spooky Spectacular",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Nighttime Spectacular",
       "externalId": "61265;entityType=Entertainment",
       "location": {
         "latitude": 28.419507,
         "longitude": -81.581177,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "362aa1ba-b1a2-4617-a97c-5a6805f32417",
       "name": "Allergy-Friendly Trick-or-Treat Experience at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Allergy-Friendly Treating",
       "entityType": "ATTRACTION",
-      "attractionType": "Event Experience",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Seasonal Event",
       "externalId": "17511485;entityType=Attraction",
       "location": {
         "latitude": 28.416584,
         "longitude": -81.58157,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "4a44e3f7-de50-4e80-8077-4125daede42a",
       "name": "Galactic Blast at Tomorrowland",
+      "shortName": "Galactic Blast",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "412380332;entityType=Entertainment",
       "location": {
-        "latitude": 28.4183580449644,
-        "longitude": -81.5786785082952,
+        "latitude": 28.41835804,
+        "longitude": -81.57867851,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "5564113f-25b4-4646-ac35-aacf983e2fd6",
       "name": "Meet Mickey and Minnie at Town Square Theater at Mickey's Not-So-Scary Halloween Party",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Mickey and Minnie",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "411776692;entityType=Entertainment",
       "location": {
         "latitude": 28.416727,
         "longitude": -81.580746,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "9140033d-d746-464b-acad-f05f9357f0bd",
       "name": "Character Greetings at Mickey's Not-So-Scary Halloween Party",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Halloween Character Meets",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "17515888;entityType=Entertainment",
       "location": {
         "latitude": 28.416808,
         "longitude": -81.580815,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 16,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "6fd1e225-53a0-4a80-a577-4bbc9a471075",
       "name": "Walt Disney's Enchanted Tiki Room",
+      "shortName": "Enchanted Tiki Room",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "waltdisneysenchantedtikiroom",
       "externalId": "16124144;entityType=Attraction",
       "location": {
-        "latitude": 28.4182264646,
-        "longitude": -81.583738382,
+        "latitude": 28.41822646,
+        "longitude": -81.58373838,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 1,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48",
       "name": "The Barnstormer",
+      "shortName": "The Barnstormer",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Thrill Ride",
       "slug": "thebarnstormer",
       "externalId": "16491297;entityType=Attraction",
       "location": {
-        "latitude": 28.4207661576,
-        "longitude": -81.5783907473,
+        "latitude": 28.42076616,
+        "longitude": -81.57839075,
         "mapSpan": 0.005
       },
-      "minimumHeight": 35
+      "minimumHeight": 35,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "e40ac396-cbac-43f4-8752-764ed60ccceb",
       "name": "Walt Disney World Railroad - Fantasyland",
+      "shortName": "WDW Railroad Fantasyland",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Transportation",
       "slug": "waltdisneyworldrailroadfantasyland",
       "externalId": "16491299;entityType=Attraction",
@@ -225,27 +350,45 @@
         "longitude": -81.578368,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "f010bc01-b450-4476-a5f3-a5f2813104b2",
       "name": "Casey Jr. Splash 'N' Soak Station",
+      "shortName": "Casey Jr. Splash Station",
       "entityType": "ATTRACTION",
-      "attractionType": "Walkthrough",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
       "slug": "caseyjrsplashnsoakstation",
       "externalId": "16512939;entityType=Attraction",
       "location": {
-        "latitude": 28.4209221723,
-        "longitude": -81.5786757124,
+        "latitude": 28.42092217,
+        "longitude": -81.57867571,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 3,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "9d4d5229-7142-44b6-b4fb-528920969a2c",
       "name": "Seven Dwarfs Mine Train",
+      "shortName": "Seven Dwarfs Mine Train",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Thrill Ride",
       "slug": "sevendwarfsminetrain",
       "externalId": "16767284;entityType=Attraction",
       "location": {
@@ -253,12 +396,21 @@
         "longitude": -81.58031,
         "mapSpan": 0.005
       },
-      "minimumHeight": 38
+      "minimumHeight": 38,
+      "recommendation": {
+        "experienceMinutes": 7,
+        "reliability": 7
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef",
       "name": "Under the Sea - Journey of The Little Mermaid",
+      "shortName": "Under the Sea",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Dark Ride",
       "slug": "undertheseajourneyofthelittlemermaid",
       "externalId": "16767263;entityType=Attraction",
@@ -267,13 +419,22 @@
         "longitude": -81.579975,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "de737ffc-306b-4f32-8bbb-34e5d370ec8f",
       "name": "A Pirate's Adventure ~ Treasures of the Seven Seas",
+      "shortName": "A Pirate's Adventure",
       "entityType": "ATTRACTION",
-      "attractionType": "Walkthrough",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "apiratesadventuretreasuresofthesevenseas",
       "externalId": "17272158;entityType=Attraction",
       "location": {
@@ -281,13 +442,22 @@
         "longitude": -81.584669,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "e76c93df-31af-49a5-8e2f-752c76c937c9",
       "name": "Enchanted Tales with Belle",
+      "shortName": "Enchanted Tales with Belle",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": true,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Theater Show",
       "slug": "enchantedtaleswithbelle",
       "externalId": "16767276;entityType=Attraction",
       "location": {
@@ -295,26 +465,44 @@
         "longitude": -81.58093,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "72c7343a-f7fb-4f66-95df-c91016de7338",
       "name": "Buzz Lightyear's Space Ranger Spin",
+      "shortName": "Buzz Lightyear",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Interactive Ride",
       "slug": "buzzlightyearsspacerangerspin",
       "externalId": "80010114;entityType=Attraction",
       "location": {
-        "latitude": 28.4182868839,
-        "longitude": -81.5794086456,
+        "latitude": 28.41828688,
+        "longitude": -81.57940865,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 2,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "273ddb8d-e7b5-4e34-8657-1113f49262a5",
       "name": "Prince Charming Regal Carrousel",
+      "shortName": "Prince Charming Carrousel",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Spinner",
       "slug": "princecharmingregalcarrousel",
       "externalId": "80010117;entityType=Attraction",
@@ -323,96 +511,159 @@
         "longitude": -81.581255,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 4,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "de3309ca-97d5-4211-bffe-739fed47e92f",
       "name": "Big Thunder Mountain Railroad",
+      "shortName": "Big Thunder Mountain",
       "entityType": "ATTRACTION",
-      "attractionType": "Transportation",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Thrill Ride",
       "slug": "bigthundermountainrailroad",
       "externalId": "80010110;entityType=Attraction",
       "location": {
-        "latitude": 28.4199638504,
-        "longitude": -81.5846422864,
+        "latitude": 28.41996385,
+        "longitude": -81.58464229,
         "mapSpan": 0.005
       },
-      "minimumHeight": 40
+      "minimumHeight": 40,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "f5aad2d4-a419-4384-bd9a-42f86385c750",
       "name": "\"it's a small world\"",
+      "shortName": "it's a small world",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Boat Ride",
       "slug": "itsasmallworld",
       "externalId": "80010149;entityType=Attraction",
       "location": {
-        "latitude": 28.4204816402,
-        "longitude": -81.5820392026,
+        "latitude": 28.42048164,
+        "longitude": -81.5820392,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 2,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "0aae716c-af13-4439-b638-d75fb1649df3",
       "name": "Mad Tea Party",
+      "shortName": "Mad Tea Party",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Spinner",
       "slug": "madteaparty",
       "externalId": "80010162;entityType=Attraction",
       "location": {
-        "latitude": 28.4200230397,
-        "longitude": -81.5798248916,
+        "latitude": 28.42002304,
+        "longitude": -81.57982489,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 2,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "890fa430-89c0-4a3f-96c9-11597888005e",
       "name": "Dumbo the Flying Elephant",
+      "shortName": "Dumbo",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Spinner",
       "slug": "dumbotheflyingelephant",
       "externalId": "80010129;entityType=Attraction",
       "location": {
-        "latitude": 28.420509033,
-        "longitude": -81.5789473057,
+        "latitude": 28.42050903,
+        "longitude": -81.57894731,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "30fe3c64-af71-4c66-a54b-aa61fd7af177",
       "name": "Swiss Family Treehouse",
+      "shortName": "Swiss Family Treehouse",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Walkthrough",
       "slug": "swissfamilytreehouse",
       "externalId": "80010196;entityType=Attraction",
       "location": {
-        "latitude": 28.4184325517,
-        "longitude": -81.5827982677,
+        "latitude": 28.41843255,
+        "longitude": -81.58279827,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 3,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "b2260923-9315-40fd-9c6b-44dd811dbe64",
       "name": "Space Mountain",
+      "shortName": "Space Mountain",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Thrill Ride",
       "slug": "spacemountain",
       "externalId": "80010190;entityType=Attraction",
       "location": {
-        "latitude": 28.4188341691,
-        "longitude": -81.5781962872,
+        "latitude": 28.41883417,
+        "longitude": -81.57819629,
         "mapSpan": 0.005
       },
-      "minimumHeight": 44
+      "minimumHeight": 44,
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "352feb94-e52e-45eb-9c92-e4b44c6b1a9d",
       "name": "Pirates of the Caribbean",
+      "shortName": "Pirates of the Caribbean",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Boat Ride",
       "slug": "piratesofthecaribbean",
       "externalId": "80010177;entityType=Attraction",
@@ -421,26 +672,44 @@
         "longitude": -81.584225,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 3,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "86a41273-5f15-4b54-93b6-829f140e5161",
       "name": "Peter Pan's Flight",
+      "shortName": "Peter Pan's Flight",
       "entityType": "ATTRACTION",
-      "attractionType": "Simulator",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dark Ride",
       "slug": "peterpansflight",
       "externalId": "80010176;entityType=Attraction",
       "location": {
-        "latitude": 28.4202640272,
-        "longitude": -81.5818916811,
+        "latitude": 28.42026403,
+        "longitude": -81.58189168,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "f163ddcd-43e1-488d-8276-2381c1db0a39",
       "name": "Tomorrowland Speedway",
+      "shortName": "Tomorrowland Speedway",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Driving Ride",
       "slug": "tomorrowlandspeedway",
       "externalId": "80010222;entityType=Attraction",
@@ -449,12 +718,21 @@
         "longitude": -81.579302,
         "mapSpan": 0.005
       },
-      "minimumHeight": 32
+      "minimumHeight": 32,
+      "recommendation": {
+        "experienceMinutes": 2,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "96455de6-f4f1-403c-9391-bf8396979149",
       "name": "The Magic Carpets of Aladdin",
+      "shortName": "Magic Carpets of Aladdin",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Spinner",
       "slug": "themagiccarpetsofaladdin",
       "externalId": "80010210;entityType=Attraction",
@@ -463,12 +741,21 @@
         "longitude": -81.583472,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "e39b831b-7731-49bb-815b-289b4f49a9fd",
       "name": "Walt Disney World Railroad - Main Street, U.S.A.",
+      "shortName": "WDW Railroad Main Street",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Transportation",
       "slug": "waltdisneyworldrailroadmainstreetusa",
       "externalId": "80010230;entityType=Attraction",
@@ -477,39 +764,69 @@
         "longitude": -81.581204,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 16,
+        "reliability": 10
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "0f57cecf-5502-4503-8bc3-ba84d3708ace",
       "name": "Country Bear Musical Jamboree",
+      "shortName": "Country Bear Jamboree",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "countrybearjamboree",
       "externalId": "80069748;entityType=Attraction",
       "location": {
-        "latitude": 28.4187861348,
-        "longitude": -81.5837222887,
+        "latitude": 28.41878613,
+        "longitude": -81.58372229,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "e847a8bd-7d21-432b-a7a1-f483517a22b5",
       "name": "Be Our Guest Restaurant",
+      "shortName": "Be Our Guest",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "beourguestrestaurant",
       "externalId": "16660079;entityType=restaurant",
       "location": {
-        "latitude": 28.4212491492,
-        "longitude": -81.5807074858,
+        "latitude": 28.42124915,
+        "longitude": -81.58070749,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "6ea670b8-3097-4d60-b69c-94e16071da17",
       "name": "Jungle Navigation Co. LTD Skipper Canteen",
+      "shortName": "Skipper Canteen",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "junglenavigationcoltdskippercanteen",
       "externalId": "18185631;entityType=restaurant",
       "location": {
@@ -517,51 +834,91 @@
         "longitude": -81.582592,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "4c1ccb9e-ff1d-40b6-9454-72c261dd8b00",
       "name": "The Friar's Nook",
+      "shortName": "The Friar's Nook",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "thefriarsnook",
       "externalId": "114690;entityType=restaurant",
       "location": {
         "latitude": 28.42016512,
-        "longitude": -81.5807196587,
+        "longitude": -81.58071966,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "697473c5-ae17-4c3f-80c7-09a813248013",
       "name": "The Diamond Horseshoe",
+      "shortName": "The Diamond Horseshoe",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "thediamondhorseshoe",
       "externalId": "247904;entityType=restaurant",
       "location": {
-        "latitude": 28.4189329813,
-        "longitude": -81.5829262845,
+        "latitude": 28.41893298,
+        "longitude": -81.58292628,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "ae9a4a79-ccf1-4561-9a95-cf83d3007b98",
       "name": "Liberty Tree Tavern",
+      "shortName": "Liberty Tree Tavern",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "libertytreetavern",
       "externalId": "90001819;entityType=restaurant",
       "location": {
-        "latitude": 28.4191196055,
-        "longitude": -81.5826159743,
+        "latitude": 28.41911961,
+        "longitude": -81.58261597,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "55bdcccc-217b-416c-b8b0-4b6a87d16179",
       "name": "Cinderella's Royal Table",
+      "shortName": "Cinderella's Royal Table",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": true,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "cinderellasroyaltable",
       "externalId": "90002464;entityType=restaurant",
       "location": {
@@ -569,12 +926,22 @@
         "longitude": -81.581101,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "5f42b43a-e745-487b-9545-dd601f6984ce",
       "name": "Sleepy Hollow",
+      "shortName": "Sleepy Hollow",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "sleepyhollow",
       "externalId": "90002140;entityType=restaurant",
       "location": {
@@ -582,38 +949,68 @@
         "longitude": -81.5820112,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "be2c6511-750b-4fa6-8332-606d4342f814",
       "name": "Golden Oak Outpost",
+      "shortName": "Golden Oak Outpost",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "goldenoakoutpost",
       "externalId": "90002530;entityType=restaurant",
       "location": {
-        "latitude": 28.4186023132,
-        "longitude": -81.584727253,
+        "latitude": 28.41860231,
+        "longitude": -81.58472725,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "c4b64a31-e855-46a9-9d1a-aa13c99e88af",
       "name": "The Crystal Palace",
+      "shortName": "The Crystal Palace",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": true,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "thecrystalpalace",
       "externalId": "90002660;entityType=restaurant",
       "location": {
-        "latitude": 28.4181214892,
-        "longitude": -81.5818970259,
+        "latitude": 28.41812149,
+        "longitude": -81.58189703,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "a5098eb1-a673-47c2-b782-5c48bb83da17",
       "name": "Sunshine Tree Terrace",
+      "shortName": "Sunshine Tree Terrace",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "sunshinetreeterrace",
       "externalId": "90002656;entityType=restaurant",
       "location": {
@@ -621,25 +1018,45 @@
         "longitude": -81.582512,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "1b9a6231-b658-470f-92cc-808925280214",
       "name": "The Lunching Pad",
+      "shortName": "The Lunching Pad",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "thelunchingpad",
       "externalId": "90002664;entityType=restaurant",
       "location": {
-        "latitude": 28.4184189875,
-        "longitude": -81.5792530775,
+        "latitude": 28.41841899,
+        "longitude": -81.57925308,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "4bbaa21d-4203-494a-a120-b780dc7570ec",
       "name": "Pinocchio Village Haus",
+      "shortName": "Pinocchio Village Haus",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "pinocchiovillagehaus",
       "externalId": "90002618;entityType=restaurant",
       "location": {
@@ -647,200 +1064,330 @@
         "longitude": -81.58143,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 60,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "75d43698-162c-47af-a607-e879637dc8e7",
       "name": "The Plaza Restaurant",
+      "shortName": "The Plaza Restaurant",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "theplazarestaurant",
       "externalId": "90002670;entityType=restaurant",
       "location": {
-        "latitude": 28.4180247703,
-        "longitude": -81.5809394969,
+        "latitude": 28.41802477,
+        "longitude": -81.5809395,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "83201c33-ce99-45ae-a595-f47e61d73739",
       "name": "Tony's Town Square Restaurant",
+      "shortName": "Tony's Town Square",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "tonystownsquarerestaurant",
       "externalId": "90002678;entityType=restaurant",
       "location": {
-        "latitude": 28.4169323426,
-        "longitude": -81.5807276023,
+        "latitude": 28.41693234,
+        "longitude": -81.5807276,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "166f2985-7b27-4eff-a8b3-29c3448ba198",
       "name": "Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Daring Disney Pals",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetdaringdisneypalsascircusstarsatpetessillysideshow",
       "externalId": "387133;entityType=Entertainment",
       "location": {
         "latitude": 28.421282,
         "longitude": -81.578932,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "012a211b-4c91-451c-8a0e-5e3ab398eda8",
       "name": "Meet Ariel at Her Grotto",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Ariel at Her Grotto",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetarielathergrotto",
       "externalId": "16874126;entityType=Entertainment",
       "location": {
         "latitude": 28.4208933,
         "longitude": -81.579613,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "40737d3d-0ff6-4a9e-a050-beb87bf90120",
       "name": "Meet Cinderella and a Visiting Princess at Princess Fairytale Hall",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Cinderella",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetcinderellaandelenaatprincessfairytalehall",
       "externalId": "18498503;entityType=Entertainment",
       "location": {
         "latitude": 28.420071,
         "longitude": -81.580893,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 18,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "22b78ed9-a692-47cb-b6a4-6d1224ff67e3",
       "name": "Happily Ever After",
+      "shortName": "Happily Ever After",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Nighttime Spectacular",
       "slug": "happilyeverafter",
       "externalId": "18672598;entityType=Entertainment",
       "location": {
         "latitude": 28.419169,
         "longitude": -81.581204,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "a0613b70-293f-4a5b-8169-357be1777c62",
       "name": "Casey's Corner Pianist",
+      "shortName": "Casey's Corner Pianist",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "caseyscornerpianist",
       "externalId": "8074;entityType=Entertainment",
       "location": {
         "latitude": 28.418112,
         "longitude": -81.581421,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "1eee22e8-1d0a-4809-a42b-df3ae55c69d5",
       "name": "The Dapper Dans",
+      "shortName": "The Dapper Dans",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "thedapperdans",
       "externalId": "8075;entityType=Entertainment",
       "location": {
         "latitude": 28.4174102,
         "longitude": -81.581217,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "947edbee-85a5-4aa0-99f3-14c7de539542",
       "name": "Meet Jack Skellington and Sally at Mickey's Not-So-Scary Halloween Party",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Jack and Sally",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "17912526;entityType=Entertainment",
       "location": {
         "latitude": 28.416808,
         "longitude": -81.580815,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "d34121a8-4301-44f2-b887-88b11e5127d8",
       "name": "Disney Jr. Jam at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Disney Jr. Jam",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Seasonal Event",
       "externalId": "19074288;entityType=Entertainment",
       "location": {
         "latitude": 28.41949,
         "longitude": -81.57986,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "819fd147-3f17-420a-9188-2ba4c544d761",
       "name": "Main Street Confectionery",
+      "shortName": "Main Street Confectionery",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Retail",
+      "foodType": "Snack",
       "externalId": "19624449;entityType=restaurant",
       "location": {
         "latitude": 28.417116,
         "longitude": -81.581023,
         "mapSpan": 0.005
       },
-      "foodType": "Snack"
+      "recommendation": {
+        "experienceMinutes": 45,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "646a3063-dc41-4671-bc0a-0958b95fb553",
       "name": "The Beak and Barrel",
+      "shortName": "The Beak and Barrel",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "externalId": "412358722;entityType=restaurant",
       "location": {
-        "latitude": 28.4181864914411,
-        "longitude": -81.5846228231823,
+        "latitude": 28.41818649,
+        "longitude": -81.58462282,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 12,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "7c5e1e02-3a44-4151-9005-44066d5ba1da",
       "name": "Mickey's PhilharMagic",
+      "shortName": "Mickey's PhilharMagic",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "mickeysphilharmagic",
       "externalId": "80010170;entityType=Attraction",
       "location": {
-        "latitude": 28.4200304909,
-        "longitude": -81.5814839853,
+        "latitude": 28.42003049,
+        "longitude": -81.58148399,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 21,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
       "name": "Walt Disney's Carousel of Progress",
+      "shortName": "Carousel of Progress",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "waltdisneyscarouselofprogress",
       "externalId": "80010232;entityType=Attraction",
       "location": {
-        "latitude": 28.4180310951,
-        "longitude": -81.5790083064,
+        "latitude": 28.4180311,
+        "longitude": -81.57900831,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "ffcfeaa2-1416-4920-a1ed-543c1a1695c4",
       "name": "Tomorrowland Transit Authority PeopleMover",
+      "shortName": "PeopleMover",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Transportation",
       "slug": "tomorrowlandtransitauthoritypeoplemover",
       "externalId": "80010224;entityType=Attraction",
@@ -849,82 +1396,136 @@
         "longitude": -81.579033,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "e8f0b426-7645-4ea3-8b41-b94ae7091a41",
       "name": "Monsters Inc. Laugh Floor",
+      "shortName": "Monsters Inc. Laugh Floor",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "monstersinclaughfloor",
       "externalId": "136550;entityType=Attraction",
       "location": {
-        "latitude": 28.4183977566,
-        "longitude": -81.5797358751,
+        "latitude": 28.41839776,
+        "longitude": -81.57973588,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 25,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "2ebfb38c-5cb5-4de1-86c0-f7af14188022",
       "name": "The Hall of Presidents",
+      "shortName": "Hall of Presidents",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "thehallofpresidents",
       "externalId": "80069754;entityType=Attraction",
       "location": {
-        "latitude": 28.4194484171,
-        "longitude": -81.5823248578,
+        "latitude": 28.41944842,
+        "longitude": -81.58232486,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "888fb4a4-7adf-47a1-8ba2-c258cc64fd75",
       "name": "Main Street Vehicles",
+      "shortName": "Main Street Vehicles",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Transportation",
       "slug": "mainstreetvehicles",
       "externalId": "80010165;entityType=Attraction",
       "location": {
-        "latitude": 28.4168698711,
-        "longitude": -81.5815081252,
+        "latitude": 28.41686987,
+        "longitude": -81.58150813,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "90d79335-c907-4069-a021-d0fe1ec73ae2",
       "name": "Cinderella Castle",
+      "shortName": "Cinderella Castle",
       "entityType": "ATTRACTION",
-      "attractionType": "Walkthrough",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Landmark",
       "slug": "cinderellacastle",
       "externalId": "16767209;entityType=Attraction",
       "location": {
-        "latitude": 28.4194549043,
+        "latitude": 28.4194549,
         "longitude": -81.5811809,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 2,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "d9d12438-d999-4482-894b-8955fdb20ccf",
       "name": "Astro Orbiter",
+      "shortName": "Astro Orbiter",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Spinner",
       "slug": "astroorbiter",
       "externalId": "80010107;entityType=Attraction",
       "location": {
-        "latitude": 28.4184926179,
-        "longitude": -81.5789887902,
+        "latitude": 28.41849262,
+        "longitude": -81.57898879,
         "mapSpan": 0.005
       },
-      "minimumHeight": 35
+      "minimumHeight": 35,
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "2551a77d-023f-4ab1-9a19-8afec0190f39",
       "name": "Haunted Mansion",
+      "shortName": "Haunted Mansion",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Dark Ride",
       "slug": "hauntedmansion",
       "externalId": "80010208;entityType=Attraction",
@@ -933,26 +1534,43 @@
         "longitude": -81.58288,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 1,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "5a43d1a7-ad53-4d25-abfe-25625f0da304",
       "name": "TRON Lightcycle / Run",
+      "shortName": "TRON Lightcycle Run",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Thrill Ride",
-      "slug": null,
       "externalId": "411504498;entityType=Attraction",
       "location": {
         "latitude": 28.419625,
         "longitude": -81.577985,
         "mapSpan": 0.005
       },
-      "minimumHeight": 48
+      "minimumHeight": 48,
+      "recommendation": {
+        "experienceMinutes": 4,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "0d94ad60-72f0-4551-83a6-ebaecdd89737",
       "name": "The Many Adventures of Winnie the Pooh",
+      "shortName": "Winnie the Pooh",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Dark Ride",
       "slug": "themanyadventuresofwinniethepooh",
       "externalId": "80010213;entityType=Attraction",
@@ -961,107 +1579,176 @@
         "longitude": -81.580266,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 9,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "73cb9445-0695-47a3-87ce-d08ae36b5f3c",
       "name": "Tiana's Bayou Adventure",
+      "shortName": "Tiana's Bayou Adventure",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Boat Ride",
-      "slug": null,
       "externalId": "412021364;entityType=Attraction",
       "location": {
         "latitude": 28.419418,
         "longitude": -81.58498,
         "mapSpan": 0.005
       },
-      "minimumHeight": 40
+      "minimumHeight": 40,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": false
     },
     {
       "id": "8f9bacc9-c055-4da3-a6b7-bc1ce61b6786",
       "name": "Meet Mirabel at Fairytale Garden",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Mirabel",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "411987382;entityType=Entertainment",
       "location": {
         "latitude": 28.4195985,
         "longitude": -81.580264,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "b5d6d1d1-e960-4c8f-a8a4-b9748b386b64",
       "name": "Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Dashing Disney Pals",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetdashingdisneypalsascircusstarsatpetessillysideshow",
       "externalId": "15743682;entityType=Entertainment",
       "location": {
         "latitude": 28.421282,
         "longitude": -81.578932,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "3dc6e90f-de6e-4bf0-bae9-b04bc930351a",
       "name": "Let the Magic Begin",
+      "shortName": "Let the Magic Begin",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "letthemagicbegin",
       "externalId": "8336;entityType=Entertainment",
       "location": {
         "latitude": 28.419169,
         "longitude": -81.581204,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 23,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "4c31b3ad-5dc9-437f-ac1a-0fdff36a2818",
       "name": "Mickey's Magical Friendship Faire",
+      "shortName": "Magical Friendship Faire",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "externalId": "18381020;entityType=Entertainment",
       "location": {
         "latitude": 28.419169,
         "longitude": -81.581204,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "cf4b2ba4-3626-4de7-9d07-abe8a65b1665",
       "name": "Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Princess Tiana",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetrapunzelandtianaatprincessfairytalehall",
       "externalId": "17505397;entityType=Entertainment",
       "location": {
         "latitude": 28.4200458,
         "longitude": -81.580917,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "5af2c3a9-7697-414f-9642-6cb17a329613",
       "name": "Columbia Harbour House",
+      "shortName": "Columbia Harbour House",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "columbiaharbourhouse",
       "externalId": "90001399;entityType=restaurant",
       "location": {
-        "latitude": 28.4200310807,
-        "longitude": -81.5825126124,
+        "latitude": 28.42003108,
+        "longitude": -81.58251261,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "48d0c81e-3f47-4ff9-aa3c-331cb83a0af9",
       "name": "Casey's Corner",
+      "shortName": "Casey's Corner",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "caseyscorner",
       "externalId": "90002458;entityType=restaurant",
       "location": {
@@ -1069,25 +1756,43 @@
         "longitude": -81.581281,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 4
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "92524eb7-4ee5-4eab-936c-2eb8e6eb0ecd",
       "name": "The Cadaver Dans Barbershop Quartet at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "The Cadaver Dans",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "17506082;entityType=Entertainment",
       "location": {
         "latitude": 28.418951,
         "longitude": -81.583354,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "8073763e-19ee-4506-a823-a902e8e7f3b9",
       "name": "Tortuga Tavern",
+      "shortName": "Tortuga Tavern",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "tortugatavern",
       "externalId": "90001473;entityType=restaurant",
       "location": {
@@ -1095,12 +1800,22 @@
         "longitude": -81.584282,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "5135ff2e-2f42-4138-bc30-706eb25963e4",
       "name": "Cosmic Ray's Starlight Café",
+      "shortName": "Cosmic Ray's",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "cosmicraysstarlightcaf",
       "externalId": "90002470;entityType=restaurant",
       "location": {
@@ -1108,86 +1823,142 @@
         "longitude": -81.579873,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "ab1b9ce7-aada-4b47-9fa0-1b178203d02b",
       "name": "Pecos Bill Tall Tale Inn and Cafe",
+      "shortName": "Pecos Bill",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "pecosbilltalltaleinnandcafe",
       "externalId": "90002610;entityType=restaurant",
       "location": {
-        "latitude": 28.4188897676,
-        "longitude": -81.5844008876,
+        "latitude": 28.41888977,
+        "longitude": -81.58440089,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "6d74b3d9-f977-4c9b-8114-93969b51b105",
       "name": "Hocus Pocus Villain Spelltacular at Mickey's Not-So-Scary Halloween Party",
+      "shortName": "Hocus Pocus Spelltacular",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "externalId": "18161751;entityType=Entertainment",
       "location": {
         "latitude": 28.419169,
         "longitude": -81.581204,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "1c708beb-41e1-43ae-8dd8-1e85075aeb38",
       "name": "Flag Retreat",
+      "shortName": "Flag Retreat",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "flagretreat",
       "externalId": "7922;entityType=Entertainment",
       "location": {
         "latitude": 28.416856,
         "longitude": -81.581195,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "f819079e-644e-4fce-bda3-26b899ac7027",
       "name": "Disney Adventure Friends Cavalcade",
+      "shortName": "Adventure Friends Cavalcade",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Parade",
       "externalId": "411550122;entityType=Entertainment",
       "location": {
         "latitude": 28.4168649,
         "longitude": -81.581193,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 12,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "ee56b2f3-fd49-4a29-ae1a-2d321549a633",
       "name": "Disney Festival of Fantasy Parade",
+      "shortName": "Festival of Fantasy Parade",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Parade",
       "slug": "disneyfestivaloffantasyparade",
       "externalId": "17718925;entityType=Entertainment",
       "location": {
         "latitude": 28.4189533,
         "longitude": -81.583787,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "a2d92647-634d-4eb4-886b-9da858e871f1",
       "name": "Meet Mickey at Town Square Theater",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Mickey",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "15850196;entityType=Entertainment",
       "location": {
         "latitude": 28.416727,
         "longitude": -81.580746,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     }
   ]
 }

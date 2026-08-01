@@ -5,7 +5,7 @@
     "name": "EPCOT",
     "location": {
       "latitude": 28.368,
-      "longitude": -81.5494047655,
+      "longitude": -81.54940477,
       "mapSpan": 0.012,
       "heading": 0
     },
@@ -15,244 +15,401 @@
     {
       "id": "3dbf1ff2-eee0-44a9-8cd9-22bf920e81e9",
       "name": "Luminous The Symphony of Us",
+      "shortName": "Luminous",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Nighttime Spectacular",
       "externalId": "412008998;entityType=Entertainment",
       "location": {
-        "latitude": 28.3697559273453,
-        "longitude": -81.5471178955173,
+        "latitude": 28.36975593,
+        "longitude": -81.5471179,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "302d424d-3c56-40e7-9785-fba2f62e5854",
       "name": "GRAB-N-GOOF",
+      "shortName": "GRAB-N-GOOF",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "outdoorkitchenthecitrusblossom",
       "externalId": "19277840;entityType=restaurant",
       "location": {
-        "latitude": 28.3736946934633,
-        "longitude": -81.54990394851295,
+        "latitude": 28.37369469,
+        "longitude": -81.54990395,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "e9c1bff6-c9c1-4275-8f3d-44226f0fdfbb",
       "name": "Meet Princess Aurora in France",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Princess Aurora",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "15574092;entityType=Entertainment",
       "location": {
         "latitude": 28.36922,
         "longitude": -81.55286,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "48d5c9c3-7a1a-47ff-900c-606cd271d0fa",
       "name": "CommuniCore Hall Show Kitchen",
+      "shortName": "CommuniCore Show Kitchen",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
+      "foodType": "Quick Service",
       "externalId": "412176893;entityType=restaurant",
       "location": {
-        "latitude": 28.37389583678628,
-        "longitude": -81.55012286512901,
+        "latitude": 28.37389584,
+        "longitude": -81.55012287,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "d3461b18-2d07-4c21-97a3-6c28fca94678",
       "name": "Pizza al Taglio",
+      "shortName": "Pizza al Taglio",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "externalId": "18448091;entityType=restaurant",
       "location": {
         "latitude": 28.367506,
         "longitude": -81.548144,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "95ab66f4-4e47-4f76-875f-45ae70831e2f",
       "name": "GEO-82",
+      "shortName": "GEO-82",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "externalId": "412297708;entityType=restaurant",
       "location": {
-        "latitude": 28.37466514737089,
-        "longitude": -81.5496073600167,
+        "latitude": 28.37466515,
+        "longitude": -81.54960736,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 45,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "15107c34-65a3-473c-aaeb-655b508f529d",
       "name": "Space 220 Lounge",
+      "shortName": "Space 220 Lounge",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "externalId": "19634138;entityType=restaurant",
       "location": {
         "latitude": 28.373777,
         "longitude": -81.547056,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 45,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "fb1e45fc-a2bb-4e3c-951d-3a4e2130b79d",
       "name": "Acrobatico!",
+      "shortName": "Acrobatico",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "412442146;entityType=Entertainment",
       "location": {
         "latitude": 28.369184,
         "longitude": -81.552662,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "ea730d0c-7723-429d-89a4-9e76f053f5ac",
       "name": "Mariachi Cobre",
+      "shortName": "Mariachi Cobre",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "mariachicobre",
       "externalId": "19322758;entityType=Entertainment",
       "location": {
         "latitude": 28.37113,
         "longitude": -81.54748,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 25,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "fd8afd63-0cb5-4f77-b47b-fb277f12d9f8",
       "name": "¡Celebración Encanto!",
+      "shortName": "Celebracion Encanto",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "412126654;entityType=Entertainment",
       "location": {
         "latitude": 28.37363,
         "longitude": -81.549749,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 25,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "9b7d0cc3-8431-4300-98c7-d2471f390600",
       "name": "Connections Café",
+      "shortName": "Connections Cafe",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "externalId": "19635788;entityType=restaurant",
       "location": {
-        "latitude": 28.3742425652447,
-        "longitude": -81.5488623524572,
+        "latitude": 28.37424257,
+        "longitude": -81.54886235,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "a70b81bf-2934-433c-9723-afb2f24112bf",
       "name": "Meet Figment Inside ImageWorks",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Figment",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "411994369;entityType=Entertainment",
       "location": {
         "latitude": 28.372769,
         "longitude": -81.55128,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "e48629ab-939f-4fe0-9e6a-6ad29b8added",
       "name": "Command Performance",
+      "shortName": "Command Performance",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "411702927;entityType=Entertainment",
       "location": {
         "latitude": 28.370535,
         "longitude": -81.55249,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "3beaa9a5-6404-4446-bfd1-e0d0eea65e85",
       "name": "JAMMitors",
+      "shortName": "JAMMitors",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "jammingardeners",
       "externalId": "13507;entityType=Entertainment",
       "location": {
         "latitude": 28.374077,
         "longitude": -81.550714,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "41aba635-48e4-43bf-9bb1-3b811b5705d0",
       "name": "Rose & Crown Pub Musician",
+      "shortName": "Rose & Crown Musician",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "epcotpianist",
       "externalId": "17490262;entityType=Entertainment",
       "location": {
         "latitude": 28.370467,
         "longitude": -81.551677,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "fc64aa10-290f-472e-9fab-4d649f53ab2d",
       "name": "La Crêperie de Paris",
+      "shortName": "La Creperie de Paris",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "externalId": "19511274;entityType=restaurant",
       "location": {
         "latitude": 28.368536,
         "longitude": -81.553597,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 60,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "7b79e739-c540-4ea5-a4c8-f8d8bac5719b",
       "name": "Meet Mulan in China",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Mulan",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "268742;entityType=Entertainment",
       "location": {
-        "latitude": 28.3698563364835,
-        "longitude": -81.5461904203374,
+        "latitude": 28.36985634,
+        "longitude": -81.54619042,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "0c7097cb-8b29-4257-9e9a-a11ed59ceb46",
       "name": "GoofyCore at CommuniCore Hall",
+      "shortName": "GoofyCore",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "412380330;entityType=Entertainment",
       "location": {
-        "latitude": 28.3736876589442,
-        "longitude": -81.550320679552,
+        "latitude": 28.37368766,
+        "longitude": -81.55032068,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "8410885a-115d-4a5f-9cd5-08d0e659a603",
       "name": "Takumi-Tei",
+      "shortName": "Takumi-Tei",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "takumitei",
       "externalId": "19317888;entityType=restaurant",
       "location": {
@@ -260,12 +417,22 @@
         "longitude": -81.550833,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "b772df79-1fca-4c0a-a2f3-88b22e63e7c3",
       "name": "Space 220 Restaurant",
+      "shortName": "Space 220 Restaurant",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "space220comingsoon",
       "externalId": "19433706;entityType=restaurant",
       "location": {
@@ -273,12 +440,20 @@
         "longitude": -81.547056,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "35ed719b-f7f0-488f-8346-4fbf8055d373",
       "name": "Disney and Pixar Short Film Festival",
+      "shortName": "Disney & Pixar Shorts",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "disneyandpixarshortfilmfestival",
       "externalId": "18269694;entityType=Attraction",
@@ -287,12 +462,21 @@
         "longitude": -81.55115,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 18,
+        "reliability": 10
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "fb076275-0570-4d62-b2a9-4d6515130fa3",
       "name": "The Seas with Nemo & Friends",
+      "shortName": "The Seas with Nemo",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Dark Ride",
       "slug": "theseaswithnemofriends",
       "externalId": "107785;entityType=Attraction",
@@ -301,12 +485,21 @@
         "longitude": -81.550852,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 6,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0",
       "name": "Frozen Ever After",
+      "shortName": "Frozen Ever After",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Boat Ride",
       "slug": "frozeneverafter",
       "externalId": "18375495;entityType=Attraction",
@@ -315,12 +508,21 @@
         "longitude": -81.54653,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 6
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "482169b9-2889-4747-8aef-f9d13a37d940",
       "name": "Awesome Planet",
+      "shortName": "Awesome Planet",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "awesomeplanet",
       "externalId": "19473173;entityType=Attraction",
@@ -329,13 +531,22 @@
         "longitude": -81.552138,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "4f0df9e7-d4c1-45b5-93e2-4a7bc92547b0",
       "name": "American Heritage Gallery",
+      "shortName": "American Heritage Gallery",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "americanheritagegallery",
       "externalId": "26421;entityType=Attraction",
       "location": {
@@ -343,13 +554,22 @@
         "longitude": -81.549469,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "1e735ffb-4868-47f1-b2cd-2ac1156cd5f0",
       "name": "Remy's Ratatouille Adventure",
+      "shortName": "Remy's Adventure",
       "entityType": "ATTRACTION",
-      "attractionType": "Simulator",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Dark Ride",
       "slug": "remysratatouilleadventureopeningoctober12021",
       "externalId": "19497835;entityType=Attraction",
       "location": {
@@ -357,13 +577,22 @@
         "longitude": -81.553097,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 5
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "3d8f8f8f-f984-4d2e-8dea-5a79432bdf05",
       "name": "Advanced Training Lab",
+      "shortName": "Advanced Training Lab",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "advancedtraininglab",
       "externalId": "3831;entityType=Attraction",
       "location": {
@@ -371,13 +600,22 @@
         "longitude": -81.547072,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "66ff36de-9cb3-4d9a-b891-1665d19ffb3e",
       "name": "Stave Church Gallery",
+      "shortName": "Stave Church Gallery",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "stavechurchgallery",
       "externalId": "61525;entityType=Attraction",
       "location": {
@@ -385,13 +623,22 @@
         "longitude": -81.546971,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "57acb522-a6fc-4aa4-a80e-21f21f317250",
       "name": "Turtle Talk With Crush",
+      "shortName": "Turtle Talk with Crush",
       "entityType": "ATTRACTION",
-      "attractionType": "Theater Show",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "turtletalkwithcrush",
       "externalId": "62992;entityType=Attraction",
       "location": {
@@ -399,27 +646,45 @@
         "longitude": -81.551047,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "2ecc4fff-2994-476f-9926-24a4af173838",
       "name": "Bruce's Shark World",
+      "shortName": "Bruce's Shark World",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
       "slug": "brucessharkworld",
       "externalId": "56404;entityType=Attraction",
       "location": {
         "latitude": 28.375099,
-        "longitude": -81.551245451,
+        "longitude": -81.55124545,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 18,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "00666fe9-7774-4b53-9fb7-3d333f8aa503",
       "name": "Impressions de France",
+      "shortName": "Impressions de France",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "slug": "impressionsdefrance",
       "externalId": "80010145;entityType=Attraction",
       "location": {
@@ -427,12 +692,21 @@
         "longitude": -81.552978,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 6,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "75449e85-c410-4cef-a368-9d2ea5d52b58",
       "name": "Journey Into Imagination With Figment",
+      "shortName": "Journey Into Imagination",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Dark Ride",
       "slug": "journeyintoimaginationwithfigment",
       "externalId": "80010152;entityType=Attraction",
@@ -441,12 +715,21 @@
         "longitude": -81.551401,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 14,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "ee070d46-6a64-41c0-9f12-69dcfcca10a0",
       "name": "Reflections of China",
+      "shortName": "Reflections of China",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "reflectionsofchina",
       "externalId": "80010180;entityType=Attraction",
@@ -455,13 +738,22 @@
         "longitude": -81.546381,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 29,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "1f542745-cda1-4786-a536-5fff373e5964",
       "name": "The American Adventure",
+      "shortName": "The American Adventure",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "slug": "theamericanadventure",
       "externalId": "80010200;entityType=Attraction",
       "location": {
@@ -469,13 +761,22 @@
         "longitude": -81.549446,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "8f8746cb-c714-4c60-848d-e2dc4e6f586b",
       "name": "Mexico Folk Art Gallery",
+      "shortName": "Mexico Folk Art Gallery",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "mexicofolkartgallery",
       "externalId": "80069743;entityType=Attraction",
       "location": {
@@ -483,12 +784,21 @@
         "longitude": -81.54746,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "480fde8f-fe58-4bfb-b3ab-052a39d4db7c",
       "name": "Spaceship Earth",
+      "shortName": "Spaceship Earth",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Dark Ride",
       "slug": "spaceshipearth",
       "externalId": "80010191;entityType=Attraction",
@@ -497,13 +807,22 @@
         "longitude": -81.549401,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "37ae57c5-feaf-4e47-8f27-4b385be200f0",
       "name": "Test Track",
+      "shortName": "Test Track",
       "entityType": "ATTRACTION",
-      "attractionType": "Driving Ride",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
+      "attractionType": "Thrill Ride",
       "slug": "testtrack",
       "externalId": "80010199;entityType=Attraction",
       "location": {
@@ -511,12 +830,23 @@
         "longitude": -81.547489,
         "mapSpan": 0.005
       },
-      "minimumHeight": 40
+      "minimumHeight": 40,
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 5
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "5b7cf10a-763b-45ba-9049-87140270826f",
       "name": "La Hacienda de San Angel",
+      "shortName": "La Hacienda de San Angel",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "lahaciendadesanangel",
       "externalId": "15525573;entityType=restaurant",
       "location": {
@@ -524,13 +854,21 @@
         "longitude": -81.547532,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "3ace01d1-15fc-4fbb-99e4-81a696cb2d05",
       "name": "Kidcot Fun Stops",
+      "shortName": "Kidcot Fun Stops",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "kidcotfunstops",
       "externalId": "91245;entityType=Attraction",
       "location": {
@@ -538,12 +876,23 @@
         "longitude": -81.551537,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "b83b6dc9-9573-4e15-ab00-9ed8a2334770",
       "name": "Via Napoli Ristorante e Pizzeria",
+      "shortName": "Via Napoli",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "vianapoliristoranteepizzeria",
       "externalId": "15525574;entityType=restaurant",
       "location": {
@@ -551,25 +900,45 @@
         "longitude": -81.548192,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "f8b04aad-52bb-4641-b544-3d1292e00fb6",
       "name": "Katsura Grill",
+      "shortName": "Katsura Grill",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "katsuragrill",
       "externalId": "16300748;entityType=restaurant",
       "location": {
-        "latitude": 28.3675578748,
-        "longitude": -81.5504374159,
+        "latitude": 28.36755787,
+        "longitude": -81.55043742,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 60,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "dbf4a977-a7b5-41db-a9b7-ecad65f9aa0f",
       "name": "Spice Road Table",
+      "shortName": "Spice Road Table",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "spiceroadtable",
       "externalId": "17720675;entityType=restaurant",
       "location": {
@@ -577,12 +946,22 @@
         "longitude": -81.551645,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "e14e439d-d1aa-4f3a-90e9-60c524bd0b5a",
       "name": "Tutto Italia Ristorante",
+      "shortName": "Tutto Italia",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "tuttoitaliaristorante",
       "externalId": "220739;entityType=restaurant",
       "location": {
@@ -590,12 +969,22 @@
         "longitude": -81.548052,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "17d51899-7d6d-4cd7-93bb-4064a47d501b",
       "name": "Teppan Edo",
+      "shortName": "Teppan Edo",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "teppanedo",
       "externalId": "221625;entityType=restaurant",
       "location": {
@@ -603,12 +992,22 @@
         "longitude": -81.550701,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "48e7f9f2-ddc3-4ced-8d11-a5cd968085c2",
       "name": "Shiki-Sai: Sushi Izakaya",
+      "shortName": "Shiki-Sai",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "tokyodining",
       "externalId": "221626;entityType=restaurant",
       "location": {
@@ -616,12 +1015,22 @@
         "longitude": -81.550701,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 45,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "736b2e6c-daaf-45c4-ba9e-fb60d7cf92d6",
       "name": "La Cava del Tequila",
+      "shortName": "La Cava del Tequila",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "lacavadeltequila",
       "externalId": "348023;entityType=restaurant",
       "location": {
@@ -629,12 +1038,22 @@
         "longitude": -81.547299,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "c9e1d1f6-021f-43f2-a14b-3e67f65adbc4",
       "name": "Biergarten Restaurant",
+      "shortName": "Biergarten",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "biergartenrestaurant",
       "externalId": "90001292;entityType=restaurant",
       "location": {
@@ -642,12 +1061,22 @@
         "longitude": -81.546819,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "93843fb0-ee5a-49c6-91a8-40a042e93865",
       "name": "Monsieur Paul",
+      "shortName": "Monsieur Paul",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "monsieurpaul",
       "externalId": "90001296;entityType=restaurant",
       "location": {
@@ -655,12 +1084,22 @@
         "longitude": -81.55273,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "4807262a-ad16-4d43-a0d7-64b24603ef36",
       "name": "Chefs de France",
+      "shortName": "Chefs de France",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "chefsdefrance",
       "externalId": "90001373;entityType=restaurant",
       "location": {
@@ -668,12 +1107,22 @@
         "longitude": -81.552639,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "38892221-f69c-4913-97c9-7473c88854fa",
       "name": "Coral Reef Restaurant",
+      "shortName": "Coral Reef",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "coralreefrestaurant",
       "externalId": "90001416;entityType=restaurant",
       "location": {
@@ -681,12 +1130,22 @@
         "longitude": -81.550458,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "15c110ea-31aa-4043-bec8-820b9d4933da",
       "name": "La Cantina de San Angel",
+      "shortName": "La Cantina de San Angel",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "lacantinadesanangel",
       "externalId": "90001345;entityType=restaurant",
       "location": {
@@ -694,12 +1153,22 @@
         "longitude": -81.547817,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "3206e3a6-cbc3-4960-9700-163764bc47d6",
       "name": "Le Cellier Steakhouse",
+      "shortName": "Le Cellier",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "lecelliersteakhouse",
       "externalId": "90001798;entityType=restaurant",
       "location": {
@@ -707,12 +1176,22 @@
         "longitude": -81.551512,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "e8dccc86-cfb4-44c3-9a90-e95b88edbd21",
       "name": "Nine Dragons Restaurant",
+      "shortName": "Nine Dragons",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "ninedragonsrestaurant",
       "externalId": "90001985;entityType=restaurant",
       "location": {
@@ -720,12 +1199,22 @@
         "longitude": -81.546688,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 90,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "eb6a60d7-b354-47a1-a091-0beb11b24188",
       "name": "Akershus Royal Banquet Hall",
+      "shortName": "Akershus Royal Banquet",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": true,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "akershusroyalbanquethall",
       "externalId": "90002066;entityType=restaurant",
       "location": {
@@ -733,12 +1222,22 @@
         "longitude": -81.546785,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "54ef81f9-8aec-44ce-9918-b64c76c73bad",
       "name": "Lotus Blossom Café",
+      "shortName": "Lotus Blossom Cafe",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "lotusblossomcaf",
       "externalId": "90001829;entityType=restaurant",
       "location": {
@@ -746,12 +1245,22 @@
         "longitude": -81.546473,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "6ecdbfc8-85c2-436d-893b-6db0f437b74a",
       "name": "Rose & Crown Dining Room",
+      "shortName": "Rose & Crown Dining",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "rosecrowndiningroom",
       "externalId": "90002084;entityType=restaurant",
       "location": {
@@ -759,12 +1268,22 @@
         "longitude": -81.551684,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "07263f57-0431-4da2-a8b6-77d2965a6f83",
       "name": "San Angel Inn Restaurante",
+      "shortName": "San Angel Inn",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "sanangelinnrestaurante",
       "externalId": "90002100;entityType=restaurant",
       "location": {
@@ -772,12 +1291,22 @@
         "longitude": -81.547258,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "3f3ef6db-69de-418a-8861-f541309cdb01",
       "name": "Sommerfest",
+      "shortName": "Sommerfest",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "sommerfest",
       "externalId": "90002154;entityType=restaurant",
       "location": {
@@ -785,12 +1314,22 @@
         "longitude": -81.546902,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "91e9cda9-b39f-4a24-b63e-57bc1ba612f5",
       "name": "Rose & Crown Pub",
+      "shortName": "Rose & Crown Pub",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "rosecrownpub",
       "externalId": "90002086;entityType=restaurant",
       "location": {
@@ -798,12 +1337,22 @@
         "longitude": -81.551742,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 75,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "d4179c4c-eb08-4559-aa7c-f9802fda641b",
       "name": "Garden Grill Restaurant",
+      "shortName": "Garden Grill",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": true,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Table Service",
       "slug": "gardengrillrestaurant",
       "externalId": "90002237;entityType=restaurant",
       "location": {
@@ -811,12 +1360,22 @@
         "longitude": -81.552324,
         "mapSpan": 0.005
       },
-      "foodType": "Table Service"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "c63e29ac-f57f-4cd0-b998-799a2849dfa1",
       "name": "UK Beer Cart",
+      "shortName": "UK Beer Cart",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Snack",
       "slug": "ukbeercart",
       "externalId": "90002326;entityType=restaurant",
       "location": {
@@ -824,12 +1383,22 @@
         "longitude": -81.551648,
         "mapSpan": 0.005
       },
-      "foodType": "Snack"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "de29fd67-0997-41df-92d5-58eefdb692e6",
       "name": "Refreshment Port",
+      "shortName": "Refreshment Port",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Snack",
       "slug": "refreshmentport",
       "externalId": "90002672;entityType=restaurant",
       "location": {
@@ -837,12 +1406,22 @@
         "longitude": -81.550562,
         "mapSpan": 0.005
       },
-      "foodType": "Snack"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "1cf38b60-d075-495b-a92f-5a6a59d9e3db",
       "name": "Les Vins des Chefs de France",
+      "shortName": "Les Vins des Chefs",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "lesvinsdeschefsdefrance",
       "externalId": "90002394;entityType=restaurant",
       "location": {
@@ -850,51 +1429,86 @@
         "longitude": -81.552363,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "6e70f3fb-faab-41b1-8d26-b85d1c5cfa26",
       "name": "Entertainment at Canada Mill Stage",
+      "shortName": "Canada Mill Stage",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "entertainmentatcanadamillstage",
       "externalId": "19036653;entityType=Entertainment",
       "location": {
         "latitude": 28.371202,
         "longitude": -81.551509,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "83fed9d1-c25f-497c-ab8e-21e4dd7ce655",
       "name": "Sergio",
+      "shortName": "Sergio",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "sergio",
       "externalId": "80010873;entityType=Entertainment",
       "location": {
         "latitude": 28.367692,
         "longitude": -81.548249,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "001b099f-4db8-4843-8c1e-852e0e8fc2df",
       "name": "Viva Mexico",
+      "shortName": "Viva Mexico",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "vivamexico",
       "externalId": "209984;entityType=Entertainment",
       "location": {
         "latitude": 28.370993,
         "longitude": -81.547454,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "8f353879-d6ac-4211-9352-4029efb47c18",
       "name": "Living with the Land",
+      "shortName": "Living with the Land",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Boat Ride",
       "slug": "livingwiththeland",
       "externalId": "80010161;entityType=Attraction",
@@ -903,13 +1517,22 @@
         "longitude": -81.552301,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "7969166f-feef-4350-b26e-6a6c745528f4",
       "name": "SeaBase Aquarium",
+      "shortName": "SeaBase Aquarium",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "seabase",
       "externalId": "80010184;entityType=Attraction",
       "location": {
@@ -917,65 +1540,110 @@
         "longitude": -81.551211,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "85352291-58dd-4dd9-86d3-cba21cebb684",
       "name": "Karamell-Küche",
+      "shortName": "Karamell-Kuche",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Snack",
       "externalId": "19624456;entityType=restaurant",
       "location": {
         "latitude": 28.368364,
         "longitude": -81.546953,
         "mapSpan": 0.005
       },
-      "foodType": "Snack"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "0b543ab9-d6f2-4614-bc2c-c7c088d9a582",
       "name": "Crêpes À Emporter by La Crêperie de Paris",
+      "shortName": "Crepes A Emporter",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "externalId": "19633239;entityType=restaurant",
       "location": {
         "latitude": 28.368536,
         "longitude": -81.553597,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "c7444c22-4b35-4a9e-9cca-56ecc05376cc",
       "name": "Connections Eatery",
+      "shortName": "Connections Eatery",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "externalId": "19635791;entityType=restaurant",
       "location": {
-        "latitude": 28.3743400792775,
-        "longitude": -81.5484700507225,
+        "latitude": 28.37434008,
+        "longitude": -81.54847005,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "db1bb4b3-36ff-40d7-bc65-45667eeb8aed",
       "name": "Spice Road Table Bar",
+      "shortName": "Spice Road Table Bar",
       "entityType": "RESTAURANT",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "externalId": "412012969;entityType=restaurant",
       "location": {
         "latitude": 28.368468,
         "longitude": -81.551645,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "3e5f26ee-c02d-47fd-891e-5e4479073444",
       "name": "ImageWorks - The \"What If\" Labs",
+      "shortName": "ImageWorks",
       "entityType": "ATTRACTION",
-      "attractionType": "Walkthrough",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "imageworksthewhatiflabs",
       "externalId": "80010144;entityType=Attraction",
       "location": {
@@ -983,13 +1651,22 @@
         "longitude": -81.551121,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "07dbeaea-85fa-45f2-872f-02f9e7510419",
       "name": "Gallery of Arts and History",
+      "shortName": "Gallery of Arts & History",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "galleryofartsandhistory",
       "externalId": "80010137;entityType=Attraction",
       "location": {
@@ -997,13 +1674,22 @@
         "longitude": -81.551612,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "0f40274d-420a-425a-9377-29fd6e49484f",
       "name": "House of the Whispering Willows",
+      "shortName": "Whispering Willows",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "houseofthewhisperingwillows",
       "externalId": "160914;entityType=Attraction",
       "location": {
@@ -1011,13 +1697,22 @@
         "longitude": -81.546334,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "9053240b-7f7f-44fe-970b-bd7956cd5d4f",
       "name": "Project Tomorrow: Inventing the Wonders of the Future",
+      "shortName": "Project Tomorrow",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Interactive Experience",
       "slug": "projecttomorrowinventingthewondersofthefuture",
       "externalId": "220239;entityType=Attraction",
       "location": {
@@ -1025,26 +1720,43 @@
         "longitude": -81.549401,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "dae68dee-dfba-4128-b594-6aa12add1070",
       "name": "Journey of Water, Inspired by Moana",
+      "shortName": "Journey of Water",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
-      "slug": null,
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Walkthrough",
       "externalId": "411794307;entityType=Attraction",
       "location": {
         "latitude": 28.374691,
         "longitude": -81.550378,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "8c8cd77d-97f6-4309-b285-42aad90e9f15",
       "name": "Beauty and the Beast Sing-Along",
+      "shortName": "Beauty & Beast Sing-Along",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Theater Show",
       "slug": "beautyandthebeastsingalong",
       "externalId": "19463785;entityType=Attraction",
@@ -1053,13 +1765,22 @@
         "longitude": -81.552978,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "18c533d6-a395-4ae4-9488-80fce9c497fe",
       "name": "Palais du Cinéma",
+      "shortName": "Palais du Cinema",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "slug": "palaisducinma",
       "externalId": "19503896;entityType=Attraction",
       "location": {
@@ -1067,13 +1788,22 @@
         "longitude": -81.552978,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "6f1d3b25-42c9-4e99-9dce-6c20d7a5deea",
       "name": "Bijutsu-kan Gallery",
+      "shortName": "Bijutsu-kan Gallery",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Exhibit",
       "slug": "bijutsukangallery",
       "externalId": "80069745;entityType=Attraction",
       "location": {
@@ -1081,13 +1811,22 @@
         "longitude": -81.550525,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 12,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "61fb49f8-e62f-4e1c-ae0e-8ab9929037bc",
       "name": "Canada Far and Wide in Circle-Vision 360",
+      "shortName": "Canada Far and Wide",
       "entityType": "ATTRACTION",
-      "attractionType": "Attraction",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Theater Show",
       "slug": "canadafarandwideincirclevision360",
       "externalId": "80010174;entityType=Attraction",
       "location": {
@@ -1095,12 +1834,21 @@
         "longitude": -81.55196,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "81b15dfd-cf6a-466f-be59-3dd65d2a2807",
       "name": "Soarin' Around the World",
+      "shortName": "Soarin'",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Simulator",
       "slug": "soarinaroundtheworld",
       "externalId": "20194;entityType=Attraction",
@@ -1109,12 +1857,21 @@
         "longitude": -81.552248,
         "mapSpan": 0.005
       },
-      "minimumHeight": 40
+      "minimumHeight": 40,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 7
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "5b6475ad-4e9a-4793-b841-501aa382c9c0",
       "name": "Mission: SPACE",
+      "shortName": "Mission: SPACE",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Simulator",
       "slug": "missionspace",
       "externalId": "80010173;entityType=Attraction",
@@ -1123,26 +1880,43 @@
         "longitude": -81.547156,
         "mapSpan": 0.005
       },
-      "minimumHeight": 40
+      "minimumHeight": 40,
+      "recommendation": {
+        "experienceMinutes": 4,
+        "reliability": 8
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "e3549451-b284-453d-9c31-e3b1207abd79",
       "name": "Guardians of the Galaxy: Cosmic Rewind",
+      "shortName": "Cosmic Rewind",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": true,
       "attractionType": "Thrill Ride",
-      "slug": null,
       "externalId": "411499845;entityType=Attraction",
       "location": {
-        "latitude": 28.3749021961781,
-        "longitude": -81.5478397673417,
+        "latitude": 28.3749022,
+        "longitude": -81.54783977,
         "mapSpan": 0.005
       },
-      "minimumHeight": 42
+      "minimumHeight": 42,
+      "recommendation": {
+        "experienceMinutes": 7,
+        "reliability": 7
+      },
+      "hasLightningLane": true,
+      "hasAirConditioning": true
     },
     {
       "id": "22f48b73-01df-460e-8969-9eb2b4ae836c",
       "name": "Gran Fiesta Tour Starring The Three Caballeros",
+      "shortName": "Gran Fiesta Tour",
       "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
       "attractionType": "Boat Ride",
       "slug": "granfiestatourstarringthethreecaballeros",
       "externalId": "207395;entityType=Attraction",
@@ -1151,120 +1925,195 @@
         "longitude": -81.547368,
         "mapSpan": 0.005
       },
-      "minimumHeight": 0
+      "minimumHeight": 0,
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "33bd3bad-6803-4c5e-97ac-f7e31261a604",
       "name": "Meet Anna and Elsa at Royal Sommerhus",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Anna and Elsa",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
+      "attractionType": "Character Experience",
       "slug": "meetannaandelsaatroyalsommerhus",
       "externalId": "17564219;entityType=Entertainment",
       "location": {
         "latitude": 28.37097,
         "longitude": -81.547134,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "c5f6c7e4-d5cd-4d71-8e02-57d8bb43b3ba",
       "name": "Voices of Liberty",
+      "shortName": "Voices of Liberty",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "voicesofliberty",
       "externalId": "80010879;entityType=Entertainment",
       "location": {
         "latitude": 28.367595,
         "longitude": -81.549387,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "8e1a9a60-9311-4f79-b6a8-1b5172e4f7c9",
       "name": "Entertainment at Germany Gazebo",
+      "shortName": "Germany Gazebo",
       "entityType": "SHOW",
       "isCharacterSpot": false,
-      "slug": null,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "externalId": "19242311;entityType=Entertainment",
       "location": {
         "latitude": 28.368651,
         "longitude": -81.546584,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "76eadac1-cdfa-45e5-a25c-54ed4c3a604f",
       "name": "Marimba de las Américas",
+      "shortName": "Marimba de las Americas",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "marimbadelasamricas",
       "externalId": "19277873;entityType=Entertainment",
       "location": {
-        "latitude": 28.3711386241614,
-        "longitude": -81.5474807145541,
+        "latitude": 28.37113862,
+        "longitude": -81.54748071,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "99087d9a-4380-4ab6-b088-20816e233c6f",
       "name": "Meet Asha Near World Showcase Plaza",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Asha",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "412026226;entityType=Entertainment",
       "location": {
-        "latitude": 28.3718773852161,
-        "longitude": -81.5488533162313,
+        "latitude": 28.37187739,
+        "longitude": -81.54885332,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 15,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "296d164a-8b9a-49d3-a285-637b86731260",
       "name": "Matsuriza",
+      "shortName": "Matsuriza",
       "entityType": "SHOW",
       "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
       "slug": "matsuriza",
       "externalId": "80010865;entityType=Entertainment",
       "location": {
         "latitude": 28.36786,
         "longitude": -81.550389,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "2ebce841-be26-42e3-a552-393dc995cfe8",
       "name": "Meet Pluto Near EPCOT Main Entrance",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Meet Pluto",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "18416876;entityType=Entertainment",
       "location": {
         "latitude": 28.375567,
         "longitude": -81.549695,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "67612787-fbd3-44b7-869f-123f55d78584",
       "name": "Meet Beloved Disney Pals at Mickey & Friends",
-     "entityType": "SHOW",
-     "isCharacterSpot": true,
+      "shortName": "Mickey & Friends Pals",
+      "entityType": "SHOW",
+      "isCharacterSpot": true,
       "hasCastMemberPhotographer": true,
-      "slug": null,
+      "attractionType": "Character Experience",
       "externalId": "412126613;entityType=Entertainment",
       "location": {
         "latitude": 28.373898,
         "longitude": -81.549914,
         "mapSpan": 0.005
-      }
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 8
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "ce284609-9d86-444e-af5a-6c0adb68b0aa",
       "name": "Regal Eagle Smokehouse: Craft Drafts & Barbecue",
+      "shortName": "Regal Eagle Smokehouse",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "regaleaglesmokehousecraftdraftsbarbecue",
       "externalId": "90001809;entityType=restaurant",
       "location": {
@@ -1272,12 +2121,22 @@
         "longitude": -81.549003,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "683f3bb6-b62c-4246-b554-45fa79f5eced",
       "name": "Les Halles Boulangerie-Patisserie",
+      "shortName": "Les Halles",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "leshallesboulangeriepatisserie",
       "externalId": "90001328;entityType=restaurant",
       "location": {
@@ -1285,12 +2144,22 @@
         "longitude": -81.552905,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "419df435-6213-4d65-b0fc-8c0ad8379e11",
       "name": "Choza de Margarita",
+      "shortName": "Choza de Margarita",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "chozademargarita",
       "externalId": "18463740;entityType=restaurant",
       "location": {
@@ -1298,12 +2167,22 @@
         "longitude": -81.547713,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 10,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "25ec84ef-112f-424d-9fe0-5fc1fa9620a9",
       "name": "Block & Hans",
+      "shortName": "Block & Hans",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "blockhans",
       "externalId": "17561004;entityType=restaurant",
       "location": {
@@ -1311,12 +2190,22 @@
         "longitude": -81.549929,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 45,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     },
     {
       "id": "802b79b0-6491-434d-b4b5-145387d62172",
       "name": "Tutto Gusto Wine Cellar",
+      "shortName": "Tutto Gusto",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Lounge",
       "slug": "tuttogustowinecellar",
       "externalId": "16526362;entityType=restaurant",
       "location": {
@@ -1324,12 +2213,22 @@
         "longitude": -81.548144,
         "mapSpan": 0.005
       },
-      "foodType": "Lounge"
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": true
     },
     {
       "id": "67186665-6756-4c29-9010-6efc222b2d9b",
       "name": "Yorkshire County Fish Shop",
+      "shortName": "Yorkshire Fish Shop",
       "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "foodType": "Quick Service",
       "slug": "yorkshirecountyfishshop",
       "externalId": "90002416;entityType=restaurant",
       "location": {
@@ -1337,7 +2236,12 @@
         "longitude": -81.551772,
         "mapSpan": 0.005
       },
-      "foodType": "Quick Service"
+      "recommendation": {
+        "experienceMinutes": 5,
+        "reliability": 9
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
     }
   ]
 }
