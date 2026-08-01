@@ -1,0 +1,1388 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "267615cc-8943-4c2a-ae2c-5da728ca591f",
+    "name": "Universal Islands of Adventure",
+    "location": {
+      "latitude": 28.4717,
+      "longitude": -81.4719,
+      "mapSpan": 0.018
+    },
+    "liveDataFileName": "universalIslandsOfAdventure-live.json",
+    "includeNonLiveEntities": true
+  },
+  "entities": [
+    {
+      "id": "cc2f2601-09d2-43b8-83ef-2a367b929761",
+      "name": "Triwizard Spirit Rally",
+      "shortName": "Triwizard Spirit Rally",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.triwizard_spirit_rally",
+      "location": {
+        "latitude": 28.4725985,
+        "longitude": -81.473455,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "7ffc5e8a-647a-4de0-820e-4d2ade5a88d3",
+      "name": "Green Eggs and Ham™ Cafe",
+      "shortName": "Green Eggs and Ham™ Cafe",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.green_eggs_and_ham_cafe",
+      "location": {
+        "latitude": 28.472545,
+        "longitude": -81.469835,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "2f1e7a97-6cdb-470a-9433-ba8621c893f7",
+      "name": "Croissant Moon Bakery™",
+      "shortName": "Croissant Moon Bakery™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.dining.croissant_moon_bakery",
+      "location": {
+        "latitude": 28.4720401,
+        "longitude": -81.4691014,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "8aa94b3d-56e1-469a-90a1-6e4be1c92791",
+      "name": "Auntie Anne's",
+      "shortName": "Auntie Anne's",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.auntie_annes",
+      "location": {
+        "latitude": 28.470628,
+        "longitude": -81.470024,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "2f95b213-daaa-4370-8349-c2cd57be470e",
+      "name": "Doctor Doom's Fearfall®",
+      "shortName": "Doctor Doom's Fearfall®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.doctor_dooms_fearfall",
+      "location": {
+        "latitude": 28.470678,
+        "longitude": -81.469502,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "6be23178-7d00-4884-9e88-76787da1df86",
+      "name": "The Amazing Adventures of Spider-Man®",
+      "shortName": "The Amazing Adventures of Spider-Man®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.the_amazing_adventures_of_spider_man",
+      "location": {
+        "latitude": 28.4705456,
+        "longitude": -81.469852,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "3cb52134-e9d6-4212-83c8-3ce1321dcb05",
+      "name": "Caro-Seuss-el™",
+      "shortName": "Caro-Seuss-el™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.caro-seuss-el",
+      "location": {
+        "latitude": 28.472912845317136,
+        "longitude": -81.46954426939665,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "6af80308-647d-4d8b-bcf6-37517a93bdbc",
+      "name": "Harry Potter and the Forbidden Journey™",
+      "shortName": "Harry Potter and the Forbidden Journey™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.harry_potter_and_the_forbidden_journey",
+      "location": {
+        "latitude": 28.472265,
+        "longitude": -81.4735195,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b1e94e05-b360-4e3f-be8a-2a3744a97f97",
+      "name": "One Fish, Two Fish, Red Fish, Blue Fish™",
+      "shortName": "One Fish, Two Fish, Red Fish, Blue Fish™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.one_fish_two_fish_red_fish_blue_fish",
+      "location": {
+        "latitude": 28.47319743915079,
+        "longitude": -81.46935129242817,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "db5b2165-15c2-4e51-8bd1-611e9c351866",
+      "name": "Jurassic Park River Adventure",
+      "shortName": "Jurassic Park River Adventure",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.jurassic_park_river_adventure",
+      "location": {
+        "latitude": 28.470597,
+        "longitude": -81.473134,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "370ba4d1-f199-4dc2-be6d-6bb09b442891",
+      "name": "Skull Island: Reign of Kong™",
+      "shortName": "Skull Island: Reign of Kong™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.skull_island_reign_of_kong",
+      "location": {
+        "latitude": 28.469317,
+        "longitude": -81.473013,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "578bbd12-1975-4ec3-9879-ea641c780342",
+      "name": "Hagrid's Magical Creatures Motorbike Adventure™",
+      "shortName": "Hagrid's Magical Creatures Motorbike Adventure™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ioa.rides.hagrids_magical_motorcycle_adventure",
+      "location": {
+        "latitude": 28.47308,
+        "longitude": -81.472862,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b73e3256-9ee0-439e-9a3b-ffed287e10bb",
+      "name": "The High in the Sky Seuss Trolley Train Ride!™",
+      "shortName": "The High in the Sky Seuss Trolley Train Ride!™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Train Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.the_high_in_the_sky_seuss_trolley_train_ride_",
+      "location": {
+        "latitude": 28.473011,
+        "longitude": -81.470178,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "144450b9-4574-46be-abdf-4b1ca8974d9d",
+      "name": "Hogwarts Express™ - Hogsmeade™ Station",
+      "shortName": "Hogwarts Express™ - Hogsmeade™ Station",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Train Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.hogwarts_express_-_hogsmeade_station",
+      "location": {
+        "latitude": 28.47335422690903,
+        "longitude": -81.47246613265335,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "fa743143-281b-4b5b-b87b-d49fcb006772",
+      "name": "The Incredible Hulk Coaster®",
+      "shortName": "The Incredible Hulk Coaster®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ioa.rides.the_incredible_hulk_coaster",
+      "location": {
+        "latitude": 28.47119511093205,
+        "longitude": -81.46894554339816,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "391dea99-303d-42a1-aa86-a846d1c1fa1f",
+      "name": "If I Ran The Zoo™",
+      "shortName": "If I Ran The Zoo™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ioa.rides.if_i_ran_the_zoo",
+      "location": {
+        "latitude": 28.472643,
+        "longitude": -81.4696767,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b4445a1c-4d5c-4fca-a04a-f8867f1b6619",
+      "name": "Popeye & Bluto's Bilge-Rat Barges®",
+      "shortName": "Popeye & Bluto's Bilge-Rat Barges®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.popeye_blutos_bilge_rat_barges",
+      "location": {
+        "latitude": 28.470448,
+        "longitude": -81.471401,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "154b59b9-eb01-490d-b643-0b8b58da0611",
+      "name": "Confisco Grille™",
+      "shortName": "Confisco Grille™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.confisco_grille",
+      "location": {
+        "latitude": 28.471974,
+        "longitude": -81.469461,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "7863937e-bb65-408b-9652-c9700c923c9c",
+      "name": "Hog's Head™",
+      "shortName": "Hog's Head™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.hogs_head",
+      "location": {
+        "latitude": 28.472824,
+        "longitude": -81.472859,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "36afb7ad-1b9c-46a6-98a8-5b4ed0c865b0",
+      "name": "Mythos Restaurant™",
+      "shortName": "Mythos Restaurant™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.mythos_restaurant",
+      "location": {
+        "latitude": 28.472533,
+        "longitude": -81.4714996,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "905d7888-b866-4e74-90d1-07fc6ef6706f",
+      "name": "Dudley Do-Right's Ripsaw Falls®",
+      "shortName": "Dudley Do-Right's Ripsaw Falls®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ioa.rides.dudley_do_rights_ripsaw_falls",
+      "location": {
+        "latitude": 28.4695018,
+        "longitude": -81.4714998,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "2365495a-790b-4a41-831e-65592c8a4359",
+      "name": "The Cat in The Hat™",
+      "shortName": "The Cat in The Hat™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.the_cat_in_the_hat",
+      "location": {
+        "latitude": 28.472969,
+        "longitude": -81.46928,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "d7310719-f158-4d92-a476-13202c7162cd",
+      "name": "Ollivanders™ Experience in Hogsmeade™",
+      "shortName": "Ollivanders™ Experience in Hogsmeade™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.ollivanders",
+      "location": {
+        "latitude": 28.472809,
+        "longitude": -81.473077,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "23b613e0-ae83-455b-9163-231bdbd5c427",
+      "name": "Flight of the Hippogriff™",
+      "shortName": "Flight of the Hippogriff™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ioa.rides.flight_of_the_hippogriff",
+      "location": {
+        "latitude": 28.472416,
+        "longitude": -81.473636,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "f6dba1c6-6f5a-4743-8470-f741ecac555d",
+      "name": "Camp Jurassic™",
+      "shortName": "Camp Jurassic™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ioa.rides.camp_jurassic",
+      "location": {
+        "latitude": 28.470134,
+        "longitude": -81.4727356,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "351c2ef0-8ef9-49f8-9abe-ba8ea125ff58",
+      "name": "Blondie's: Home of the Dagwood",
+      "shortName": "Blondie's: Home of the Dagwood",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.blondies",
+      "location": {
+        "latitude": 28.470061,
+        "longitude": -81.471401,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "61079a31-4165-4fb0-b36f-c01c5971f80a",
+      "name": "Jurassic World VelociCoaster",
+      "shortName": "Jurassic World VelociCoaster",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ioa.rides.jurassic_world_velocicoaster",
+      "location": {
+        "latitude": 28.471429,
+        "longitude": -81.472284,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b694d5a5-155e-4796-af7e-5dbdcf3deba4",
+      "name": "Storm Force Accelatron®",
+      "shortName": "Storm Force Accelatron®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.storm_force_accelatron",
+      "location": {
+        "latitude": 28.471007,
+        "longitude": -81.468794,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "8babd50d-c570-423b-bd53-d040cad3e087",
+      "name": "Me Ship, The Olive®",
+      "shortName": "Me Ship, The Olive®",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.me_ship_the_olive",
+      "location": {
+        "latitude": 28.4709684,
+        "longitude": -81.4712606,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b0a7cb1c-1156-45b8-925e-7ade28343127",
+      "name": "Captain America Diner®",
+      "shortName": "Captain America Diner®",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.captain_america_diner",
+      "location": {
+        "latitude": 28.470733,
+        "longitude": -81.470259,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "a8b4b8ee-46b3-44f9-a416-bf3ec8217da2",
+      "name": "Cathy's Ice Cream",
+      "shortName": "Cathy's Ice Cream",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.cathys_ice_cream",
+      "location": {
+        "latitude": 28.4697612,
+        "longitude": -81.4712367,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "7d7d0062-2629-4b76-80df-422ffadca153",
+      "name": "Circus McGurkus Cafe Stoo-pendous™",
+      "shortName": "Circus McGurkus Cafe Stoo-pendous™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.circus_mcgurkus_cafe_stoo-pendous",
+      "location": {
+        "latitude": 28.473145,
+        "longitude": -81.469771,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "721e26e0-cc64-4333-95a4-8887c00c475f",
+      "name": "Circus McGurkus Cafe Stoo-pendous™ Pickup",
+      "shortName": "Circus McGurkus Cafe Stoo-pendous™ Pickup",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.circus_mcgurkus_cafe_stoo-pendous_pickup",
+      "location": {
+        "latitude": 28.473358391233557,
+        "longitude": -81.46952539304228,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c7eb11cb-410f-4de9-83d5-83708302e33c",
+      "name": "Hop on Pop™ Ice Cream Shop",
+      "shortName": "Hop on Pop™ Ice Cream Shop",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.hop_on_pop_ice_cream_shop",
+      "location": {
+        "latitude": 28.47299,
+        "longitude": -81.470028,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "48438696-3bfa-4176-a770-74f7fd91528a",
+      "name": "Moose Juice, Goose Juice",
+      "shortName": "Moose Juice, Goose Juice",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.moose_juice_goose_juice",
+      "location": {
+        "latitude": 28.472753,
+        "longitude": -81.470496,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "eae7190b-d78e-4ec3-b012-6ee14d32d6ad",
+      "name": "Pizza Predattoria™",
+      "shortName": "Pizza Predattoria™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.pizza_predattoria",
+      "location": {
+        "latitude": 28.471166,
+        "longitude": -81.473317,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "b790a0b3-0b2e-4983-95c2-c84b6852e46c",
+      "name": "Starbucks® Coffee",
+      "shortName": "Starbucks® Coffee",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.starbucks",
+      "location": {
+        "latitude": 28.471823,
+        "longitude": -81.469326,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "97b25fe9-eb81-46bd-b57f-8b2fbbe85249",
+      "name": "Frog Choir",
+      "shortName": "Frog Choir",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.frog_choir",
+      "location": {
+        "latitude": 28.472635,
+        "longitude": -81.473392,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "fa63f462-74b4-4b1e-96fe-0b6e7e0b31c2",
+      "name": "Hogwarts™ Always",
+      "shortName": "Hogwarts™ Always",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.hogwartsalways",
+      "location": {
+        "latitude": 28.47231,
+        "longitude": -81.47375,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "9ad98d6a-e81a-4408-b5df-1ea832fe0b19",
+      "name": "Oh! The Stories You'll Hear!™",
+      "shortName": "Oh! The Stories You'll Hear!™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.oh_.the.stories.youll.hear_",
+      "location": {
+        "latitude": 28.473174,
+        "longitude": -81.469966,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "467363b2-a1d0-448b-af21-ac7fc1038f9e",
+      "name": "Comic Strip Cafe",
+      "shortName": "Comic Strip Cafe",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.dining.comic_strip_cafe",
+      "location": {
+        "latitude": 28.46969,
+        "longitude": -81.471119,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "7321a68a-e61a-4ba5-b301-a12e5a4901ef",
+      "name": "Cafe 4™",
+      "shortName": "Cafe 4™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.cafe_4",
+      "location": {
+        "latitude": 28.471037357324597,
+        "longitude": -81.46942591606165,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "57ff5ef3-c836-4ab5-b616-e8b01a7668ec",
+      "name": "Ale to the Chief",
+      "shortName": "Ale to the Chief",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.ale_to_the_chief",
+      "location": {
+        "latitude": 28.469997554124934,
+        "longitude": -81.47178531220851,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "aedb72d4-fbea-4f60-81a8-e2437c53d1f0",
+      "name": "Bone Chillin' Beverages",
+      "shortName": "Bone Chillin' Beverages",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.bone_chillin_beverages",
+      "location": {
+        "latitude": 28.46995,
+        "longitude": -81.47325,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "70da910d-3844-468b-bcb2-57d40d8ac13a",
+      "name": "Chillin' Charlie's Lemon Slush",
+      "shortName": "Chillin' Charlie's Lemon Slush",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.chillin_charlies_lemon_slush",
+      "location": {
+        "latitude": 28.47221,
+        "longitude": -81.46962,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "0b291e49-68d4-49e2-b8d7-a8b68adc144c",
+      "name": "Cinnabon®",
+      "shortName": "Cinnabon®",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.cinnabon",
+      "location": {
+        "latitude": 28.471718,
+        "longitude": -81.469384,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "5e2e3353-bcef-4ca9-8169-731c458a89d6",
+      "name": "Fire Eater's Grill™",
+      "shortName": "Fire Eater's Grill™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.fire_eaters_grill",
+      "location": {
+        "latitude": 28.472936,
+        "longitude": -81.471804,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "42befc7c-2593-4ac7-bc8d-c30dff45ba62",
+      "name": "Super Hero Cotton Candy",
+      "shortName": "Super Hero Cotton Candy",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.super_hero_cotton_candy",
+      "location": {
+        "latitude": 28.47114,
+        "longitude": -81.46976,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "8ce0157c-fbf6-4676-8a0c-ec49dd98fa64",
+      "name": "The Burger Digs™",
+      "shortName": "The Burger Digs™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.the_burger_digs",
+      "location": {
+        "latitude": 28.471482,
+        "longitude": -81.472866,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "ec8dca53-2e8a-4cc5-bc10-17e456659e8a",
+      "name": "The Watering Hole™",
+      "shortName": "The Watering Hole™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.the_watering_hole",
+      "location": {
+        "latitude": 28.472056,
+        "longitude": -81.473091,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "45a7c5ea-903c-4612-b00a-31df6ab799cd",
+      "name": "Thunder Falls Terrace™",
+      "shortName": "Thunder Falls Terrace™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.thunder_falls_terrace",
+      "location": {
+        "latitude": 28.469803,
+        "longitude": -81.473354,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "453384c5-7d2b-49ce-a0f1-1e1984735340",
+      "name": "Wimpy's",
+      "shortName": "Wimpy's",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.wimpys",
+      "location": {
+        "latitude": 28.470426,
+        "longitude": -81.471267,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c19ff123-d06f-420b-ac38-6e96ccbc3d28",
+      "name": "Three Broomsticks™",
+      "shortName": "Three Broomsticks™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dinings.three_broomsticks",
+      "location": {
+        "latitude": 28.472888,
+        "longitude": -81.472737,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "3daca54f-50f0-44e9-a993-d706ce7520a0",
+      "name": "Pteranodon Flyers",
+      "shortName": "Pteranodon Flyers",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ioa.rides.pteranodon_flyers",
+      "location": {
+        "latitude": 28.470164,
+        "longitude": -81.472939,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c6c26dd9-bb82-49de-9fca-9245be6a8081",
+      "name": "Meet Spider-Man and the Marvel® Super Heroes",
+      "shortName": "Meet Spider-Man and the Marvel® Super Heroes",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.meet_spider_man_and_the_marvel_super_heroes",
+      "location": {
+        "latitude": 28.470814,
+        "longitude": -81.46975,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "f6d4294c-8825-4712-a891-36d45b5eb0f4",
+      "name": "Seuss Character Zone",
+      "shortName": "Seuss Character Zone",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.seuss_character_zone",
+      "location": {
+        "latitude": 28.473045,
+        "longitude": -81.47006,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "28f411b9-dacc-47b1-9596-bd1383ce730d",
+      "name": "Raptor Encounter",
+      "shortName": "Raptor Encounter",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.raptor_encounter",
+      "location": {
+        "latitude": 28.47096275899029,
+        "longitude": -81.47335915429483,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "ea72aa9c-3d89-4593-9fe8-ff25c88289a8",
+      "name": "Classic Comic Book Characters",
+      "shortName": "Classic Comic Book Characters",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ioa.shows.classic_comic_book_characters",
+      "location": {
+        "latitude": 28.46989,
+        "longitude": -81.47104,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c5064dab-fff2-4e79-bf33-618f725e8d97",
+      "name": "Marvel Character Dinner",
+      "shortName": "Marvel Character Dinner",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.marvel_character_dinner",
+      "location": {
+        "latitude": 28.470994640065634,
+        "longitude": -81.46952135651195,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "50c3bfa1-600d-4d3c-83b6-868de08abb7d",
+      "name": "Backwater Bar",
+      "shortName": "Backwater Bar",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ioa.dining.backwater_bar",
+      "location": {
+        "latitude": 28.472100442084194,
+        "longitude": -81.46948197521992,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "22dcd29e-d76a-45cd-b44a-dd6350dc3f8a",
+      "name": "Jurassic Park Discovery Center",
+      "shortName": "Jurassic Park Discovery Center",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ioa.rides.jurassic_park_discovery_center",
+      "location": {
+        "latitude": 28.47156,
+        "longitude": -81.47265,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    }
+  ]
+}

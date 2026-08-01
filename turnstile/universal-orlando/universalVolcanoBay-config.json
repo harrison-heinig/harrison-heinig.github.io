@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "fe78a026-b91b-470c-b906-9d2266b692da",
+    "name": "Universal Volcano Bay",
+    "location": {
+      "latitude": 28.4617,
+      "longitude": -81.5283,
+      "mapSpan": 0.018
+    },
+    "liveDataFileName": "universalVolcanoBay-live.json",
+    "includeNonLiveEntities": true
+  },
+  "entities": [
+    {
+      "id": "89f2586a-328a-413e-802f-307260d9ce37",
+      "name": "Honu of Honu ika Moana™",
+      "shortName": "Honu of Honu ika Moana™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.honu_of_honu_ika_moana",
+      "location": {
+        "latitude": 28.462759,
+        "longitude": -81.474116,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "3a3c8fe9-7895-4c56-89c9-aac6d923356d",
+      "name": "Puka Uli Lagoon™",
+      "shortName": "Puka Uli Lagoon™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.puka_uli_lagoon",
+      "location": {
+        "latitude": 28.4611,
+        "longitude": -81.4723,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "26541d09-3004-4d9c-9aee-58a7aea98c1c",
+      "name": "Tot Tiki Reef™",
+      "shortName": "Tot Tiki Reef™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.tot_tiki_reef",
+      "location": {
+        "latitude": 28.461985739866225,
+        "longitude": -81.47371394375551,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "6fd38007-60d4-44cd-802c-13c3e9376267",
+      "name": "Punga Racers™",
+      "shortName": "Punga Racers™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.punga_racers",
+      "location": {
+        "latitude": 28.461150125204625,
+        "longitude": -81.47331817527278,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "5f1005d2-410d-433e-93ec-c8a6a37f4d34",
+      "name": "The Reef",
+      "shortName": "The Reef",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.the_reef",
+      "location": {
+        "latitude": 28.462074179901812,
+        "longitude": -81.4731440057959,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "74fde289-fcc3-47dc-ad9b-395efb04e89e",
+      "name": "ika Moana of Honu ika Moana™",
+      "shortName": "ika Moana of Honu ika Moana™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.ika_moana_of_honu_ika_moana",
+      "location": {
+        "latitude": 28.462809,
+        "longitude": -81.474123,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c1cdeb80-67e3-4b75-b057-440004c8f499",
+      "name": "Krakatau™ Aqua Coaster",
+      "shortName": "Krakatau™ Aqua Coaster",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.krakatau_aqua_coaster",
+      "location": {
+        "latitude": 28.461300659000177,
+        "longitude": -81.47393666675723,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b2a614e0-a40c-4f46-85f9-c0556086f6a8",
+      "name": "Ko'okiri Body Plunge™",
+      "shortName": "Ko'okiri Body Plunge™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.kookiri_body_plunge",
+      "location": {
+        "latitude": 28.46168296652395,
+        "longitude": -81.47320425976075,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "10da7e41-bdcb-4aec-979d-058325565cc5",
+      "name": "Ohyah of the Ohyah and Ohno Drop Slides™",
+      "shortName": "Ohyah of the Ohyah and Ohno Drop Slides™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.ohyah_of_the_ohyah_and_ohno_drop_slides",
+      "location": {
+        "latitude": 28.46123412013467,
+        "longitude": -81.47242079527904,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "12f59f8b-b684-430e-b5f2-2ebee0e03335",
+      "name": "Ohno of the Ohyah and Ohno Drop Slides™",
+      "shortName": "Ohno of the Ohyah and Ohno Drop Slides™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.ohno_of_the_ohyah_and_ohno_drop_slides",
+      "location": {
+        "latitude": 28.461208322929966,
+        "longitude": -81.47256231705714,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "3c1498f0-69d2-4f19-b585-ea050f85c844",
+      "name": "Maku of Maku Puihi Round Raft Rides™",
+      "shortName": "Maku of Maku Puihi Round Raft Rides™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.maku_of_maku_puihi_round_raft_rides",
+      "location": {
+        "latitude": 28.460053,
+        "longitude": -81.47398,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "b7ec0e94-e2bf-40b6-9c7a-a5dee143efdc",
+      "name": "TeAwa The Fearless River™",
+      "shortName": "TeAwa The Fearless River™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.teawa_the_fearless_river",
+      "location": {
+        "latitude": 28.460524,
+        "longitude": -81.474055,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "7f6b4ceb-8129-43ea-b1b4-dab5b9edcf66",
+      "name": "Puihi of Maku Puihi Round Raft Rides™",
+      "shortName": "Puihi of Maku Puihi Round Raft Rides™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.puihi_of_maku_puihi_round_raft_rides",
+      "location": {
+        "latitude": 28.460186,
+        "longitude": -81.473929,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "09e16a0e-80d8-4569-929f-90252bd724cb",
+      "name": "Waturi Beach",
+      "shortName": "Waturi Beach",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.waturi_beach",
+      "location": {
+        "latitude": 28.462105,
+        "longitude": -81.472014,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c641eebb-baa6-4573-b110-0edd752bbc7a",
+      "name": "Runamukka Reef™",
+      "shortName": "Runamukka Reef™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.runamukka_reef",
+      "location": {
+        "latitude": 28.461781,
+        "longitude": -81.473714,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "775b87f4-b859-405e-becb-af6ef3e9255a",
+      "name": "Waturi Beach Bash",
+      "shortName": "Waturi Beach Bash",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.vb.events.waturi_beach_bash",
+      "location": {
+        "latitude": 28.462264,
+        "longitude": -81.472866,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "89e100cf-b0a5-402a-9c9c-00fa6996a5df",
+      "name": "Bambu",
+      "shortName": "Bambu",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.bambu",
+      "location": {
+        "latitude": 28.460584,
+        "longitude": -81.473193,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "e4a1b677-9067-4c98-aabb-ce70b560e06a",
+      "name": "Kohola Reef Restaurant & Social Club™",
+      "shortName": "Kohola Reef Restaurant & Social Club™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.kohola_reef_restaurant",
+      "location": {
+        "latitude": 28.462664,
+        "longitude": -81.472436,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "8bab113e-bd98-4484-8287-d38ec4729534",
+      "name": "Kunuku Boat Bar",
+      "shortName": "Kunuku Boat Bar",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.kunuku_boat_bar",
+      "location": {
+        "latitude": 28.460971,
+        "longitude": -81.473772,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "27891f28-4b9c-482b-8d43-7392dea8dd42",
+      "name": "Volcano Bay Premium Seating",
+      "shortName": "Volcano Bay Premium Seating",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.premium_seating",
+      "location": {
+        "latitude": 28.462308,
+        "longitude": -81.472579,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "ad3bab45-3a33-49ac-affc-bef4b79e6528",
+      "name": "The Feasting Frog™",
+      "shortName": "The Feasting Frog™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.the_feasting_frog",
+      "location": {
+        "latitude": 28.46076,
+        "longitude": -81.473781,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "db53e3a2-fe1c-46ae-a6ad-89bd17e035e8",
+      "name": "Dancing Dragons Boat Bar",
+      "shortName": "Dancing Dragons Boat Bar",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.dancing_dragons_boat_bar",
+      "location": {
+        "latitude": 28.462623,
+        "longitude": -81.472999,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "437a5966-6597-404f-93cb-0cd233696a80",
+      "name": "Whakawaiwai Eats",
+      "shortName": "Whakawaiwai Eats",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.vb.dining.whakawaiwai_eats",
+      "location": {
+        "latitude": 28.461401,
+        "longitude": -81.47431,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "3e26ef97-0ef4-49b5-8202-da7f5d1e7909",
+      "name": "Taniwha Tubes™",
+      "shortName": "Taniwha Tubes™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.taniwha_tubes",
+      "location": {
+        "latitude": 28.4609955,
+        "longitude": -81.4741443,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "4eb17ae5-c47c-4ad2-97f3-189e56fa6d52",
+      "name": "Kala & Tai Nui Serpentine Body Slides™",
+      "shortName": "Kala & Tai Nui Serpentine Body Slides™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.kala_and_tai_nui_serpentine_body_slides",
+      "location": {
+        "latitude": 28.46142750459437,
+        "longitude": -81.47262532915941,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "9855e94c-7ccb-40a6-a1de-5de82699e1dd",
+      "name": "Kopiko Wai Winding River™",
+      "shortName": "Kopiko Wai Winding River™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Water Ride",
+      "slug": null,
+      "externalId": "uor.vb.rides.kopiko_wai_winding_river",
+      "location": {
+        "latitude": 28.461933726732365,
+        "longitude": -81.4734767741257,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    }
+  ]
+}

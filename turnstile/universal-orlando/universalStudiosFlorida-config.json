@@ -1,0 +1,1883 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "eb3f4560-2383-4a36-9152-6b3e5ed6bc57",
+    "name": "Universal Studios Florida",
+    "location": {
+      "latitude": 28.4756,
+      "longitude": -81.4687,
+      "mapSpan": 0.018
+    },
+    "liveDataFileName": "universalStudiosFlorida-live.json",
+    "includeNonLiveEntities": true
+  },
+  "entities": [
+    {
+      "id": "2436bad1-f319-44d5-98ac-a283b81956c6",
+      "name": "The Bourne Stuntacular",
+      "shortName": "The Bourne Stuntacular",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.the_bourne_stuntacular",
+      "location": {
+        "latitude": 28.475976,
+        "longitude": -81.466979,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "9416a7f6-53a3-4214-9fd6-2e6b62bcdda2",
+      "name": "Knight Bus™",
+      "shortName": "Knight Bus™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.knight_bus",
+      "location": {
+        "latitude": 28.479407,
+        "longitude": -81.469107,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "079c0df0-7305-4f61-ab0e-c7725f4fe1b6",
+      "name": "Animal Actors on Location!™",
+      "shortName": "Animal Actors on Location!™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.animal_actors_on_location",
+      "location": {
+        "latitude": 28.478321,
+        "longitude": -81.46791,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "ec4c8603-5ccd-4af2-a7b1-0684664c0bc1",
+      "name": "The Tales of Beedle the Bard",
+      "shortName": "The Tales of Beedle the Bard",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.thetalesofbeedlethebard",
+      "location": {
+        "latitude": 28.479921,
+        "longitude": -81.469499,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "96e71193-49f0-40b2-9bba-644e530d8115",
+      "name": "Kang & Kodos' Twirl 'n' Hurl",
+      "shortName": "Kang & Kodos' Twirl 'n' Hurl",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.kang_and_kodos_twirl_n_hurl",
+      "location": {
+        "latitude": 28.479352,
+        "longitude": -81.467877,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "91cae293-64f8-48b6-88ec-02dcfcdd1f91",
+      "name": "MEN IN BLACK™ Alien Attack!™",
+      "shortName": "MEN IN BLACK™ Alien Attack!™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.men_in_black_alien_attack",
+      "location": {
+        "latitude": 28.480441,
+        "longitude": -81.468043,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "7e70bc9e-7dce-4dd2-8823-57b8d6ec7570",
+      "name": "The Simpsons Ride™",
+      "shortName": "The Simpsons Ride™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.the_simpsons_ride",
+      "location": {
+        "latitude": 28.479604,
+        "longitude": -81.467788,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "1e16afdd-15e3-4e4a-b3af-8aeebd7534f8",
+      "name": "E.T. Adventure™",
+      "shortName": "E.T. Adventure™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.e.t._adventure",
+      "location": {
+        "latitude": 28.4779505,
+        "longitude": -81.4670917,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "625a3cc3-7d7e-468b-96fe-1ec00df7b739",
+      "name": "Race Through New York Starring Jimmy Fallon™",
+      "shortName": "Race Through New York Starring Jimmy Fallon™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.race_through_new_york_starring_jimmy_fallon",
+      "location": {
+        "latitude": 28.475881,
+        "longitude": -81.469363,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "ad77757d-0660-48ee-972a-031d555b71ee",
+      "name": "Finnegan's Bar and Grill™",
+      "shortName": "Finnegan's Bar and Grill™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.finnegans_bar_and_grill",
+      "location": {
+        "latitude": 28.47666,
+        "longitude": -81.46916,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f0750e5e-7629-4c53-99d2-e0924a8afeed",
+      "name": "Hogwarts Express™ - King's Cross Station",
+      "shortName": "Hogwarts Express™ - King's Cross Station",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Train Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.hogwarts_express_-_kings_cross_station",
+      "location": {
+        "latitude": 28.479079,
+        "longitude": -81.46944,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "ec25d9a7-b4d4-4ebf-a6c4-c18389351764",
+      "name": "Revenge of the Mummy™",
+      "shortName": "Revenge of the Mummy™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.revenge_of_the_mummy",
+      "location": {
+        "latitude": 28.4766,
+        "longitude": -81.46954,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "6a3ffac7-bef4-4a22-8ba6-f2963aac7f70",
+      "name": "Fast & Furious - Supercharged™",
+      "shortName": "Fast & Furious - Supercharged™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.fast_and_furious_-_supercharged",
+      "location": {
+        "latitude": 28.477888,
+        "longitude": -81.469458,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "70ac72a3-9675-4c41-a1b1-e4801072927a",
+      "name": "Harry Potter and the Escape from Gringotts™",
+      "shortName": "Harry Potter and the Escape from Gringotts™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.harry_potter_and_the_escape_from_gringotts",
+      "location": {
+        "latitude": 28.479719,
+        "longitude": -81.469922,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "1cf7e8a5-6611-44a9-acf1-fbff7a835056",
+      "name": "Universal Orlando's Horror Make-Up Show™",
+      "shortName": "Universal Orlando's Horror Make-Up Show™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.horrormakeupshow",
+      "location": {
+        "latitude": 28.47684,
+        "longitude": -81.46732,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "e99b72a6-37d0-46df-ab11-e9ff6603f259",
+      "name": "Ollivanders™ Experience in Diagon Alley™",
+      "shortName": "Ollivanders™ Experience in Diagon Alley™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.ollivanders",
+      "location": {
+        "latitude": 28.47964,
+        "longitude": -81.46973,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "a492aa01-6f29-43f0-9aec-8adcb8da4674",
+      "name": "Meet The TRANSFORMERS™",
+      "shortName": "Meet The TRANSFORMERS™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.meet_the_transformers",
+      "location": {
+        "latitude": 28.476183,
+        "longitude": -81.468079,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "55222885-493c-4280-b295-6fd7c609f12d",
+      "name": "Hollywood Character Zone",
+      "shortName": "Hollywood Character Zone",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.hollywood_character_zone",
+      "location": {
+        "latitude": 28.475461,
+        "longitude": -81.467616,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "cfa3227c-259d-40ff-93b3-edc9efc3ebca",
+      "name": "Lombard's Seafood Grille™",
+      "shortName": "Lombard's Seafood Grille™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.lombards_seafood_grille",
+      "location": {
+        "latitude": 28.478761,
+        "longitude": -81.469118,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "2122adff-52a3-49ca-9d20-5a6faafc8c77",
+      "name": "Hogwarts™ Express - Last Train",
+      "shortName": "Hogwarts™ Express - Last Train",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.hogwarts_express_last_train",
+      "location": {
+        "latitude": 28.475957,
+        "longitude": -81.47126,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "703771a5-04fc-4e37-8cde-1c0e8329238a",
+      "name": "King Harold’s Swamp Symphony",
+      "shortName": "King Harold’s Swamp Symphony",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.usf.show.king_harolds_swamp_symphony",
+      "location": {
+        "latitude": 28.47828,
+        "longitude": -81.46692,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "95902d20-daf8-4ea3-bfc1-ed006d815cc3",
+      "name": "Mama Luna Feline Fiesta",
+      "shortName": "Mama Luna Feline Fiesta",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.usf.show.mama.luna.feline.fiesta",
+      "location": {
+        "latitude": 28.4785666,
+        "longitude": -81.4668771,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "2cc09dfe-3c19-4cbe-8480-11ab00122c51",
+      "name": "Po’s Kung Fu Training Camp",
+      "shortName": "Po’s Kung Fu Training Camp",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.usf.show.pos_kung_fu_training_camp",
+      "location": {
+        "latitude": 28.4786329,
+        "longitude": -81.4662108,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "36f026c7-c9b4-4ccf-9a04-6afac3509d34",
+      "name": "Poppy’s Playground",
+      "shortName": "Poppy’s Playground",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.usf.show.poppys_playground",
+      "location": {
+        "latitude": 28.4786612,
+        "longitude": -81.466514,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "e0458a57-04cc-4de7-a79d-556bd8488dd6",
+      "name": "Summer Music Series",
+      "shortName": "Summer Music Series",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.events.summer.summer.music.series",
+      "location": {
+        "latitude": 28.473249,
+        "longitude": -81.466176,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "98eff124-c645-4451-b723-7456d45faaeb",
+      "name": "Po Live!",
+      "shortName": "Po Live!",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.show.po-live",
+      "location": {
+        "latitude": 28.4788418,
+        "longitude": -81.4657229,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "2f4690b4-72b0-4845-bcce-9e735397d60b",
+      "name": "The Blues Brothers® Show",
+      "shortName": "The Blues Brothers® Show",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.blues_brothers",
+      "location": {
+        "latitude": 28.47684,
+        "longitude": -81.46916,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "1524b67b-4984-4a80-9d9f-753b8482c6f0",
+      "name": "Celestina Warbeck and the Banshees",
+      "shortName": "Celestina Warbeck and the Banshees",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.celestina_warbeck_and_the_banshees",
+      "location": {
+        "latitude": 28.479902,
+        "longitude": -81.469456,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "bf89766b-1d19-428f-9e68-71e12f25287b",
+      "name": "Marilyn and the Diamond Bellas",
+      "shortName": "Marilyn and the Diamond Bellas",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.marilyn_and_the_diamond_bellas",
+      "location": {
+        "latitude": 28.476759192506524,
+        "longitude": -81.46773453566455,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "335480e2-3110-4e40-b7e0-5f078fedd7af",
+      "name": "Universal Mega Movie Parade",
+      "shortName": "Universal Mega Movie Parade",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.universalmegamovieparade",
+      "location": {
+        "latitude": 28.47713,
+        "longitude": -81.46699,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "fa701040-b46a-4291-afb9-b8dc2c8e9a16",
+      "name": "¡Vamos! – Báilalo",
+      "shortName": "¡Vamos! – Báilalo",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.vamos_bailalo",
+      "location": {
+        "latitude": 28.477172,
+        "longitude": -81.469199,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "41d282f8-2015-4caa-9591-9faa948e263e",
+      "name": "Beat Builders",
+      "shortName": "Beat Builders",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.beat_builders",
+      "location": {
+        "latitude": 28.477544,
+        "longitude": -81.46916,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "5c5dec98-962b-4808-ac6d-09feb283b771",
+      "name": "CineSational: A Symphonic Spectacular",
+      "shortName": "CineSational: A Symphonic Spectacular",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.cinesationalasymphonicspectacular",
+      "location": {
+        "latitude": 28.47713,
+        "longitude": -81.46824,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "37c2afe6-c598-4077-9c20-30f5af685937",
+      "name": "Richter's Burger Co.™",
+      "shortName": "Richter's Burger Co.™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uo.usf.dining.richters_burger_co.",
+      "location": {
+        "latitude": 28.4780931,
+        "longitude": -81.469118,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f9e9ad37-3a5a-4619-b75c-2d01bf067795",
+      "name": "Auntie Anne's",
+      "shortName": "Auntie Anne's",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.auntie_annes",
+      "location": {
+        "latitude": 28.476867,
+        "longitude": -81.469244,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "8fa8c820-dba1-453e-8f8f-51e72b5dedbb",
+      "name": "Avenue Eats",
+      "shortName": "Avenue Eats",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.avenue_eats",
+      "location": {
+        "latitude": 28.47637,
+        "longitude": -81.46934,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "caa64d85-21a3-4547-a1fb-77ae73dc3f67",
+      "name": "DreamWorks Imagination Café",
+      "shortName": "DreamWorks Imagination Café",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.dreamworks.imagination.cafe",
+      "location": {
+        "latitude": 28.477785298395165,
+        "longitude": -81.46738569578051,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "858aa5cd-0b09-4c9f-ba41-970450415ec6",
+      "name": "Flaming Moe's",
+      "shortName": "Flaming Moe's",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.flaming_moes",
+      "location": {
+        "latitude": 28.4787754,
+        "longitude": -81.4678894,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "0666c2aa-ac92-46f2-adda-2cbdf1381a8f",
+      "name": "Florean Fortescue’s Ice-Cream Parlour",
+      "shortName": "Florean Fortescue’s Ice-Cream Parlour",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.florean_fortescues_ice_cream_parlour",
+      "location": {
+        "latitude": 28.479613,
+        "longitude": -81.469838,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c5a26666-f933-4166-acf8-311a6eb5be17",
+      "name": "Duff Brewery",
+      "shortName": "Duff Brewery",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.duff_brewery",
+      "location": {
+        "latitude": 28.478957455803876,
+        "longitude": -81.46819598498361,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "cebfe23a-e842-4795-b9b3-a920fe4073bd",
+      "name": "Fast Food Boulevard",
+      "shortName": "Fast Food Boulevard",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.fast_food_boulevard",
+      "location": {
+        "latitude": 28.478805626866453,
+        "longitude": -81.46777059706855,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "fcc78e23-f8b5-4007-aedf-17264d8ffd48",
+      "name": "Mel's Drive-In™",
+      "shortName": "Mel's Drive-In™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.mels_drive-in",
+      "location": {
+        "latitude": 28.47675,
+        "longitude": -81.46777,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "66249592-1cfa-429d-a862-bbe4b83e1ba8",
+      "name": "Starbucks® Coffee",
+      "shortName": "Starbucks® Coffee",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.starbucks",
+      "location": {
+        "latitude": 28.4772028,
+        "longitude": -81.4690265,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "b21b12a9-204d-442c-80b7-5384de186262",
+      "name": "Swamp Snacks",
+      "shortName": "Swamp Snacks",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.swamp_snacks",
+      "location": {
+        "latitude": 28.4781786,
+        "longitude": -81.4670725,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "981be57c-d57c-476c-a1f4-2ce732623296",
+      "name": "Bumblebee Man's Taco Truck",
+      "shortName": "Bumblebee Man's Taco Truck",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.bumblebee_mans_taco_truck",
+      "location": {
+        "latitude": 28.47861,
+        "longitude": -81.4681,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "44114116-77b4-4d66-960d-90a4d9c7d59e",
+      "name": "Cafe La Bamba™",
+      "shortName": "Cafe La Bamba™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.cafe_la_bamba",
+      "location": {
+        "latitude": 28.4772198,
+        "longitude": -81.467467,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "92be5d61-f6b9-4786-9d1e-ab7d97a5147c",
+      "name": "Central Park Crêpes",
+      "shortName": "Central Park Crêpes",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.central_park_crepes",
+      "location": {
+        "latitude": 28.47731,
+        "longitude": -81.46781,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "441e9951-559d-480c-9c82-ed417447f884",
+      "name": "Chez Alcatraz™",
+      "shortName": "Chez Alcatraz™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.chez_alcatraz",
+      "location": {
+        "latitude": 28.4784443,
+        "longitude": -81.4690517,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "3b66e42a-c16a-45e1-b257-8eade74b4abb",
+      "name": "Cletus' Chicken Shack",
+      "shortName": "Cletus' Chicken Shack",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.cletus_chicken_shack",
+      "location": {
+        "latitude": 28.478883,
+        "longitude": -81.4678844,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "3e761cbc-c8bc-46a2-9b67-d76b6bc56842",
+      "name": "Coca-Cola Refresh Lounge",
+      "shortName": "Coca-Cola Refresh Lounge",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.coke_refresh",
+      "location": {
+        "latitude": 28.47999,
+        "longitude": -81.46767,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "dda18515-d9da-4d4c-a7d2-ed38386bad6d",
+      "name": "Freeze Ray Pops",
+      "shortName": "Freeze Ray Pops",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.freeze_ray_pops_cart",
+      "location": {
+        "latitude": 28.47578665848806,
+        "longitude": -81.46855082101615,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "50d25d95-f9f8-4e80-914d-43f36f26e255",
+      "name": "Häagen-Dazs®",
+      "shortName": "Häagen-Dazs®",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.haagen_dazs",
+      "location": {
+        "latitude": 28.4771,
+        "longitude": -81.46912,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "36372cec-7971-4c91-bd1e-86317273ff7f",
+      "name": "Leaky Cauldron™",
+      "shortName": "Leaky Cauldron™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.leaky_cauldron",
+      "location": {
+        "latitude": 28.479469,
+        "longitude": -81.469505,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "12180a82-e57e-42ec-9f0f-fdc3132a9132",
+      "name": "Lisa's Teahouse of Horror",
+      "shortName": "Lisa's Teahouse of Horror",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.lisas_teahouse_of_horror",
+      "location": {
+        "latitude": 28.4787825,
+        "longitude": -81.4679381,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "5538b31f-a6ca-4a9e-8d75-70cb0f9a6aed",
+      "name": "Illumination’s Minion Cafe Pickup",
+      "shortName": "Illumination’s Minion Cafe Pickup",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.minion_cafe_pickup",
+      "location": {
+        "latitude": 28.475842,
+        "longitude": -81.468758,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "60d1bf89-a7a8-4e75-9188-ecd4291531b6",
+      "name": "Moe's Tavern",
+      "shortName": "Moe's Tavern",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.moes_tavern",
+      "location": {
+        "latitude": 28.47884648062367,
+        "longitude": -81.46797278905335,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "843e8552-2a6f-4e33-b290-222ac9def9b9",
+      "name": "Krusty Burger",
+      "shortName": "Krusty Burger",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.krusty_burger",
+      "location": {
+        "latitude": 28.4788238,
+        "longitude": -81.4679088,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "2e823b46-0d5a-48a6-a824-a9b66932bd7e",
+      "name": "Lagoon Lemonade",
+      "shortName": "Lagoon Lemonade",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.lagoon_lemonade",
+      "location": {
+        "latitude": 28.4799,
+        "longitude": -81.46861,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "37764450-3c0f-41d9-9ec3-73043e1625ea",
+      "name": "Lard Lad Donuts",
+      "shortName": "Lard Lad Donuts",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.lard_lad_donuts",
+      "location": {
+        "latitude": 28.47869,
+        "longitude": -81.46814,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "175a559d-bd35-4840-babc-3c2a86b3d878",
+      "name": "Louie's Italian Restaurant™",
+      "shortName": "Louie's Italian Restaurant™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.louies_italian_restaurant",
+      "location": {
+        "latitude": 28.477319,
+        "longitude": -81.469143,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "0e2876a8-0fae-41b9-8df4-0309e7b36cfb",
+      "name": "Luigi's Pizza",
+      "shortName": "Luigi's Pizza",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.luigis_pizza",
+      "location": {
+        "latitude": 28.4787,
+        "longitude": -81.4679,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "88d8b53f-14f4-4c89-bc6d-7139d37ffa40",
+      "name": "Illumination’s Minion Cafe",
+      "shortName": "Illumination’s Minion Cafe",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.minion_cafe",
+      "location": {
+        "latitude": 28.47593070087387,
+        "longitude": -81.46848976288676,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "ce8cfe53-f5bf-4d2e-9ab2-37d2d0dd3602",
+      "name": "Production Central Food",
+      "shortName": "Production Central Food",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.production_central_food",
+      "location": {
+        "latitude": 28.47577,
+        "longitude": -81.46898,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "fb1f6bbe-de29-4c2c-b23e-7f63e2bdb7de",
+      "name": "San Francisco Pastry Company™",
+      "shortName": "San Francisco Pastry Company™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.san_francisco_pastry_company",
+      "location": {
+        "latitude": 28.478826,
+        "longitude": -81.469325,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "15b8be23-a147-4e4b-8ca8-ccafa2a8c1f4",
+      "name": "Schwab's Pharmacy",
+      "shortName": "Schwab's Pharmacy",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.schwabs_pharmacy",
+      "location": {
+        "latitude": 28.4761729,
+        "longitude": -81.4673764,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f5b4ccba-82fe-422f-9377-2772103fff91",
+      "name": "MIB Icee",
+      "shortName": "MIB Icee",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.mib_icee",
+      "location": {
+        "latitude": 28.48013,
+        "longitude": -81.46785,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d0a89ac7-9e54-4b02-a6b9-ee8c6ba8763c",
+      "name": "The Frying Dutchman",
+      "shortName": "The Frying Dutchman",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.the_frying_dutchman",
+      "location": {
+        "latitude": 28.4788132,
+        "longitude": -81.4678858,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "6c983339-82c2-48b8-99fa-feff2051bc49",
+      "name": "Pop-A-Nana Popcorn and Drink Cart",
+      "shortName": "Pop-A-Nana Popcorn and Drink Cart",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.pop_a_nana",
+      "location": {
+        "latitude": 28.475897855699785,
+        "longitude": -81.46890551774538,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c6cc242d-cce0-45e1-86cf-d032625afe7e",
+      "name": "The Fountain of Fair Fortune",
+      "shortName": "The Fountain of Fair Fortune",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.the_fountain_of_fair_fortune",
+      "location": {
+        "latitude": 28.47955,
+        "longitude": -81.46993,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "9b7ed2f3-2e63-4783-a2c8-a6192d5bdf08",
+      "name": "The Hopping Pot",
+      "shortName": "The Hopping Pot",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.the_hopping_pot",
+      "location": {
+        "latitude": 28.47981,
+        "longitude": -81.469318,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "98f6578b-1e62-4b3d-a1b0-a68cdce86483",
+      "name": "TODAY Cafe",
+      "shortName": "TODAY Cafe",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.today_cafe",
+      "location": {
+        "latitude": 28.475402,
+        "longitude": -81.467335,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "e25f291a-7551-47f3-829c-ad7e10ea1887",
+      "name": "Trolls Treats",
+      "shortName": "Trolls Treats",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.usf.dining.trolls_treats",
+      "location": {
+        "latitude": 28.4784653,
+        "longitude": -81.4665719,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f44a531c-09cf-40c4-b2d4-236e8a9285dc",
+      "name": "Hogwarts™ Express - First Train",
+      "shortName": "Hogwarts™ Express - First Train",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.hogwarts_express_first_train",
+      "location": {
+        "latitude": 28.475957,
+        "longitude": -81.47126,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "750939c5-a69e-408a-8d55-66c272fa265e",
+      "name": "TRANSFORMERS™ The Ride-3D",
+      "shortName": "TRANSFORMERS™ The Ride-3D",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.transformers_the_ride_3d",
+      "location": {
+        "latitude": 28.47669,
+        "longitude": -81.46856,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "7288f24a-396e-4eeb-bb3b-4a90e65269f2",
+      "name": "Despicable Me Minion Mayhem™",
+      "shortName": "Despicable Me Minion Mayhem™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.despicable_me_minion_mayhem",
+      "location": {
+        "latitude": 28.475427896910254,
+        "longitude": -81.467926026341,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "25d47d04-a917-405a-9904-9be2b499b2dd",
+      "name": "Illumination's Villain-Con Minion Blast",
+      "shortName": "Illumination's Villain-Con Minion Blast",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.usf.rides.illuminations_villain_con_minion_blast",
+      "location": {
+        "latitude": 28.475647291614678,
+        "longitude": -81.46796680511655,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "37989fb7-5576-4247-bd6e-e981bc70cca2",
+      "name": "Trolls Trollercoaster",
+      "shortName": "Trolls Trollercoaster",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.usf.rides.trolls_trollercoaster",
+      "location": {
+        "latitude": 28.4785148,
+        "longitude": -81.4663856,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "a54b961b-06d3-492c-88b5-201cb32399c2",
+      "name": "DreamWorks Character Zone",
+      "shortName": "DreamWorks Character Zone",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.show.dreamworks_character_zone",
+      "location": {
+        "latitude": 28.4781716,
+        "longitude": -81.4672004,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c85d936f-c5b7-490b-880b-6f0bf44ba557",
+      "name": "DreamWorks Imagination Celebration",
+      "shortName": "DreamWorks Imagination Celebration",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.show.dreamWorks_imagination_celebration",
+      "location": {
+        "latitude": 28.4789917,
+        "longitude": -81.4668949,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "333c6657-2a9f-4423-a7a2-bf0230bf669a",
+      "name": "Shrek’s Swamp Meet",
+      "shortName": "Shrek’s Swamp Meet",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.show.shreks.swamp.meet",
+      "location": {
+        "latitude": 28.4781559,
+        "longitude": -81.4669,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "ad4b2cec-805f-4df5-9fd9-4cd14b15b9dd",
+      "name": "The Simpsons™ Character Zone",
+      "shortName": "The Simpsons™ Character Zone",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.simpsons_character_zone",
+      "location": {
+        "latitude": 28.475677,
+        "longitude": -81.467294,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "17dd3a01-3127-4e22-8d73-35680fa8b034",
+      "name": "Illumination Theater",
+      "shortName": "Illumination Theater",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.illumination_theater",
+      "location": {
+        "latitude": 28.475880741323994,
+        "longitude": -81.4683399259803,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "14af192d-dfce-4bdb-bf5c-1c1957499a6a",
+      "name": "Meet SpongeBob SquarePants and Friends",
+      "shortName": "Meet SpongeBob SquarePants and Friends",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.usf.shows.meet_spongeBob_squarepants",
+      "location": {
+        "latitude": 28.477885,
+        "longitude": -81.467342,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    }
+  ]
+}

@@ -1,0 +1,1280 @@
+{
+  "schemaVersion": 4,
+  "park": {
+    "id": "12dbb85b-265f-44e6-bccf-f1faa17211fc",
+    "name": "Universal Epic Universe",
+    "location": {
+      "latitude": 28.4407,
+      "longitude": -81.4476,
+      "mapSpan": 0.018
+    },
+    "liveDataFileName": "universalEpicUniverse-live.json",
+    "includeNonLiveEntities": true
+  },
+  "entities": [
+    {
+      "id": "5fc2be0f-bf95-4fb7-b0fb-85b067d2fbb0",
+      "name": "The Cosmos Fountain",
+      "shortName": "The Cosmos Fountain",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.the_cosmos_fountain",
+      "location": {
+        "latitude": 28.440233,
+        "longitude": -81.44819,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "52c98564-e292-49f9-9819-d2e722c89814",
+      "name": "Das Stakehaus",
+      "shortName": "Das Stakehaus",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.das_stakehaus",
+      "location": {
+        "latitude": 28.44071,
+        "longitude": -81.44992,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "eaca831d-bcbb-4a1e-9bf0-6ea97ccc88e0",
+      "name": "Curse of the Werewolf",
+      "shortName": "Curse of the Werewolf",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.curse_of_the_werewolf",
+      "location": {
+        "latitude": 28.43995,
+        "longitude": -81.45002,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "76caa8d0-f54b-4601-9d57-a7f1ddc02af4",
+      "name": "Dragon Racer's Rally",
+      "shortName": "Dragon Racer's Rally",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ueu.rides.dragon_racers_rally",
+      "location": {
+        "latitude": 28.44122,
+        "longitude": -81.44549,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "e3dd1ecd-f674-4aa7-83d9-9c7b4a8c886d",
+      "name": "The Untrainable Dragon",
+      "shortName": "The Untrainable Dragon",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.shows.the_untrainable_dragon",
+      "location": {
+        "latitude": 28.44004,
+        "longitude": -81.44463,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "67c56a26-4253-4e82-aa7d-34e7460997fd",
+      "name": "Meet Donkey Kong",
+      "shortName": "Meet Donkey Kong",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.meet_donkey_kong",
+      "location": {
+        "latitude": 28.43844,
+        "longitude": -81.44873,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "71072fb2-1514-412f-987f-5ab2bc39fcde",
+      "name": "Pizza Moon Pickup",
+      "shortName": "Pizza Moon Pickup",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.pizza_moon_pickup",
+      "location": {
+        "latitude": 28.439924,
+        "longitude": -81.448206,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "15d839af-1d89-4480-981b-4720e53c0c65",
+      "name": "Celestial Popcorn",
+      "shortName": "Celestial Popcorn",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.celestial_popcorn",
+      "location": {
+        "latitude": 28.439388,
+        "longitude": -81.44753,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "c168d4bf-2664-4b67-94a4-fc57838e8cfe",
+      "name": "Meteor Astropub",
+      "shortName": "Meteor Astropub",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.meteor_astropub",
+      "location": {
+        "latitude": 28.441443,
+        "longitude": -81.447795,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f5902f84-2bdc-4cd9-8e00-2d68b2e53d31",
+      "name": "Satellite Shakes",
+      "shortName": "Satellite Shakes",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.meteor_astropub_pickup",
+      "location": {
+        "latitude": 28.441608,
+        "longitude": -81.448002,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "a872883d-761b-4dda-a124-5dadcfa9e5ae",
+      "name": "Universal Celestial Goodnight",
+      "shortName": "Universal Celestial Goodnight",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.shows.celestialgoodnight",
+      "location": {
+        "latitude": 28.44085,
+        "longitude": -81.448057,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "fe3eb8a9-0022-40a6-989e-1d71d88e1ed3",
+      "name": "Meet Toad",
+      "shortName": "Meet Toad",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.meet_toad",
+      "location": {
+        "latitude": 28.439256,
+        "longitude": -81.44808,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "4cd6ac88-3945-49bb-ad20-2ce04a3f9628",
+      "name": "Meet Mario and Luigi",
+      "shortName": "Meet Mario and Luigi",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.meet_mario_and_luigi",
+      "location": {
+        "latitude": 28.43913,
+        "longitude": -81.44807,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "d51621e0-42c5-4890-a01f-ea80de386310",
+      "name": "Astronomica",
+      "shortName": "Astronomica",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ueu.rides.astronomica",
+      "location": {
+        "latitude": 28.44084,
+        "longitude": -81.44796,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "adb664e3-73a0-4fb9-be8f-8bcf52834b93",
+      "name": "Viking Training Camp",
+      "shortName": "Viking Training Camp",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ueu.rides.viking_training_camp",
+      "location": {
+        "latitude": 28.441037,
+        "longitude": -81.445923,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "db66f41b-59eb-4c9b-b80c-94d8542e8fdd",
+      "name": "Say Hello to the Residents of Darkmoor Village",
+      "shortName": "Say Hello to the Residents of Darkmoor Village",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.dark_universe_character_zone",
+      "location": {
+        "latitude": 28.4405,
+        "longitude": -81.44982,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "0b27c09f-0429-43c5-8970-d303ae00dfbe",
+      "name": "Atlantic",
+      "shortName": "Atlantic",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.atlantic",
+      "location": {
+        "latitude": 28.439235,
+        "longitude": -81.447042,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "bd8df82c-ea86-4139-9a47-24fa19151c98",
+      "name": "Bar Moonshine™",
+      "shortName": "Bar Moonshine™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.bar_moonshine",
+      "location": {
+        "latitude": 28.442837,
+        "longitude": -81.447011,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "eeb75db2-46ec-4498-a1e1-652e37454ba5",
+      "name": "The Burning Blade Tavern Pick Up",
+      "shortName": "The Burning Blade Tavern Pick Up",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.burning_blade_tavern_pickup",
+      "location": {
+        "latitude": 28.439836,
+        "longitude": -81.450672,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d4d7e1ca-77e9-482b-ae82-4e3508463646",
+      "name": "Bar Zenith",
+      "shortName": "Bar Zenith",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.bar_zenith",
+      "location": {
+        "latitude": 28.441157,
+        "longitude": -81.44768,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "f41a15df-ab5c-4202-85c1-853b5cac4fc9",
+      "name": "Bieraubeurre Cart",
+      "shortName": "Bieraubeurre Cart",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.bieraubeurre_cart",
+      "location": {
+        "latitude": 28.44284,
+        "longitude": -81.447795,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d9191e62-a22d-4e56-9f96-b84c48d8ec02",
+      "name": "The Burning Blade Tavern",
+      "shortName": "The Burning Blade Tavern",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.burning_blade_tavern",
+      "location": {
+        "latitude": 28.439803,
+        "longitude": -81.450537,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "73f49032-1234-409d-8ca6-63d20b96b906",
+      "name": "De Lacey's Cottage",
+      "shortName": "De Lacey's Cottage",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.de_laceys_cottage",
+      "location": {
+        "latitude": 28.44013,
+        "longitude": -81.45054,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "66903865-1720-46e8-8f1e-15b322b1e091",
+      "name": "Hooligan's Grog & Gruel",
+      "shortName": "Hooligan's Grog & Gruel",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.hooligans_grog_and_gruel",
+      "location": {
+        "latitude": 28.44116,
+        "longitude": -81.44579,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "42ecc12b-030e-42dd-996b-93eac856287b",
+      "name": "Le Gobelet Noir™",
+      "shortName": "Le Gobelet Noir™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.le_gobelet_noir",
+      "location": {
+        "latitude": 28.442608,
+        "longitude": -81.447245,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "0060ddaa-0c15-4309-b017-0b1ed9885941",
+      "name": "Café L’air De La Sirène™",
+      "shortName": "Café L’air De La Sirène™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.cafe_lair_de_la_sirene",
+      "location": {
+        "latitude": 28.44256,
+        "longitude": -81.44763,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "bb1119ef-9d92-48a7-a998-db74b1237a35",
+      "name": "CelesTiki",
+      "shortName": "CelesTiki",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.celestiki",
+      "location": {
+        "latitude": 28.440689,
+        "longitude": -81.4489,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "a35be927-6d44-4213-9700-e41cc6872daa",
+      "name": "Comet Dogs",
+      "shortName": "Comet Dogs",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.comet_dogs",
+      "location": {
+        "latitude": 28.440065,
+        "longitude": -81.447659,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "33f95956-8476-49d7-a9fb-3d018f59e43a",
+      "name": "Frosty Moon",
+      "shortName": "Frosty Moon",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.frosty_moon",
+      "location": {
+        "latitude": 28.44058,
+        "longitude": -81.448773,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d78bf618-0ed2-4c22-b920-72f94be4cf6d",
+      "name": "Mead Hall",
+      "shortName": "Mead Hall",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.mead_hall",
+      "location": {
+        "latitude": 28.44074,
+        "longitude": -81.44534,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "919eb07d-050b-4a2e-967c-68996577ef90",
+      "name": "Pizza Moon",
+      "shortName": "Pizza Moon",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.pizza_moon",
+      "location": {
+        "latitude": 28.439808,
+        "longitude": -81.448275,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "20a9f6a4-cb55-40ae-9101-29b6e692bdff",
+      "name": "Spit Fyre Grill",
+      "shortName": "Spit Fyre Grill",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.spit_fyre_grill",
+      "location": {
+        "latitude": 28.44021,
+        "longitude": -81.44581,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "20f7747f-c154-477b-ac94-41e1cb3881df",
+      "name": "Star Sui Bao",
+      "shortName": "Star Sui Bao",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.star_sui_bao",
+      "location": {
+        "latitude": 28.440702,
+        "longitude": -81.446991,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "9c46d9cf-12df-47d4-b4fb-136d2ffd6536",
+      "name": "Starbucks",
+      "shortName": "Starbucks",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.starbucks_coffee_near_constellation_carousel",
+      "location": {
+        "latitude": 28.4396,
+        "longitude": -81.446287,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "966818c7-67c2-4e8f-a924-f95a8e5dd3df",
+      "name": "The Blue Dragon Pan-Asian Restaurant",
+      "shortName": "The Blue Dragon Pan-Asian Restaurant",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.the_blue_dragon_pan_asian_restaurant",
+      "location": {
+        "latitude": 28.4413,
+        "longitude": -81.44916,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "18613025-0efa-4d3a-b781-6425e9c1654a",
+      "name": "The Oak & Star Tavern",
+      "shortName": "The Oak & Star Tavern",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.the_oak_and_star_tavern",
+      "location": {
+        "latitude": 28.44028,
+        "longitude": -81.44905,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "d0a904c4-1818-468c-a253-ff8d3d945aa0",
+      "name": "Starbucks® Coffee",
+      "shortName": "Starbucks® Coffee",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.starbucks_coffee_2",
+      "location": {
+        "latitude": 28.4403,
+        "longitude": -81.44855,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "06659265-aa2a-44b8-b20f-f20f7cf826a6",
+      "name": "The Plastered Owl",
+      "shortName": "The Plastered Owl",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.the_plastered_owl_bar",
+      "location": {
+        "latitude": 28.44036,
+        "longitude": -81.449051,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "9476066a-fb0e-4cc9-b99d-9411f7cdee86",
+      "name": "Toadstool Cafe™",
+      "shortName": "Toadstool Cafe™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.toadstool_cafe",
+      "location": {
+        "latitude": 28.43909,
+        "longitude": -81.447962,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "0208b42f-a89d-43bb-8eef-b9c18c120c87",
+      "name": "Yoshi's Snack Island™",
+      "shortName": "Yoshi's Snack Island™",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.yoshis_snack_island",
+      "location": {
+        "latitude": 28.43905,
+        "longitude": -81.448406,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "e369b848-31f4-4641-9038-da566dc0c9be",
+      "name": "The Bubbly Barrel",
+      "shortName": "The Bubbly Barrel",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.the_bubbly_barrel",
+      "location": {
+        "latitude": 28.43835,
+        "longitude": -81.44875,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "4e4f74ec-301b-480d-8bc6-0e351cb70c2a",
+      "name": "Turbo-Boost Treats",
+      "shortName": "Turbo-Boost Treats",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.turbo-boost_treats",
+      "location": {
+        "latitude": 28.438835,
+        "longitude": -81.448083,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    },
+    {
+      "id": "1fda5e1f-8712-4165-a81d-ad74eef3e8ee",
+      "name": "Monsters Unchained: The Frankenstein Experiment",
+      "shortName": "Monsters Unchained: The Frankenstein Experiment",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.monsters_unchained_the_frankenstein_experiment",
+      "location": {
+        "latitude": 28.44035,
+        "longitude": -81.45029,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "dbc4f0d8-fdef-4dfc-a1c2-33917f742f40",
+      "name": "Harry Potter and the Battle at the Ministry™",
+      "shortName": "Harry Potter and the Battle at the Ministry™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.harry_potter_and_the_battle_at_the_ministry",
+      "location": {
+        "latitude": 28.4429,
+        "longitude": -81.44809,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "07143999-bacd-475f-a00b-8cc476204aff",
+      "name": "Constellation Carousel",
+      "shortName": "Constellation Carousel",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.constellation_carousel",
+      "location": {
+        "latitude": 28.44033,
+        "longitude": -81.44805,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "43df71bf-aa7c-46c0-925c-46f69d8bf23f",
+      "name": "Mario Kart™: Bowser's Challenge",
+      "shortName": "Mario Kart™: Bowser's Challenge",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.mario_cart_bowsers_challenge",
+      "location": {
+        "latitude": 28.43875,
+        "longitude": -81.44783,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "0c6a9af8-c006-4849-8475-1a6925e8f7d4",
+      "name": "Bowser Jr. Challenge",
+      "shortName": "Bowser Jr. Challenge",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Play Area",
+      "slug": null,
+      "externalId": "uor.ueu.rides.bowse_jr_challenge",
+      "location": {
+        "latitude": 28.439046,
+        "longitude": -81.447956,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "dd8c015d-511f-47d4-b98b-18ce15735588",
+      "name": "Mine-Cart Madness™",
+      "shortName": "Mine-Cart Madness™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ueu.rides.mine-cart_madness",
+      "location": {
+        "latitude": 28.438084,
+        "longitude": -81.448769,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "447033ce-ee1f-4cca-bb12-47d22583ac12",
+      "name": "Stardust Racers",
+      "shortName": "Stardust Racers",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ueu.rides.stardust_racers",
+      "location": {
+        "latitude": 28.441622,
+        "longitude": -81.447095,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "281bc9e6-b208-4a70-85d2-0fb749c7658b",
+      "name": "Fyre Drill",
+      "shortName": "Fyre Drill",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.fyre_drill",
+      "location": {
+        "latitude": 28.44061,
+        "longitude": -81.44545,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "00feb57b-4fcc-48bc-9490-c9af71f30c1c",
+      "name": "Yoshi's Adventure™",
+      "shortName": "Yoshi's Adventure™",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Family Ride",
+      "slug": null,
+      "externalId": "uor.ueu.rides.yoshis_adventure",
+      "location": {
+        "latitude": 28.43904,
+        "longitude": -81.44817,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "c6b1b8cf-55ef-416c-b00d-e469993617b0",
+      "name": "Hiccup's Wing Gliders",
+      "shortName": "Hiccup's Wing Gliders",
+      "entityType": "ATTRACTION",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Roller Coaster",
+      "slug": null,
+      "externalId": "uor.ueu.rides.hiccups_wing_glider",
+      "location": {
+        "latitude": 28.44114,
+        "longitude": -81.44518,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 8,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "f6dc44e3-02f4-414d-9adc-c3c342efa275",
+      "name": "Meet Princess Peach",
+      "shortName": "Meet Princess Peach",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.meet_princess_peach",
+      "location": {
+        "latitude": 28.439343,
+        "longitude": -81.447997,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "9d47d7fe-ff0d-4a52-bf9d-1e07436aa22c",
+      "name": "Meet Toothless and Friends",
+      "shortName": "Meet Toothless and Friends",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.meet_toothless",
+      "location": {
+        "latitude": 28.44,
+        "longitude": -81.44511,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "9c409ec9-a805-456c-96fc-d867cc5bc81b",
+      "name": "Le Cirque Arcanus™",
+      "shortName": "Le Cirque Arcanus™",
+      "entityType": "SHOW",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Live Entertainment",
+      "slug": null,
+      "externalId": "uor.ueu.show.le_cirque_arcanus",
+      "location": {
+        "latitude": 28.44284,
+        "longitude": -81.44758,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 20,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false
+    },
+    {
+      "id": "188ef8e0-3477-4f50-91bb-c7a0cfcfecac",
+      "name": "Goddess of Refreshment",
+      "shortName": "Goddess of Refreshment",
+      "entityType": "RESTAURANT",
+      "isCharacterSpot": false,
+      "hasCastMemberPhotographer": false,
+      "attractionType": "Dining",
+      "slug": null,
+      "externalId": "uor.ueu.dining.goddess_of_refreshment",
+      "location": {
+        "latitude": 28.441771,
+        "longitude": -81.448158,
+        "mapSpan": 0.005
+      },
+      "recommendation": {
+        "experienceMinutes": 30,
+        "reliability": 7
+      },
+      "hasLightningLane": false,
+      "hasAirConditioning": false,
+      "foodType": "Quick Service"
+    }
+  ]
+}
