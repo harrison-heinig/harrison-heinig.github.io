@@ -14,7 +14,7 @@
   "entities": [
     {
       "id": "b798c405-bffe-4068-ae84-95b108f21122",
-      "name": "Daisy’s Dig at Restaurantosaurus",
+      "name": "Daisy\u2019s Dig at Restaurantosaurus",
       "shortName": "Daisy's Dig",
       "entityType": "SHOW",
       "isCharacterSpot": true,
@@ -118,7 +118,29 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "dbd47eef-9fd9-41ca-aeeb-9a83ab9f01ec",
@@ -162,7 +184,25 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 40
+        }
+      ]
     },
     {
       "id": "55c531b6-3ce2-4c47-a8a1-0dc9107d825b",
@@ -300,7 +340,13 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
@@ -323,7 +369,29 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 35
+        }
+      ]
     },
     {
       "id": "bc997600-fcc0-4f6f-b908-a1419b26cfd8",
@@ -369,7 +437,25 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "f609fcf6-0aef-44ef-b838-f10ff3b8543b",
@@ -465,7 +551,7 @@
     },
     {
       "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
-      "name": "Yak & Yeti™ Restaurant",
+      "name": "Yak & Yeti\u2122 Restaurant",
       "shortName": "Yak & Yeti Restaurant",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -488,7 +574,7 @@
     },
     {
       "id": "6c1fb59d-e0c0-4d42-b57a-4fc0e02414c9",
-      "name": "Yak & Yeti™ Local Food Cafes",
+      "name": "Yak & Yeti\u2122 Local Food Cafes",
       "shortName": "Yak & Yeti Local Foods",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -511,7 +597,7 @@
     },
     {
       "id": "84f51faa-72a3-4491-9449-20a999e5885c",
-      "name": "Yak & Yeti™ Quality Beverages",
+      "name": "Yak & Yeti\u2122 Quality Beverages",
       "shortName": "Yak & Yeti Beverages",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -534,7 +620,7 @@
     },
     {
       "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
-      "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+      "name": "Rainforest Cafe\u00ae at Disney's Animal Kingdom",
       "shortName": "Rainforest Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -689,7 +775,25 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 25
+        }
+      ]
     },
     {
       "id": "dd142c0b-622a-4b44-8e22-c0facb2b20a8",
@@ -715,7 +819,7 @@
     },
     {
       "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
-      "name": "Harambe Village Street Band – Burudika",
+      "name": "Harambe Village Street Band \u2013 Burudika",
       "shortName": "Burudika",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -800,7 +904,13 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "43e5558e-2be0-4989-b80b-074afa8302a9",
@@ -846,7 +956,29 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 95
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 95
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 50
+        }
+      ]
     },
     {
       "id": "32e01181-9a5f-4936-8a77-0dace1de836c",
@@ -869,7 +1001,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "64a6915f-a835-4226-ba5c-8389fc4cade3",
@@ -892,7 +1042,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 30
+        }
+      ]
     },
     {
       "id": "3b7309a5-7b57-4edf-b4e6-36ad958ac21e",
@@ -962,7 +1130,7 @@
     },
     {
       "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
-      "name": "Animal Encounters: Winged Encounters – The Kingdom Takes Flight",
+      "name": "Animal Encounters: Winged Encounters \u2013 The Kingdom Takes Flight",
       "shortName": "Winged Encounters",
       "entityType": "SHOW",
       "isCharacterSpot": false,

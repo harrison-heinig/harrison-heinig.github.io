@@ -58,7 +58,7 @@
     },
     {
       "id": "a7763ca6-bca3-4e78-b75c-22886aa06bec",
-      "name": "The Little Mermaid – A Musical Adventure – New!",
+      "name": "The Little Mermaid \u2013 A Musical Adventure \u2013 New!",
       "shortName": "Little Mermaid Musical",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -313,7 +313,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 33
+        }
+      ]
     },
     {
       "id": "399aa0a1-98e2-4d2b-b297-2b451e9665e1",
@@ -336,7 +354,17 @@
         "reliability": 6
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 120
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 90
+        }
+      ]
     },
     {
       "id": "9211adc9-b296-4667-8e97-b40cf76108e4",
@@ -359,7 +387,13 @@
         "reliability": 10
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "6e118e37-5002-408d-9d88-0b5d9cdb5d14",
@@ -405,7 +439,21 @@
         "reliability": 4
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 55
+        }
+      ]
     },
     {
       "id": "34c4916b-989b-4ff1-a7e3-a6a846a3484f",
@@ -428,11 +476,33 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 68
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 25
+        }
+      ]
     },
     {
       "id": "6f6998e8-a629-412c-b964-2cb06af8e26b",
-      "name": "The Twilight Zone Tower of Terror™",
+      "name": "The Twilight Zone Tower of Terror\u2122",
       "shortName": "Tower of Terror",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -451,7 +521,29 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 80
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 85
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 85
+        }
+      ]
     },
     {
       "id": "20b5daa8-e1ea-436f-830c-2d7d18d929b5",
@@ -474,11 +566,29 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 40
+        }
+      ]
     },
     {
       "id": "3b290419-8ca2-44bc-a710-a6c83fca76ec",
-      "name": "Star Tours – The Adventures Continue",
+      "name": "Star Tours \u2013 The Adventures Continue",
       "shortName": "Star Tours",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -497,7 +607,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
@@ -520,11 +648,25 @@
         "reliability": 6
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 115
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 115
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 80
+        }
+      ]
     },
     {
       "id": "f27c4d19-bfb4-42c6-a73b-ac474676a806",
-      "name": "The Trolley Car Café",
+      "name": "The Trolley Car Caf\u00e9",
       "shortName": "Trolley Car Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -639,7 +781,7 @@
     },
     {
       "id": "c600282c-227b-4ffc-b1ee-b5987609ee4f",
-      "name": "50's Prime Time Café",
+      "name": "50's Prime Time Caf\u00e9",
       "shortName": "50's Prime Time Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -869,7 +1011,7 @@
     },
     {
       "id": "a8804f66-ed5c-4daa-99a1-bcddd2f1fca6",
-      "name": "Rosie's All-American Café",
+      "name": "Rosie's All-American Caf\u00e9",
       "shortName": "Rosie's All-American",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -910,7 +1052,25 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "02861a9b-584d-47d5-a8d0-98e05c3b5dce",
@@ -932,7 +1092,21 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 25
+        }
+      ]
     },
     {
       "id": "d91a0e9a-8652-4036-822f-e7b12b381273",
@@ -980,7 +1154,7 @@
     },
     {
       "id": "375197ac-27ac-41f7-bd93-f4e9b9fc4d5d",
-      "name": "Beauty and the Beast – Live on Stage",
+      "name": "Beauty and the Beast \u2013 Live on Stage",
       "shortName": "Beauty and the Beast Live",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -1046,7 +1220,7 @@
     },
     {
       "id": "7357772c-6b11-4a8d-af97-05a1bb45f001",
-      "name": "Indiana Jones™ Epic Stunt Spectacular!",
+      "name": "Indiana Jones\u2122 Epic Stunt Spectacular!",
       "shortName": "Indiana Jones Stunt Show",
       "entityType": "SHOW",
       "isCharacterSpot": false,

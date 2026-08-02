@@ -55,7 +55,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 38
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 40
+        }
+      ]
     },
     {
       "id": "d69261dc-62b8-434c-83bd-93649b43c408",
@@ -144,7 +162,7 @@
     },
     {
       "id": "5c00cd7c-b207-4d9d-9c8c-a8d418fc5425",
-      "name": "Mickey’s Boo-To-You Halloween Parade at Mickey's Not-So-Scary Halloween Party",
+      "name": "Mickey\u2019s Boo-To-You Halloween Parade at Mickey's Not-So-Scary Halloween Party",
       "shortName": "Boo-To-You Parade",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -186,7 +204,7 @@
     },
     {
       "id": "05ca3e51-580b-44ca-8046-7d3e57a6d248",
-      "name": "Disney’s Not-So-Spooky Spectacular at Mickey's Not-So-Scary Halloween Party",
+      "name": "Disney\u2019s Not-So-Spooky Spectacular at Mickey's Not-So-Scary Halloween Party",
       "shortName": "Not-So-Spooky Spectacular",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -310,7 +328,17 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48",
@@ -333,7 +361,29 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "e40ac396-cbac-43f4-8752-764ed60ccceb",
@@ -356,7 +406,17 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "f010bc01-b450-4476-a5f3-a5f2813104b2",
@@ -402,7 +462,25 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 50
+        }
+      ]
     },
     {
       "id": "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef",
@@ -425,7 +503,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 20
+        }
+      ]
     },
     {
       "id": "de737ffc-306b-4f32-8bbb-34e5d370ec8f",
@@ -471,7 +567,21 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "72c7343a-f7fb-4f66-95df-c91016de7338",
@@ -494,7 +604,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 30
+        }
+      ]
     },
     {
       "id": "273ddb8d-e7b5-4e34-8657-1113f49262a5",
@@ -517,7 +645,25 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "de3309ca-97d5-4211-bffe-739fed47e92f",
@@ -540,7 +686,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 23
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 30
+        }
+      ]
     },
     {
       "id": "f5aad2d4-a419-4384-bd9a-42f86385c750",
@@ -563,7 +727,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "0aae716c-af13-4439-b638-d75fb1649df3",
@@ -586,7 +768,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "890fa430-89c0-4a3f-96c9-11597888005e",
@@ -609,7 +809,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "30fe3c64-af71-4c66-a54b-aa61fd7af177",
@@ -632,7 +850,13 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "b2260923-9315-40fd-9c6b-44dd811dbe64",
@@ -655,7 +879,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 35
+        }
+      ]
     },
     {
       "id": "352feb94-e52e-45eb-9c92-e4b44c6b1a9d",
@@ -678,7 +920,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "86a41273-5f15-4b54-93b6-829f140e5161",
@@ -701,7 +961,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 45
+        }
+      ]
     },
     {
       "id": "f163ddcd-43e1-488d-8276-2381c1db0a39",
@@ -724,7 +1002,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "96455de6-f4f1-403c-9391-bf8396979149",
@@ -747,7 +1043,29 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "e39b831b-7731-49bb-815b-289b4f49a9fd",
@@ -770,7 +1088,17 @@
         "reliability": 10
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "0f57cecf-5502-4503-8bc3-ba84d3708ace",
@@ -793,7 +1121,13 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "e847a8bd-7d21-432b-a7a1-f483517a22b5",
@@ -1137,7 +1471,21 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "012a211b-4c91-451c-8a0e-5e3ab398eda8",
@@ -1159,7 +1507,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 28
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 20
+        }
+      ]
     },
     {
       "id": "40737d3d-0ff6-4a9e-a050-beb87bf90120",
@@ -1181,7 +1547,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "22b78ed9-a692-47cb-b6a4-6d1224ff67e3",
@@ -1356,7 +1740,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
@@ -1402,7 +1804,21 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "08:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "e8f0b426-7645-4ea3-8b41-b94ae7091a41",
@@ -1425,7 +1841,29 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "2ebfb38c-5cb5-4de1-86c0-f7af14188022",
@@ -1448,7 +1886,13 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "888fb4a4-7adf-47a1-8ba2-c258cc64fd75",
@@ -1517,7 +1961,25 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "2551a77d-023f-4ab1-9a19-8afec0190f39",
@@ -1540,7 +2002,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 25
+        }
+      ]
     },
     {
       "id": "5a43d1a7-ad53-4d25-abfe-25625f0da304",
@@ -1562,7 +2042,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 65
+        }
+      ]
     },
     {
       "id": "0d94ad60-72f0-4551-83a6-ebaecdd89737",
@@ -1585,7 +2083,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 33
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 25
+        }
+      ]
     },
     {
       "id": "73cb9445-0695-47a3-87ce-d08ae36b5f3c",
@@ -1607,7 +2123,29 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 43
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 35
+        }
+      ]
     },
     {
       "id": "8f9bacc9-c055-4da3-a6b7-bc1ce61b6786",
@@ -1650,7 +2188,25 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "3dc6e90f-de6e-4bf0-bae9-b04bc930351a",
@@ -1715,7 +2271,25 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 20
+        }
+      ]
     },
     {
       "id": "5af2c3a9-7697-414f-9642-6cb17a329613",
@@ -1809,7 +2383,7 @@
     },
     {
       "id": "5135ff2e-2f42-4138-bc30-706eb25963e4",
-      "name": "Cosmic Ray's Starlight Café",
+      "name": "Cosmic Ray's Starlight Caf\u00e9",
       "shortName": "Cosmic Ray's",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1958,7 +2532,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     }
   ]
 }

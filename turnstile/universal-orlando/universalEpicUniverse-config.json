@@ -77,7 +77,25 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 65
+        }
+      ]
     },
     {
       "id": "76caa8d0-f54b-4601-9d57-a7f1ddc02af4",
@@ -99,7 +117,25 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 50
+        }
+      ]
     },
     {
       "id": "e3dd1ecd-f674-4aa7-83d9-9c7b4a8c886d",
@@ -394,8 +430,8 @@
     },
     {
       "id": "bd8df82c-ea86-4139-9a47-24fa19151c98",
-      "name": "Bar Moonshine™",
-      "shortName": "Bar Moonshine™",
+      "name": "Bar Moonshine\u2122",
+      "shortName": "Bar Moonshine\u2122",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -555,8 +591,8 @@
     },
     {
       "id": "42ecc12b-030e-42dd-996b-93eac856287b",
-      "name": "Le Gobelet Noir™",
-      "shortName": "Le Gobelet Noir™",
+      "name": "Le Gobelet Noir\u2122",
+      "shortName": "Le Gobelet Noir\u2122",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -578,8 +614,8 @@
     },
     {
       "id": "0060ddaa-0c15-4309-b017-0b1ed9885941",
-      "name": "Café L’air De La Sirène™",
-      "shortName": "Café L’air De La Sirène™",
+      "name": "Caf\u00e9 L\u2019air De La Sir\u00e8ne\u2122",
+      "shortName": "Caf\u00e9 L\u2019air De La Sir\u00e8ne\u2122",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -831,8 +867,8 @@
     },
     {
       "id": "d0a904c4-1818-468c-a253-ff8d3d945aa0",
-      "name": "Starbucks® Coffee",
-      "shortName": "Starbucks® Coffee",
+      "name": "Starbucks\u00ae Coffee",
+      "shortName": "Starbucks\u00ae Coffee",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -877,8 +913,8 @@
     },
     {
       "id": "9476066a-fb0e-4cc9-b99d-9411f7cdee86",
-      "name": "Toadstool Cafe™",
-      "shortName": "Toadstool Cafe™",
+      "name": "Toadstool Cafe\u2122",
+      "shortName": "Toadstool Cafe\u2122",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -900,8 +936,8 @@
     },
     {
       "id": "0208b42f-a89d-43bb-8eef-b9c18c120c87",
-      "name": "Yoshi's Snack Island™",
-      "shortName": "Yoshi's Snack Island™",
+      "name": "Yoshi's Snack Island\u2122",
+      "shortName": "Yoshi's Snack Island\u2122",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -987,12 +1023,30 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "dbc4f0d8-fdef-4dfc-a1c2-33917f742f40",
-      "name": "Harry Potter and the Battle at the Ministry™",
-      "shortName": "Harry Potter and the Battle at the Ministry™",
+      "name": "Harry Potter and the Battle at the Ministry\u2122",
+      "shortName": "Harry Potter and the Battle at the Ministry\u2122",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1009,7 +1063,21 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 110
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 90
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 120
+        }
+      ]
     },
     {
       "id": "07143999-bacd-475f-a00b-8cc476204aff",
@@ -1031,12 +1099,30 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 33
+        }
+      ]
     },
     {
       "id": "43df71bf-aa7c-46c0-925c-46f69d8bf23f",
-      "name": "Mario Kart™: Bowser's Challenge",
-      "shortName": "Mario Kart™: Bowser's Challenge",
+      "name": "Mario Kart\u2122: Bowser's Challenge",
+      "shortName": "Mario Kart\u2122: Bowser's Challenge",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1053,7 +1139,29 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 90
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 90
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 80
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 75
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 65
+        }
+      ]
     },
     {
       "id": "0c6a9af8-c006-4849-8475-1a6925e8f7d4",
@@ -1075,12 +1183,22 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "08:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "dd8c015d-511f-47d4-b98b-18ce15735588",
-      "name": "Mine-Cart Madness™",
-      "shortName": "Mine-Cart Madness™",
+      "name": "Mine-Cart Madness\u2122",
+      "shortName": "Mine-Cart Madness\u2122",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1097,7 +1215,21 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 120
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 115
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 105
+        }
+      ]
     },
     {
       "id": "447033ce-ee1f-4cca-bb12-47d22583ac12",
@@ -1119,7 +1251,21 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        }
+      ]
     },
     {
       "id": "281bc9e6-b208-4a70-85d2-0fb749c7658b",
@@ -1141,12 +1287,26 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 75
+        }
+      ]
     },
     {
       "id": "00feb57b-4fcc-48bc-9490-c9af71f30c1c",
-      "name": "Yoshi's Adventure™",
-      "shortName": "Yoshi's Adventure™",
+      "name": "Yoshi's Adventure\u2122",
+      "shortName": "Yoshi's Adventure\u2122",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1163,7 +1323,25 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 45
+        }
+      ]
     },
     {
       "id": "c6b1b8cf-55ef-416c-b00d-e469993617b0",
@@ -1229,12 +1407,22 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 85
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 60
+        }
+      ]
     },
     {
       "id": "9c409ec9-a805-456c-96fc-d867cc5bc81b",
-      "name": "Le Cirque Arcanus™",
-      "shortName": "Le Cirque Arcanus™",
+      "name": "Le Cirque Arcanus\u2122",
+      "shortName": "Le Cirque Arcanus\u2122",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,

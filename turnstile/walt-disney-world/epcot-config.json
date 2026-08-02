@@ -210,7 +210,7 @@
     },
     {
       "id": "fd8afd63-0cb5-4f77-b47b-fb277f12d9f8",
-      "name": "¡Celebración Encanto!",
+      "name": "\u00a1Celebraci\u00f3n Encanto!",
       "shortName": "Celebracion Encanto",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -231,7 +231,7 @@
     },
     {
       "id": "9b7d0cc3-8431-4300-98c7-d2471f390600",
-      "name": "Connections Café",
+      "name": "Connections Caf\u00e9",
       "shortName": "Connections Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -339,7 +339,7 @@
     },
     {
       "id": "fc64aa10-290f-472e-9fab-4d649f53ab2d",
-      "name": "La Crêperie de Paris",
+      "name": "La Cr\u00eaperie de Paris",
       "shortName": "La Creperie de Paris",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -491,7 +491,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0",
@@ -514,7 +532,25 @@
         "reliability": 6
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 45
+        }
+      ]
     },
     {
       "id": "482169b9-2889-4747-8aef-f9d13a37d940",
@@ -583,7 +619,25 @@
         "reliability": 5
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 70
+        }
+      ]
     },
     {
       "id": "3d8f8f8f-f984-4d2e-8dea-5a79432bdf05",
@@ -652,7 +706,29 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "2ecc4fff-2994-476f-9926-24a4af173838",
@@ -721,7 +797,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "ee070d46-6a64-41c0-9f12-69dcfcca10a0",
@@ -744,7 +838,13 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "1f542745-cda1-4786-a536-5fff373e5964",
@@ -813,7 +913,21 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "37ae57c5-feaf-4e47-8f27-4b385be200f0",
@@ -836,7 +950,21 @@
         "reliability": 5
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 120
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 105
+        }
+      ]
     },
     {
       "id": "5b7cf10a-763b-45ba-9049-87140270826f",
@@ -1231,7 +1359,7 @@
     },
     {
       "id": "54ef81f9-8aec-44ce-9918-b64c76c73bad",
-      "name": "Lotus Blossom Café",
+      "name": "Lotus Blossom Caf\u00e9",
       "shortName": "Lotus Blossom Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1523,7 +1651,25 @@
         "reliability": 9
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "7969166f-feef-4350-b26e-6a6c745528f4",
@@ -1550,7 +1696,7 @@
     },
     {
       "id": "85352291-58dd-4dd9-86d3-cba21cebb684",
-      "name": "Karamell-Küche",
+      "name": "Karamell-K\u00fcche",
       "shortName": "Karamell-Kuche",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1572,7 +1718,7 @@
     },
     {
       "id": "0b543ab9-d6f2-4614-bc2c-c7c088d9a582",
-      "name": "Crêpes À Emporter by La Crêperie de Paris",
+      "name": "Cr\u00eapes \u00c0 Emporter by La Cr\u00eaperie de Paris",
       "shortName": "Crepes A Emporter",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1771,11 +1917,17 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 20
+        }
+      ]
     },
     {
       "id": "18c533d6-a395-4ae4-9488-80fce9c497fe",
-      "name": "Palais du Cinéma",
+      "name": "Palais du Cin\u00e9ma",
       "shortName": "Palais du Cinema",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -1840,7 +1992,13 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "81b15dfd-cf6a-466f-be59-3dd65d2a2807",
@@ -1863,7 +2021,29 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 40
+        }
+      ]
     },
     {
       "id": "5b6475ad-4e9a-4793-b841-501aa382c9c0",
@@ -1886,7 +2066,25 @@
         "reliability": 8
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "e3549451-b284-453d-9c31-e3b1207abd79",
@@ -1908,7 +2106,25 @@
         "reliability": 7
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 70
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 95
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 65
+        }
+      ]
     },
     {
       "id": "22f48b73-01df-460e-8969-9eb2b4ae836c",
@@ -1931,7 +2147,17 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "33bd3bad-6803-4c5e-97ac-f7e31261a604",
@@ -1953,7 +2179,25 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 30
+        }
+      ]
     },
     {
       "id": "c5f6c7e4-d5cd-4d71-8e02-57d8bb43b3ba",
@@ -2000,7 +2244,7 @@
     },
     {
       "id": "76eadac1-cdfa-45e5-a25c-54ed4c3a604f",
-      "name": "Marimba de las Américas",
+      "name": "Marimba de las Am\u00e9ricas",
       "shortName": "Marimba de las Americas",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -2103,7 +2347,17 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        }
+      ]
     },
     {
       "id": "ce284609-9d86-444e-af5a-6c0adb68b0aa",
