@@ -5,8 +5,8 @@
     "name": "Dollywood",
     "location": {
       "latitude": 35.794496,
-      "longitude": -83.530368,
-      "mapSpan": 0.018
+      "longitude": -83.53180,
+      "mapSpan": 0.009000
     },
     "liveDataFileName": "dollywood-live.json",
     "includeNonLiveEntities": true

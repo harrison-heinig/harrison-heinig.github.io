@@ -5,8 +5,8 @@
     "name": "Universal Epic Universe",
     "location": {
       "latitude": 28.4407,
-      "longitude": -81.4476,
-      "mapSpan": 0.018
+      "longitude": -81.449032,
+      "mapSpan": 0.009000
     },
     "liveDataFileName": "universalEpicUniverse-live.json",
     "includeNonLiveEntities": true
