@@ -175,7 +175,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/trick-or-treat-locations-at-mickeys-not-so-scary-halloween-party/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/events-tours/magic-kingdom/mickeys-not-so-scary-halloween-party/"
     },
     {
       "id": "1be7f786-d087-49be-b765-75ee758c0c9c",
@@ -281,7 +281,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/allergy-friendly-trick-or-treat-experience-at-mickeys-not-so-scary-halloween-party/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/events-tours/magic-kingdom/mickeys-not-so-scary-halloween-party/"
     },
     {
       "id": "4a44e3f7-de50-4e80-8077-4125daede42a",
@@ -378,7 +378,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disneys-enchanted-tiki-room/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/enchanted-tiki-room/"
     },
     {
       "id": "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48",
@@ -460,7 +460,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-barnstormer/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/barnstormer-starring-great-goofini/"
     },
     {
       "id": "e40ac396-cbac-43f4-8752-764ed60ccceb",
@@ -722,7 +722,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/a-pirate-s-adventure-treasures-of-the-seven-seas/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-adventures/"
     },
     {
       "id": "e76c93df-31af-49a5-8e2f-752c76c937c9",
@@ -874,7 +874,7 @@
           "waitTime": 20
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/buzz-lightyear-s-space-ranger-spin/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/buzz-lightyear-space-ranger-spin/"
     },
     {
       "id": "273ddb8d-e7b5-4e34-8657-1113f49262a5",
@@ -1116,7 +1116,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/it-s-a-small-world/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/its-a-small-world/"
     },
     {
       "id": "0aae716c-af13-4439-b638-d75fb1649df3",
@@ -1588,7 +1588,7 @@
           "waitTime": 20
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/peter-pan-s-flight/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/peter-pan-flight/"
     },
     {
       "id": "f163ddcd-43e1-488d-8276-2381c1db0a39",
@@ -1772,7 +1772,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-magic-carpets-of-aladdin/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/magic-carpets-of-aladdin/"
     },
     {
       "id": "e39b831b-7731-49bb-815b-289b4f49a9fd",
@@ -1806,7 +1806,7 @@
           "waitTime": 15
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-world-railroad-main-street-u-s-a/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-world-railroad/"
     },
     {
       "id": "0f57cecf-5502-4503-8bc3-ba84d3708ace",
@@ -1836,7 +1836,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/country-bear-musical-jamboree/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/country-bear-jamboree/"
     },
     {
       "id": "e847a8bd-7d21-432b-a7a1-f483517a22b5",
@@ -2584,7 +2584,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disneys-carousel-of-progress/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-carousel-of-progress/"
     },
     {
       "id": "ffcfeaa2-1416-4920-a1ed-543c1a1695c4",

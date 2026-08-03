@@ -469,7 +469,7 @@
       },
       "hasLightningLane": true,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/disney-and-pixar-short-film-festival/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/disney-pixar-short-film-festival/"
     },
     {
       "id": "fb076275-0570-4d62-b2a9-4d6515130fa3",
@@ -543,7 +543,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/the-seas-with-nemo-and-friends/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/seas-with-nemo-and-friends/"
     },
     {
       "id": "8d7ccdb1-a22b-4e26-8dc8-65b1938ed5f0",
@@ -881,7 +881,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/bruce-s-shark-world/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/bruces-shark-world/"
     },
     {
       "id": "00666fe9-7774-4b53-9fb7-3d333f8aa503",
@@ -1966,7 +1966,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/seabase-aquarium/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/sea-base-aquarium/"
     },
     {
       "id": "85352291-58dd-4dd9-86d3-cba21cebb684",
@@ -2078,7 +2078,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/imageworks-the-what-if-labs/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/imageworks/"
     },
     {
       "id": "07dbeaea-85fa-45f2-872f-02f9e7510419",
@@ -2227,7 +2227,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/palais-du-cin-ma/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/impressions-de-france/"
     },
     {
       "id": "6f1d3b25-42c9-4e99-9dce-6c20d7a5deea",
@@ -2363,7 +2363,7 @@
           "waitTime": 15
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/soarin-around-the-world/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/soarin-around-world/"
     },
     {
       "id": "5b6475ad-4e9a-4793-b841-501aa382c9c0",

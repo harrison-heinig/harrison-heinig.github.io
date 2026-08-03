@@ -292,7 +292,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars-launch-bay/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-wars/"
     },
     {
       "id": "d56506e2-6ad3-443a-8065-fea37987248d",
@@ -470,7 +470,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/vacation-fun-an-original-animated-short-with-mickey-and-minnie/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/vacation-fun/"
     },
     {
       "id": "6e118e37-5002-408d-9d88-0b5d9cdb5d14",
@@ -544,7 +544,7 @@
           "waitTime": 25
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/mickey-and-minnies-runaway-railway/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/mickey-minnies-runaway-railway/"
     },
     {
       "id": "1a2e70d9-50d5-4140-b69e-799e950f7d18",
@@ -802,7 +802,7 @@
           "waitTime": 20
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/the-twilight-zone-tower-of-terror/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/twilight-zone-tower-of-terror/"
     },
     {
       "id": "20b5daa8-e1ea-436f-830c-2d7d18d929b5",
@@ -974,7 +974,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-tours-the-adventures-continue/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/star-tours/"
     },
     {
       "id": "e516f303-e82d-4fd3-8fbf-8e6ab624cf89",
@@ -1052,7 +1052,7 @@
           "waitTime": 60
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/rock-n-roller-coaster-starring-aerosmith/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/hollywood-studios/rock-and-roller-coaster-starring-muppets/"
     },
     {
       "id": "f27c4d19-bfb4-42c6-a73b-ac474676a806",
