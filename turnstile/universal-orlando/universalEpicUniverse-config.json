@@ -131,7 +131,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/curse-of-the-werewolf"
     },
     {
       "id": "76caa8d0-f54b-4601-9d57-a7f1ddc02af4",
@@ -207,7 +208,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 15
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/dragon-racers-rally"
     },
     {
       "id": "e3dd1ecd-f674-4aa7-83d9-9c7b4a8c886d",
@@ -431,7 +433,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/epic-universe/worlds/celestial-park"
     },
     {
       "id": "adb664e3-73a0-4fb9-be8f-8bcf52834b93",
@@ -453,7 +456,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/kids-play-areas/viking-training-camp"
     },
     {
       "id": "db66f41b-59eb-4c9b-b80c-94d8542e8fdd",
@@ -1121,7 +1125,8 @@
           "time": "18:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/monsters-unchained-the-frankenstein-experiment"
     },
     {
       "id": "dbc4f0d8-fdef-4dfc-a1c2-33917f742f40",
@@ -1185,7 +1190,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 35
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/harry-potter-and-the-battle-at-the-ministry"
     },
     {
       "id": "07143999-bacd-475f-a00b-8cc476204aff",
@@ -1257,7 +1263,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 35
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/constellation-carousel"
     },
     {
       "id": "43df71bf-aa7c-46c0-925c-46f69d8bf23f",
@@ -1321,7 +1328,8 @@
           "time": "19:30:00-04:00",
           "waitTime": 35
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/mario-kart-bowsers-challenge"
     },
     {
       "id": "0c6a9af8-c006-4849-8475-1a6925e8f7d4",
@@ -1369,7 +1377,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/entertainment/key-challenges-and-interactive-activities"
     },
     {
       "id": "dd8c015d-511f-47d4-b98b-18ce15735588",
@@ -1433,7 +1442,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 50
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/mine-cart-madness"
     },
     {
       "id": "447033ce-ee1f-4cca-bb12-47d22583ac12",
@@ -1493,7 +1503,8 @@
           "time": "20:00:00-04:00",
           "waitTime": 30
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/stardust-racers"
     },
     {
       "id": "281bc9e6-b208-4a70-85d2-0fb749c7658b",
@@ -1561,7 +1572,8 @@
           "time": "20:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/fyre-drill"
     },
     {
       "id": "00feb57b-4fcc-48bc-9490-c9af71f30c1c",
@@ -1641,7 +1653,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/yoshis-adventure"
     },
     {
       "id": "c6b1b8cf-55ef-416c-b00d-e469993617b0",
@@ -1693,7 +1706,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 55
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/hiccups-wing-gliders"
     },
     {
       "id": "f6dc44e3-02f4-414d-9adc-c3c342efa275",

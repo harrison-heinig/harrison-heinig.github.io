@@ -110,7 +110,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/junglecruise/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/jungle-cruise/"
     },
     {
       "id": "d69261dc-62b8-434c-83bd-93649b43c408",
@@ -174,7 +174,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/trick-or-treat-locations-at-mickeys-not-so-scary-halloween-party/"
     },
     {
       "id": "1be7f786-d087-49be-b765-75ee758c0c9c",
@@ -279,7 +280,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/allergy-friendly-trick-or-treat-experience-at-mickeys-not-so-scary-halloween-party/"
     },
     {
       "id": "4a44e3f7-de50-4e80-8077-4125daede42a",
@@ -376,7 +378,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/waltdisneysenchantedtikiroom/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disneys-enchanted-tiki-room/"
     },
     {
       "id": "924a3b2c-6b4b-49e5-99d3-e9dc3f2e8a48",
@@ -458,7 +460,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/thebarnstormer/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-barnstormer/"
     },
     {
       "id": "e40ac396-cbac-43f4-8752-764ed60ccceb",
@@ -492,7 +494,7 @@
           "waitTime": 15
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/waltdisneyworldrailroadfantasyland/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-world-railroad-fantasyland/"
     },
     {
       "id": "f010bc01-b450-4476-a5f3-a5f2813104b2",
@@ -516,7 +518,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/caseyjrsplashnsoakstation/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/casey-jr-splash-n-soak-station/"
     },
     {
       "id": "9d4d5229-7142-44b6-b4fb-528920969a2c",
@@ -610,7 +612,7 @@
           "waitTime": 45
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/sevendwarfsminetrain/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/seven-dwarfs-mine-train/"
     },
     {
       "id": "3cba0cb4-e2a6-402c-93ee-c11ffcb127ef",
@@ -696,7 +698,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/undertheseajourneyofthelittlemermaid/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/under-the-sea-journey-of-the-little-mermaid/"
     },
     {
       "id": "de737ffc-306b-4f32-8bbb-34e5d370ec8f",
@@ -720,7 +722,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/apiratesadventuretreasuresofthesevenseas/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/a-pirate-s-adventure-treasures-of-the-seven-seas/"
     },
     {
       "id": "e76c93df-31af-49a5-8e2f-752c76c937c9",
@@ -782,7 +784,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/enchantedtaleswithbelle/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/enchanted-tales-with-belle/"
     },
     {
       "id": "72c7343a-f7fb-4f66-95df-c91016de7338",
@@ -872,7 +874,7 @@
           "waitTime": 20
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/buzzlightyearsspacerangerspin/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/buzz-lightyear-s-space-ranger-spin/"
     },
     {
       "id": "273ddb8d-e7b5-4e34-8657-1113f49262a5",
@@ -938,7 +940,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/princecharmingregalcarrousel/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/prince-charming-regal-carrousel/"
     },
     {
       "id": "de3309ca-97d5-4211-bffe-739fed47e92f",
@@ -1024,7 +1026,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/bigthundermountainrailroad/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/big-thunder-mountain-railroad/"
     },
     {
       "id": "f5aad2d4-a419-4384-bd9a-42f86385c750",
@@ -1114,7 +1116,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/itsasmallworld/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/it-s-a-small-world/"
     },
     {
       "id": "0aae716c-af13-4439-b638-d75fb1649df3",
@@ -1204,7 +1206,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/madteaparty/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/mad-tea-party/"
     },
     {
       "id": "890fa430-89c0-4a3f-96c9-11597888005e",
@@ -1294,7 +1296,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/dumbotheflyingelephant/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/dumbo-the-flying-elephant/"
     },
     {
       "id": "30fe3c64-af71-4c66-a54b-aa61fd7af177",
@@ -1324,7 +1326,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/swissfamilytreehouse/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/swiss-family-treehouse/"
     },
     {
       "id": "b2260923-9315-40fd-9c6b-44dd811dbe64",
@@ -1414,7 +1416,7 @@
           "waitTime": 25
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/spacemountain/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/space-mountain/"
     },
     {
       "id": "352feb94-e52e-45eb-9c92-e4b44c6b1a9d",
@@ -1504,7 +1506,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/piratesofthecaribbean/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/pirates-of-the-caribbean/"
     },
     {
       "id": "86a41273-5f15-4b54-93b6-829f140e5161",
@@ -1586,7 +1588,7 @@
           "waitTime": 20
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/peterpansflight/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/peter-pan-s-flight/"
     },
     {
       "id": "f163ddcd-43e1-488d-8276-2381c1db0a39",
@@ -1676,7 +1678,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tomorrowlandspeedway/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tomorrowland-speedway/"
     },
     {
       "id": "96455de6-f4f1-403c-9391-bf8396979149",
@@ -1770,7 +1772,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/themagiccarpetsofaladdin/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-magic-carpets-of-aladdin/"
     },
     {
       "id": "e39b831b-7731-49bb-815b-289b4f49a9fd",
@@ -1804,7 +1806,7 @@
           "waitTime": 15
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/waltdisneyworldrailroadmainstreetusa/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disney-world-railroad-main-street-u-s-a/"
     },
     {
       "id": "0f57cecf-5502-4503-8bc3-ba84d3708ace",
@@ -1834,7 +1836,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/countrybearjamboree/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/country-bear-musical-jamboree/"
     },
     {
       "id": "e847a8bd-7d21-432b-a7a1-f483517a22b5",
@@ -2558,7 +2560,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/mickeysphilharmagic/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/mickeys-philharmagic/"
     },
     {
       "id": "8183f3f2-1b59-4b9c-b634-6a863bdf8d84",
@@ -2582,7 +2584,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/waltdisneyscarouselofprogress/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/walt-disneys-carousel-of-progress/"
     },
     {
       "id": "ffcfeaa2-1416-4920-a1ed-543c1a1695c4",
@@ -2652,7 +2654,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tomorrowlandtransitauthoritypeoplemover/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tomorrowland-transit-authority-peoplemover/"
     },
     {
       "id": "e8f0b426-7645-4ea3-8b41-b94ae7091a41",
@@ -2742,7 +2744,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/monstersinclaughfloor/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/monsters-inc-laugh-floor/"
     },
     {
       "id": "2ebfb38c-5cb5-4de1-86c0-f7af14188022",
@@ -2772,7 +2774,7 @@
           "waitTime": 15
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/thehallofpresidents/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-hall-of-presidents/"
     },
     {
       "id": "888fb4a4-7adf-47a1-8ba2-c258cc64fd75",
@@ -2796,7 +2798,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/mainstreetvehicles/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/main-street-vehicles/"
     },
     {
       "id": "90d79335-c907-4069-a021-d0fe1ec73ae2",
@@ -2820,7 +2822,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/cinderellacastle/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/cinderella-castle/"
     },
     {
       "id": "d9d12438-d999-4482-894b-8955fdb20ccf",
@@ -2902,7 +2904,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/astroorbiter/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/astro-orbiter/"
     },
     {
       "id": "2551a77d-023f-4ab1-9a19-8afec0190f39",
@@ -2988,7 +2990,7 @@
           "waitTime": 13
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/hauntedmansion/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/haunted-mansion/"
     },
     {
       "id": "5a43d1a7-ad53-4d25-abfe-25625f0da304",
@@ -3076,7 +3078,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 85
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tron-lightcycle-run/"
     },
     {
       "id": "0d94ad60-72f0-4551-83a6-ebaecdd89737",
@@ -3162,7 +3165,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/themanyadventuresofwinniethepooh/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/the-many-adventures-of-winnie-the-pooh/"
     },
     {
       "id": "73cb9445-0695-47a3-87ce-d08ae36b5f3c",
@@ -3246,7 +3249,8 @@
           "time": "21:30:00-04:00",
           "waitTime": 20
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/magic-kingdom/tianas-bayou-adventure/"
     },
     {
       "id": "8f9bacc9-c055-4da3-a6b7-bc1ce61b6786",

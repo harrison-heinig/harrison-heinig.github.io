@@ -32,7 +32,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/honu"
     },
     {
       "id": "3a3c8fe9-7895-4c56-89c9-aac6d923356d",
@@ -54,7 +55,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/puka-uli-lagoon"
     },
     {
       "id": "26541d09-3004-4d9c-9aee-58a7aea98c1c",
@@ -76,7 +78,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/tot-tiki-reef"
     },
     {
       "id": "6fd38007-60d4-44cd-802c-13c3e9376267",
@@ -98,7 +101,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/punga-racers"
     },
     {
       "id": "5f1005d2-410d-433e-93ec-c8a6a37f4d34",
@@ -120,7 +124,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/the-reef"
     },
     {
       "id": "74fde289-fcc3-47dc-ad9b-395efb04e89e",
@@ -142,7 +147,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/ika-moana"
     },
     {
       "id": "c1cdeb80-67e3-4b75-b057-440004c8f499",
@@ -164,7 +170,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/krakatau-aqua-coaster"
     },
     {
       "id": "b2a614e0-a40c-4f46-85f9-c0556086f6a8",
@@ -186,7 +193,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/kookiri-body-plunge"
     },
     {
       "id": "10da7e41-bdcb-4aec-979d-058325565cc5",
@@ -208,7 +216,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/ohyah"
     },
     {
       "id": "12f59f8b-b684-430e-b5f2-2ebee0e03335",
@@ -230,7 +239,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/ohno"
     },
     {
       "id": "3c1498f0-69d2-4f19-b585-ea050f85c844",
@@ -252,7 +262,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/maku-puihi-round-raft-rides"
     },
     {
       "id": "b7ec0e94-e2bf-40b6-9c7a-a5dee143efdc",
@@ -274,7 +285,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/teawa-the-fearless-river"
     },
     {
       "id": "7f6b4ceb-8129-43ea-b1b4-dab5b9edcf66",
@@ -296,7 +308,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/puihi"
     },
     {
       "id": "09e16a0e-80d8-4569-929f-90252bd724cb",
@@ -318,7 +331,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/waturi-beach"
     },
     {
       "id": "c641eebb-baa6-4573-b110-0edd752bbc7a",
@@ -340,7 +354,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/runamukka-reef"
     },
     {
       "id": "775b87f4-b859-405e-becb-af6ef3e9255a",
@@ -545,7 +560,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/taniwha-tubes"
     },
     {
       "id": "4eb17ae5-c47c-4ad2-97f3-189e56fa6d52",
@@ -567,7 +583,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/kala-and-tai-nui-serpentine-body-slides"
     },
     {
       "id": "9855e94c-7ccb-40a6-a1de-5de82699e1dd",
@@ -589,7 +606,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.universalorlando.com/web/en/us/things-to-do/rides-attractions/kopiko-wai-winding-river"
     }
   ]
 }

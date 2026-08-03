@@ -97,7 +97,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildernessexplorers/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wilderness-explorers/"
     },
     {
       "id": "1b15c77b-0311-4171-8e59-7f38e6d60754",
@@ -161,7 +161,8 @@
           "time": "18:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/zootopia-better-zoogether/"
     },
     {
       "id": "dbd47eef-9fd9-41ca-aeeb-9a83ab9f01ec",
@@ -240,7 +241,7 @@
           "waitTime": 10
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/naviriverjourney/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/"
     },
     {
       "id": "55c531b6-3ce2-4c47-a8a1-0dc9107d825b",
@@ -288,7 +289,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/discoveryislandtrails/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/discovery-island-trails/"
     },
     {
       "id": "b9be5b8f-fe1f-4a77-bcad-5399429ecaa6",
@@ -312,7 +313,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosue/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/dino-sue/"
     },
     {
       "id": "a15ce7cf-342a-4c7a-9372-7a1fa1054747",
@@ -336,7 +337,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/affectionsection/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/affection-section/"
     },
     {
       "id": "6fbe6d02-4057-43bb-80a3-047b1e8a50ca",
@@ -360,7 +361,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/conservationstation/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/conservation-station/"
     },
     {
       "id": "1a8ea967-229a-42a0-8290-59b036c84e14",
@@ -390,7 +391,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajahjungletrek/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajah-jungle-trek/"
     },
     {
       "id": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
@@ -456,7 +457,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kaliriverrapids/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/"
     },
     {
       "id": "bc997600-fcc0-4f6f-b908-a1419b26cfd8",
@@ -480,7 +481,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theoasisexhibits/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/"
     },
     {
       "id": "4f391f0e-52be-4f9d-99d6-b3ae0373b43c",
@@ -522,7 +523,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlifeexpresstrain/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlife-express-train/"
     },
     {
       "id": "f609fcf6-0aef-44ef-b838-f10ff3b8543b",
@@ -961,7 +962,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/treeoflife/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/tree-of-life/"
     },
     {
       "id": "e7976e25-4322-4587-8ded-fb1d9dcbb83c",
@@ -991,7 +992,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/gorillafallsexplorationtrail/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/gorilla-falls-forest-exploration-trail/"
     },
     {
       "id": "43e5558e-2be0-4989-b80b-074afa8302a9",
@@ -1015,7 +1016,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theboneyard/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/"
     },
     {
       "id": "24cf863c-b6ba-4826-a056-0b698989cbf7",
@@ -1077,7 +1078,7 @@
           "waitTime": 45
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatarflightofpassage/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/"
     },
     {
       "id": "32e01181-9a5f-4936-8a77-0dace1de836c",
@@ -1135,7 +1136,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjarosafaris/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjaro-safaris/"
     },
     {
       "id": "64a6915f-a835-4226-ba5c-8389fc4cade3",
@@ -1197,7 +1198,7 @@
           "waitTime": 5
         }
       ],
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expeditioneverestlegendoftheforbiddenmountain/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/"
     },
     {
       "id": "3b7309a5-7b57-4edf-b4e6-36ad958ac21e",
@@ -1221,7 +1222,7 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": true,
-      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theanimationexperienceatconservationstation/"
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/"
     },
     {
       "id": "f526f3ab-190b-4576-8c79-e2968d171b4e",
