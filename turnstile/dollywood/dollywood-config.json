@@ -129,7 +129,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 25
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/firechaser-express/"
     },
     {
       "id": "539b70b5-5e4f-4781-a67e-d2afb47b274d",
@@ -152,7 +153,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/tennessee-mountain-home/"
     },
     {
       "id": "12105b57-a7fc-4c6a-a612-b27d37099e1a",
@@ -286,7 +288,8 @@
           "time": "21:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/Rides/LightningRod"
     },
     {
       "id": "7dd6fcbc-dbab-4a67-bbd7-0f0c20caa010",
@@ -309,7 +312,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/firehouse-fun-yard/"
     },
     {
       "id": "aa994baa-a836-4e1a-9061-a8f8bd9e1a3e",
@@ -338,7 +342,8 @@
           "time": "17:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/amazing-flying-elephants/"
     },
     {
       "id": "b942b7dc-f064-4538-850e-c41e440dce73",
@@ -395,7 +400,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/frogs-and-fireflies/"
     },
     {
       "id": "5d12449a-bc7b-452d-9619-7a9368361237",
@@ -455,7 +461,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/great-tree-swing/"
     },
     {
       "id": "879a9ce0-1778-4c24-9583-f8646423100a",
@@ -478,7 +485,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/robert-f-thomas-chapel/"
     },
     {
       "id": "c11d7e27-aa70-4626-89dc-f485721212b6",
@@ -524,7 +532,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dollywood-express/"
     },
     {
       "id": "52f9426a-9cee-4a7d-923e-3747dcb5b88a",
@@ -557,7 +566,8 @@
           "time": "15:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/shooting-star/"
     },
     {
       "id": "c161f7ea-f79d-433b-88f3-46fdcb052a76",
@@ -637,7 +647,8 @@
           "time": "19:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/scrambler/"
     },
     {
       "id": "3645ba8e-5569-411a-bd2a-502da6ce99c0",
@@ -729,7 +740,8 @@
           "time": "21:00:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/demolition-derby/"
     },
     {
       "id": "1285d2c6-83ff-4f52-bfc1-c9010ab42263",
@@ -852,7 +864,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/rockin-roadway/"
     },
     {
       "id": "9967b777-12d9-4856-84e6-0afafd4dedeb",
@@ -885,7 +898,8 @@
           "time": "16:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/tennessee-tornado/"
     },
     {
       "id": "62ef8201-0a8f-4232-bb8e-04a12eca95cf",
@@ -954,7 +968,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lil-pilots-playground/"
     },
     {
       "id": "d6168982-10ff-44ca-8294-1f10347af657",
@@ -987,7 +1002,8 @@
           "time": "18:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/sky-rider/"
     },
     {
       "id": "4632b405-7cc2-4340-8120-c614987caaf3",
@@ -1090,7 +1106,8 @@
           "time": "18:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/wild-eagle/"
     },
     {
       "id": "ad0fb38c-5047-4a69-9382-feecbb1575d8",
@@ -1113,7 +1130,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/wings-of-america-show-birds/"
     },
     {
       "id": "2a85dcc7-18a0-4036-b4f0-e3a16782886e",
@@ -1136,7 +1154,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lemon-twist/"
     },
     {
       "id": "baf860dd-bda0-4452-b21c-fec0e4aa13a0",
@@ -2090,7 +2109,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/busy-bees/"
     },
     {
       "id": "84f991fb-91d7-4f8f-89bd-c62705d0059b",
@@ -2179,7 +2199,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/nightflight-expedition/"
     },
     {
       "id": "0179909a-801b-4140-9b6e-529eff3026b6",
@@ -2228,7 +2249,8 @@
           "time": "18:30:00-04:00",
           "waitTime": 20
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/smoky-mountain-river-rampage/"
     },
     {
       "id": "ba6a0a85-0c9a-45c3-9332-57bb3ecb4cf2",
@@ -2251,7 +2273,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dropline/"
     },
     {
       "id": "4e337433-4077-4cdc-9a24-2dd69d26c494",
@@ -2316,7 +2339,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/mystery-mine/"
     },
     {
       "id": "fb95612c-888c-4c02-9ec9-65c63668160a",
@@ -2365,7 +2389,8 @@
           "time": "21:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/whistle-punk-chaser/"
     },
     {
       "id": "87872358-6b8b-42a8-af19-801d20e8714c",
@@ -2388,7 +2413,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/barnstormer/"
     },
     {
       "id": "d6da4a75-0242-4372-b7c1-b46f3fddbbe3",
@@ -2411,7 +2437,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/blazing-fury/"
     },
     {
       "id": "ef7423d2-0a35-4af2-9864-45fde8d26f0c",
@@ -2434,7 +2461,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dolly-parton-experience/"
     },
     {
       "id": "6e5c2e5c-403f-45ac-acc2-28873a787938",
@@ -2457,7 +2485,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/piggy-parade/"
     },
     {
       "id": "87ed9353-825f-4718-b2a3-b7d2cd6f8ff5",
@@ -2503,7 +2532,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/grannys-garden/"
     },
     {
       "id": "305a41f4-f83f-486c-81f0-f2a011ac251a",
@@ -2526,7 +2556,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/calico-falls-schoolhouse/"
     },
     {
       "id": "b4a7752a-c9f4-45c0-a7dd-b8e6a2a82a62",
@@ -2587,7 +2618,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/mad-mockingbird/"
     },
     {
       "id": "d5e17cd1-1c27-48bf-bd6d-b3ad79d85476",
@@ -2610,7 +2642,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/village-carousel/"
     },
     {
       "id": "55f9e660-314a-4dfc-be10-a08c22ea610d",
@@ -2679,7 +2712,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 20
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/black-bear-trail/"
     },
     {
       "id": "6f167de7-db72-4377-b855-f6078a36a5ea",
@@ -2702,7 +2736,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/eagle-mountain-sanctuary/"
     },
     {
       "id": "45c88a38-4915-45ac-9248-a835c6bf6b44",
@@ -2735,7 +2770,8 @@
           "time": "20:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lumberjack-lifts/"
     },
     {
       "id": "cce69681-1b4d-40d6-9f9f-ef7d6f09b638",
@@ -2831,7 +2867,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dragonflier/"
     },
     {
       "id": "b12993d3-cdb7-401c-b935-560dc83f76ff",
@@ -2904,7 +2941,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/thunderhead/"
     },
     {
       "id": "3f49bdb1-a183-46a5-bb47-4858d670690c",
@@ -2927,7 +2965,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/wildwood-grove/"
     },
     {
       "id": "16c7ed70-253d-4dd4-8a06-176fc652a68d",
@@ -2960,7 +2999,8 @@
           "time": "15:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/daredevil-falls/"
     },
     {
       "id": "279f4d7b-0bf4-413f-8db2-b8dc08ac6e64",
@@ -3009,7 +3049,8 @@
           "time": "17:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/treetop-tower/"
     },
     {
       "id": "246a8bfc-5022-4b0f-bb2a-9c481a7c12f1",
@@ -3046,7 +3087,8 @@
           "time": "16:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/waltzing-swinger/"
     },
     {
       "id": "443aff42-6611-4eda-bb19-329f1fe83c37",
@@ -3069,7 +3111,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lucky-ducky/"
     },
     {
       "id": "3c06a267-0ede-448e-8016-1f961c6b3f7b",
@@ -3092,7 +3135,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/wildwood-creek/"
     },
     {
       "id": "85fad72b-6e19-4799-a4f6-924364e0374d",
@@ -3115,7 +3159,8 @@
         "reliability": 7
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/hidden-hollow/"
     },
     {
       "id": "8fe6a677-2c95-460f-8948-14523121aeef",
@@ -3418,7 +3463,8 @@
           "time": "22:00:00-04:00",
           "waitTime": 20
         }
-      ]
+      ],
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/big-bear-mountain/"
     },
     {
       "id": "2c5ba5c7-092a-4376-8a60-0362033bdfa2",

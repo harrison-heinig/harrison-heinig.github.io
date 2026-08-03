@@ -14,7 +14,7 @@
   "entities": [
     {
       "id": "b798c405-bffe-4068-ae84-95b108f21122",
-      "name": "Daisy\u2019s Dig at Restaurantosaurus",
+      "name": "Daisy’s Dig at Restaurantosaurus",
       "shortName": "Daisy's Dig",
       "entityType": "SHOW",
       "isCharacterSpot": true,
@@ -96,7 +96,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildernessexplorers/"
     },
     {
       "id": "1b15c77b-0311-4171-8e59-7f38e6d60754",
@@ -238,7 +239,8 @@
           "time": "19:00:00-04:00",
           "waitTime": 10
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/naviriverjourney/"
     },
     {
       "id": "55c531b6-3ce2-4c47-a8a1-0dc9107d825b",
@@ -261,7 +263,8 @@
         "reliability": 6
       },
       "hasLightningLane": true,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosaur/"
     },
     {
       "id": "4d27b0d7-2b0a-4569-90fa-e79f117ec7ef",
@@ -284,7 +287,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/discoveryislandtrails/"
     },
     {
       "id": "b9be5b8f-fe1f-4a77-bcad-5399429ecaa6",
@@ -307,7 +311,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/dinosue/"
     },
     {
       "id": "a15ce7cf-342a-4c7a-9372-7a1fa1054747",
@@ -330,7 +335,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/affectionsection/"
     },
     {
       "id": "6fbe6d02-4057-43bb-80a3-047b1e8a50ca",
@@ -353,7 +359,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/conservationstation/"
     },
     {
       "id": "1a8ea967-229a-42a0-8290-59b036c84e14",
@@ -382,7 +389,8 @@
           "time": "14:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajahjungletrek/"
     },
     {
       "id": "d58d9262-ec95-4161-80a0-07ca43b2f5f3",
@@ -447,7 +455,8 @@
           "time": "19:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kaliriverrapids/"
     },
     {
       "id": "bc997600-fcc0-4f6f-b908-a1419b26cfd8",
@@ -470,7 +479,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theoasisexhibits/"
     },
     {
       "id": "4f391f0e-52be-4f9d-99d6-b3ae0373b43c",
@@ -511,7 +521,8 @@
           "time": "15:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlifeexpresstrain/"
     },
     {
       "id": "f609fcf6-0aef-44ef-b838-f10ff3b8543b",
@@ -607,7 +618,7 @@
     },
     {
       "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
-      "name": "Yak & Yeti\u2122 Restaurant",
+      "name": "Yak & Yeti™ Restaurant",
       "shortName": "Yak & Yeti Restaurant",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -630,7 +641,7 @@
     },
     {
       "id": "6c1fb59d-e0c0-4d42-b57a-4fc0e02414c9",
-      "name": "Yak & Yeti\u2122 Local Food Cafes",
+      "name": "Yak & Yeti™ Local Food Cafes",
       "shortName": "Yak & Yeti Local Foods",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -653,7 +664,7 @@
     },
     {
       "id": "84f51faa-72a3-4491-9449-20a999e5885c",
-      "name": "Yak & Yeti\u2122 Quality Beverages",
+      "name": "Yak & Yeti™ Quality Beverages",
       "shortName": "Yak & Yeti Beverages",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -676,7 +687,7 @@
     },
     {
       "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
-      "name": "Rainforest Cafe\u00ae at Disney's Animal Kingdom",
+      "name": "Rainforest Cafe® at Disney's Animal Kingdom",
       "shortName": "Rainforest Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -887,7 +898,7 @@
     },
     {
       "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
-      "name": "Harambe Village Street Band \u2013 Burudika",
+      "name": "Harambe Village Street Band – Burudika",
       "shortName": "Burudika",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -949,7 +960,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/treeoflife/"
     },
     {
       "id": "e7976e25-4322-4587-8ded-fb1d9dcbb83c",
@@ -978,7 +990,8 @@
           "time": "14:30:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/gorillafallsexplorationtrail/"
     },
     {
       "id": "43e5558e-2be0-4989-b80b-074afa8302a9",
@@ -1001,7 +1014,8 @@
         "reliability": 8
       },
       "hasLightningLane": false,
-      "hasAirConditioning": false
+      "hasAirConditioning": false,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theboneyard/"
     },
     {
       "id": "24cf863c-b6ba-4826-a056-0b698989cbf7",
@@ -1062,7 +1076,8 @@
           "time": "19:00:00-04:00",
           "waitTime": 45
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatarflightofpassage/"
     },
     {
       "id": "32e01181-9a5f-4936-8a77-0dace1de836c",
@@ -1119,7 +1134,8 @@
           "time": "19:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjarosafaris/"
     },
     {
       "id": "64a6915f-a835-4226-ba5c-8389fc4cade3",
@@ -1180,7 +1196,8 @@
           "time": "19:00:00-04:00",
           "waitTime": 5
         }
-      ]
+      ],
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expeditioneverestlegendoftheforbiddenmountain/"
     },
     {
       "id": "3b7309a5-7b57-4edf-b4e6-36ad958ac21e",
@@ -1203,7 +1220,8 @@
         "reliability": 9
       },
       "hasLightningLane": false,
-      "hasAirConditioning": true
+      "hasAirConditioning": true,
+      "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/theanimationexperienceatconservationstation/"
     },
     {
       "id": "f526f3ab-190b-4576-8c79-e2968d171b4e",
@@ -1250,7 +1268,7 @@
     },
     {
       "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
-      "name": "Animal Encounters: Winged Encounters \u2013 The Kingdom Takes Flight",
+      "name": "Animal Encounters: Winged Encounters – The Kingdom Takes Flight",
       "shortName": "Winged Encounters",
       "entityType": "SHOW",
       "isCharacterSpot": false,
