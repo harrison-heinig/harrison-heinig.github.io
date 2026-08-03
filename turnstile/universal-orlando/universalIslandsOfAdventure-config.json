@@ -128,7 +128,7 @@
     {
       "id": "6be23178-7d00-4884-9e88-76787da1df86",
       "name": "The Amazing Adventures of Spider-Man®",
-      "shortName": "The Amazing Adventures of Spider-Man®",
+      "shortName": "Spider-Man Adventure",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -172,7 +172,7 @@
     {
       "id": "6af80308-647d-4d8b-bcf6-37517a93bdbc",
       "name": "Harry Potter and the Forbidden Journey™",
-      "shortName": "Harry Potter and the Forbidden Journey™",
+      "shortName": "Forbidden Journey",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -194,7 +194,7 @@
     {
       "id": "b1e94e05-b360-4e3f-be8a-2a3744a97f97",
       "name": "One Fish, Two Fish, Red Fish, Blue Fish™",
-      "shortName": "One Fish, Two Fish, Red Fish, Blue Fish™",
+      "shortName": "One Fish, Two Fish",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -260,7 +260,7 @@
     {
       "id": "578bbd12-1975-4ec3-9879-ea641c780342",
       "name": "Hagrid's Magical Creatures Motorbike Adventure™",
-      "shortName": "Hagrid's Magical Creatures Motorbike Adventure™",
+      "shortName": "Hagrid's Motorbike Adventure",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -282,7 +282,7 @@
     {
       "id": "b73e3256-9ee0-439e-9a3b-ffed287e10bb",
       "name": "The High in the Sky Seuss Trolley Train Ride!™",
-      "shortName": "The High in the Sky Seuss Trolley Train Ride!™",
+      "shortName": "Seuss Trolley Train Ride",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -304,7 +304,7 @@
     {
       "id": "144450b9-4574-46be-abdf-4b1ca8974d9d",
       "name": "Hogwarts Express™ - Hogsmeade™ Station",
-      "shortName": "Hogwarts Express™ - Hogsmeade™ Station",
+      "shortName": "Hogwarts Express: Hogsmeade",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -370,7 +370,7 @@
     {
       "id": "b4445a1c-4d5c-4fca-a04a-f8867f1b6619",
       "name": "Popeye & Bluto's Bilge-Rat Barges®",
-      "shortName": "Popeye & Bluto's Bilge-Rat Barges®",
+      "shortName": "Popeye & Bluto's Barges",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -461,7 +461,7 @@
     {
       "id": "905d7888-b866-4e74-90d1-07fc6ef6706f",
       "name": "Dudley Do-Right's Ripsaw Falls®",
-      "shortName": "Dudley Do-Right's Ripsaw Falls®",
+      "shortName": "Dudley Do-Right's Ripsaw Falls",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -505,7 +505,7 @@
     {
       "id": "d7310719-f158-4d92-a476-13202c7162cd",
       "name": "Ollivanders™ Experience in Hogsmeade™",
-      "shortName": "Ollivanders™ Experience in Hogsmeade™",
+      "shortName": "Ollivanders in Hogsmeade",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -706,7 +706,7 @@
     {
       "id": "7d7d0062-2629-4b76-80df-422ffadca153",
       "name": "Circus McGurkus Cafe Stoo-pendous™",
-      "shortName": "Circus McGurkus Cafe Stoo-pendous™",
+      "shortName": "Circus McGurkus Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -729,7 +729,7 @@
     {
       "id": "721e26e0-cc64-4333-95a4-8887c00c475f",
       "name": "Circus McGurkus Cafe Stoo-pendous™ Pickup",
-      "shortName": "Circus McGurkus Cafe Stoo-pendous™ Pickup",
+      "shortName": "Circus McGurkus Pickup",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1231,7 +1231,7 @@
     {
       "id": "c6c26dd9-bb82-49de-9fca-9245be6a8081",
       "name": "Meet Spider-Man and the Marvel® Super Heroes",
-      "shortName": "Meet Spider-Man and the Marvel® Super Heroes",
+      "shortName": "Meet Marvel Super Heroes",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,

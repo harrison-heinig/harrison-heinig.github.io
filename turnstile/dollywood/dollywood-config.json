@@ -60,7 +60,7 @@
     },
     {
       "id": "d3633775-d0cd-4417-adfa-0daf77a35782",
-      "name": "FireChaser Express \u00ae",
+      "name": "FireChaser Express ®",
       "shortName": "FireChaser Express",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -134,7 +134,7 @@
     {
       "id": "539b70b5-5e4f-4781-a67e-d2afb47b274d",
       "name": "Dolly's Tennessee Mountain Home",
-      "shortName": "Dolly's Tennessee Mountain Home",
+      "shortName": "Dolly's Mountain Home",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -225,7 +225,7 @@
     },
     {
       "id": "adc452a2-9389-40e8-afca-ecd3b9e39afb",
-      "name": "Lightning Rod \u00ae",
+      "name": "Lightning Rod ®",
       "shortName": "Lightning Rod",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "59b497c0-9076-48e6-bc5b-c6a83b4b1468",
-      "name": "Wild Eagle \u00ae",
+      "name": "Wild Eagle ®",
       "shortName": "Wild Eagle",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -1186,8 +1186,8 @@
     },
     {
       "id": "4016fe55-32cc-4cf4-bf05-52941f990499",
-      "name": "Front Porch Caf\u00e9",
-      "shortName": "Front Porch Caf\u00e9",
+      "name": "Front Porch Café",
+      "shortName": "Front Porch Café",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1209,7 +1209,7 @@
     },
     {
       "id": "eb479728-234f-4211-88eb-0516a81ded29",
-      "name": "Dippin' Dots\u00ae",
+      "name": "Dippin' Dots®",
       "shortName": "Dippin' Dots",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1322,8 +1322,8 @@
     },
     {
       "id": "b0305189-6b3a-4716-93eb-22701b4c3c76",
-      "name": "Perondi\u2019s Stunt Dog Experience",
-      "shortName": "Perondi\u2019s Stunt Dog Experience",
+      "name": "Perondi’s Stunt Dog Experience",
+      "shortName": "Perondi’s Stunt Dog Experience",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1344,8 +1344,8 @@
     },
     {
       "id": "4f26d1da-eff0-4fab-bbe5-61ea015af1c3",
-      "name": "Grandstand Caf\u00e9",
-      "shortName": "Grandstand Caf\u00e9",
+      "name": "Grandstand Café",
+      "shortName": "Grandstand Café",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1390,7 +1390,7 @@
     {
       "id": "932754b1-660a-4d06-b4d1-1c55c86f6fdb",
       "name": "Dollywood's Sweet Summer Nights Dance Party",
-      "shortName": "Sweet Summer Nights Dance Party",
+      "shortName": "Summer Nights Dance Party",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1434,7 +1434,7 @@
     {
       "id": "7f6bbe43-c454-4977-afd5-68f8fd066dad",
       "name": "Dollywood's Sweet Summer Nights 3D Drone & Fireworks Show",
-      "shortName": "Sweet Summer Nights 3D Drone & Fireworks Show",
+      "shortName": "Summer Nights Drone Show",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1566,7 +1566,7 @@
     {
       "id": "205af165-186c-4b56-ab70-265f48741e84",
       "name": "Storytime with Characters & Friends",
-      "shortName": "Storytime with Characters & Friends",
+      "shortName": "Character Storytime",
       "entityType": "SHOW",
       "isCharacterSpot": true,
       "hasCastMemberPhotographer": false,
@@ -1588,7 +1588,7 @@
     {
       "id": "5f25e4f2-b025-4c53-9ab6-8421898dd8b2",
       "name": "Merry & Bright, Holiday Light! Fireworks Show",
-      "shortName": "Merry & Bright, Holiday Light! Fireworks Show",
+      "shortName": "Merry & Bright Fireworks",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1610,7 +1610,7 @@
     {
       "id": "e6144aa1-2199-4bc3-bfea-c941bc74e1d2",
       "name": "Heidi Parton's A Christmas To Remember",
-      "shortName": "Heidi Parton's A Christmas To Remember",
+      "shortName": "A Christmas To Remember",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1654,7 +1654,7 @@
     {
       "id": "afc1fd6a-1304-4729-9b50-80478f2a92d3",
       "name": "Santa's List... Naughty or Nice?",
-      "shortName": "Santa's List... Naughty or Nice?",
+      "shortName": "Santa's Naughty or Nice List",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1742,7 +1742,7 @@
     {
       "id": "6c067390-2ec3-4041-960e-362c28490f9a",
       "name": "Flit and Flutter Meet and Greet",
-      "shortName": "Flit and Flutter Meet and Greet",
+      "shortName": "Meet Flit and Flutter",
       "entityType": "SHOW",
       "isCharacterSpot": true,
       "hasCastMemberPhotographer": false,
@@ -1786,7 +1786,7 @@
     {
       "id": "8cf153b0-6c94-4396-8d5f-eb7c22c76405",
       "name": "Wings of America Presents a Zookeeper Chat",
-      "shortName": "Wings of America Presents a Zookeeper Chat",
+      "shortName": "Wings of America Chat",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1807,8 +1807,8 @@
     },
     {
       "id": "80fd4169-e5a4-459a-b550-91a23c2064a8",
-      "name": "Gazillion Bubble Show \u2013 Evolution",
-      "shortName": "Gazillion Bubble Show \u2013 Evolution",
+      "name": "Gazillion Bubble Show – Evolution",
+      "shortName": "Gazillion Bubble Show",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1852,7 +1852,7 @@
     {
       "id": "76593af3-6737-40ef-abcf-db32e76ee132",
       "name": "From The Heart - The Life and Music of Dolly Parton",
-      "shortName": "From The Heart - The Life and Music of Dolly Parton",
+      "shortName": "From The Heart",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1917,8 +1917,8 @@
     },
     {
       "id": "400f5e7e-7370-4a67-8102-2a7b5dcfa5db",
-      "name": "Heidi Parton\u2019s Kin & Friends",
-      "shortName": "Heidi Parton\u2019s Kin & Friends",
+      "name": "Heidi Parton’s Kin & Friends",
+      "shortName": "Heidi Parton’s Kin & Friends",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -2028,7 +2028,7 @@
     {
       "id": "1a7b2330-6d66-4ff3-8967-5578feaaea07",
       "name": "Twas the Night Before Christmas",
-      "shortName": "Twas the Night Before Christmas",
+      "shortName": "Night Before Christmas",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -2095,7 +2095,7 @@
     {
       "id": "84f991fb-91d7-4f8f-89bd-c62705d0059b",
       "name": "Christmas With The Kingdom Heirs",
-      "shortName": "Christmas With The Kingdom Heirs",
+      "shortName": "Christmas with Kingdom Heirs",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -2232,7 +2232,7 @@
     },
     {
       "id": "ba6a0a85-0c9a-45c3-9332-57bb3ecb4cf2",
-      "name": "Drop Line\u00ae",
+      "name": "Drop Line®",
       "shortName": "Drop Line",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2255,7 +2255,7 @@
     },
     {
       "id": "4e337433-4077-4cdc-9a24-2dd69d26c494",
-      "name": "Mystery Mine \u00ae",
+      "name": "Mystery Mine ®",
       "shortName": "Mystery Mine",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2320,7 +2320,7 @@
     },
     {
       "id": "fb95612c-888c-4c02-9ec9-65c63668160a",
-      "name": "Whistle Punk Chaser\u00ae",
+      "name": "Whistle Punk Chaser®",
       "shortName": "Whistle Punk Chaser",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2835,7 +2835,7 @@
     },
     {
       "id": "b12993d3-cdb7-401c-b935-560dc83f76ff",
-      "name": "Thunderhead \u00ae",
+      "name": "Thunderhead ®",
       "shortName": "Thunderhead",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -3189,7 +3189,7 @@
     {
       "id": "404516d7-a902-4f55-862c-7b52c163ea3f",
       "name": "Cinnamon Bread at The Grist Mill",
-      "shortName": "Cinnamon Bread at The Grist Mill",
+      "shortName": "Grist Mill Cinnamon Bread",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -3280,7 +3280,7 @@
     },
     {
       "id": "f1ffd127-cd66-4e03-b59c-5f1beac05fb1",
-      "name": "Market Square BIG SKILLET \u00ae",
+      "name": "Market Square BIG SKILLET ®",
       "shortName": "Market Square BIG SKILLET",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -3467,7 +3467,7 @@
     {
       "id": "dca4ea65-4c3a-44d5-9681-478d1128407a",
       "name": "Wildwood Grove Characters Meet & Greet",
-      "shortName": "Wildwood Grove Characters Meet & Greet",
+      "shortName": "Wildwood Grove Meet & Greet",
       "entityType": "SHOW",
       "isCharacterSpot": true,
       "hasCastMemberPhotographer": false,
@@ -3489,7 +3489,7 @@
     {
       "id": "87bf27e4-74e3-4eb3-bf2e-7066d1ab79d6",
       "name": "The Little Engine that Could - Based on the book by Watty Piper",
-      "shortName": "The Little Engine that Could - Based on the book by Watty Piper",
+      "shortName": "The Little Engine That Could",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -3511,7 +3511,7 @@
     {
       "id": "57db4212-42bc-4e28-abfb-cf1753e66c7f",
       "name": "Coat of Many Colors - Based on the book by Dolly Parton",
-      "shortName": "Coat of Many Colors - Based on the book by Dolly Parton",
+      "shortName": "Coat of Many Colors",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -3533,7 +3533,7 @@
     {
       "id": "71400858-b3b3-41b7-ae33-7d0ffc270a41",
       "name": "Something Wild - Based on the book by Molly Ruttan",
-      "shortName": "Something Wild - Based on the book by Molly Ruttan",
+      "shortName": "Something Wild",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,

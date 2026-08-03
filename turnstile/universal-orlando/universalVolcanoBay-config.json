@@ -191,7 +191,7 @@
     {
       "id": "10da7e41-bdcb-4aec-979d-058325565cc5",
       "name": "Ohyah of the Ohyah and Ohno Drop Slides™",
-      "shortName": "Ohyah of the Ohyah and Ohno Drop Slides™",
+      "shortName": "Ohyah Drop Slide",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -213,7 +213,7 @@
     {
       "id": "12f59f8b-b684-430e-b5f2-2ebee0e03335",
       "name": "Ohno of the Ohyah and Ohno Drop Slides™",
-      "shortName": "Ohno of the Ohyah and Ohno Drop Slides™",
+      "shortName": "Ohno Drop Slide",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -235,7 +235,7 @@
     {
       "id": "3c1498f0-69d2-4f19-b585-ea050f85c844",
       "name": "Maku of Maku Puihi Round Raft Rides™",
-      "shortName": "Maku of Maku Puihi Round Raft Rides™",
+      "shortName": "Maku Round Raft Ride",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -279,7 +279,7 @@
     {
       "id": "7f6b4ceb-8129-43ea-b1b4-dab5b9edcf66",
       "name": "Puihi of Maku Puihi Round Raft Rides™",
-      "shortName": "Puihi of Maku Puihi Round Raft Rides™",
+      "shortName": "Puihi Round Raft Ride",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -390,7 +390,7 @@
     {
       "id": "e4a1b677-9067-4c98-aabb-ce70b560e06a",
       "name": "Kohola Reef Restaurant & Social Club™",
-      "shortName": "Kohola Reef Restaurant & Social Club™",
+      "shortName": "Kohola Reef Restaurant",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -550,7 +550,7 @@
     {
       "id": "4eb17ae5-c47c-4ad2-97f3-189e56fa6d52",
       "name": "Kala & Tai Nui Serpentine Body Slides™",
-      "shortName": "Kala & Tai Nui Serpentine Body Slides™",
+      "shortName": "Kala & Tai Nui Slides",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,

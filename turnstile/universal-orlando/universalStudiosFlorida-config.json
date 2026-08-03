@@ -191,7 +191,7 @@
     {
       "id": "625a3cc3-7d7e-468b-96fe-1ec00df7b739",
       "name": "Race Through New York Starring Jimmy Fallon™",
-      "shortName": "Race Through New York Starring Jimmy Fallon™",
+      "shortName": "Race Through New York",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -236,7 +236,7 @@
     {
       "id": "f0750e5e-7629-4c53-99d2-e0924a8afeed",
       "name": "Hogwarts Express™ - King's Cross Station",
-      "shortName": "Hogwarts Express™ - King's Cross Station",
+      "shortName": "Hogwarts Express: King's Cross",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -302,7 +302,7 @@
     {
       "id": "70ac72a3-9675-4c41-a1b1-e4801072927a",
       "name": "Harry Potter and the Escape from Gringotts™",
-      "shortName": "Harry Potter and the Escape from Gringotts™",
+      "shortName": "Escape from Gringotts",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -324,7 +324,7 @@
     {
       "id": "1cf7e8a5-6611-44a9-acf1-fbff7a835056",
       "name": "Universal Orlando's Horror Make-Up Show™",
-      "shortName": "Universal Orlando's Horror Make-Up Show™",
+      "shortName": "Horror Make-Up Show",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -346,7 +346,7 @@
     {
       "id": "e99b72a6-37d0-46df-ab11-e9ff6603f259",
       "name": "Ollivanders™ Experience in Diagon Alley™",
-      "shortName": "Ollivanders™ Experience in Diagon Alley™",
+      "shortName": "Ollivanders in Diagon Alley",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -611,7 +611,7 @@
     {
       "id": "1524b67b-4984-4a80-9d9f-753b8482c6f0",
       "name": "Celestina Warbeck and the Banshees",
-      "shortName": "Celestina Warbeck and the Banshees",
+      "shortName": "Celestina and the Banshees",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -721,7 +721,7 @@
     {
       "id": "5c5dec98-962b-4808-ac6d-09feb283b771",
       "name": "CineSational: A Symphonic Spectacular",
-      "shortName": "CineSational: A Symphonic Spectacular",
+      "shortName": "CineSational",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -858,7 +858,7 @@
     {
       "id": "0666c2aa-ac92-46f2-adda-2cbdf1381a8f",
       "name": "Florean Fortescue’s Ice-Cream Parlour",
-      "shortName": "Florean Fortescue’s Ice-Cream Parlour",
+      "shortName": "Florean Fortescue’s",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1226,7 +1226,7 @@
     {
       "id": "5538b31f-a6ca-4a9e-8d75-70cb0f9a6aed",
       "name": "Illumination’s Minion Cafe Pickup",
-      "shortName": "Illumination’s Minion Cafe Pickup",
+      "shortName": "Minion Cafe Pickup",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1525,7 +1525,7 @@
     {
       "id": "6c983339-82c2-48b8-99fa-feff2051bc49",
       "name": "Pop-A-Nana Popcorn and Drink Cart",
-      "shortName": "Pop-A-Nana Popcorn and Drink Cart",
+      "shortName": "Pop-A-Nana",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1640,7 +1640,7 @@
     {
       "id": "f44a531c-09cf-40c4-b2d4-236e8a9285dc",
       "name": "Hogwarts™ Express - First Train",
-      "shortName": "Hogwarts™ Express - First Train",
+      "shortName": "Hogwarts Express: First Train",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1706,7 +1706,7 @@
     {
       "id": "25d47d04-a917-405a-9904-9be2b499b2dd",
       "name": "Illumination's Villain-Con Minion Blast",
-      "shortName": "Illumination's Villain-Con Minion Blast",
+      "shortName": "Villain-Con Minion Blast",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1772,7 +1772,7 @@
     {
       "id": "c85d936f-c5b7-490b-880b-6f0bf44ba557",
       "name": "DreamWorks Imagination Celebration",
-      "shortName": "DreamWorks Imagination Celebration",
+      "shortName": "DreamWorks Celebration",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1860,7 +1860,7 @@
     {
       "id": "14af192d-dfce-4bdb-bf5c-1c1957499a6a",
       "name": "Meet SpongeBob SquarePants and Friends",
-      "shortName": "Meet SpongeBob SquarePants and Friends",
+      "shortName": "Meet SpongeBob and Friends",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
