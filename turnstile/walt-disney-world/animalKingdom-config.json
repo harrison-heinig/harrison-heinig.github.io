@@ -14,7 +14,7 @@
   "entities": [
     {
       "id": "b798c405-bffe-4068-ae84-95b108f21122",
-      "name": "Daisy’s Dig at Restaurantosaurus",
+      "name": "Daisy\u2019s Dig at Restaurantosaurus",
       "shortName": "Daisy's Dig",
       "entityType": "SHOW",
       "isCharacterSpot": true,
@@ -123,14 +123,42 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 13
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 20
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 18
         },
         {
           "time": "12:00:00-04:00",
+          "waitTime": 18
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 10
         },
         {
@@ -210,23 +238,55 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 35
-        },
-        {
-          "time": "11:30:00-04:00",
           "waitTime": 45
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 50
+        },
+        {
           "time": "12:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "12:30:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 45
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 55
+        },
+        {
           "time": "15:30:00-04:00",
-          "waitTime": 37
+          "waitTime": 35
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 28
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 30
         },
         {
           "time": "17:30:00-04:00",
@@ -238,7 +298,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 15
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/"
@@ -387,6 +447,10 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "09:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 5
         }
@@ -418,15 +482,39 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 37
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 50
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 28
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 33
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 75
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 60
         },
         {
           "time": "15:00:00-04:00",
@@ -434,19 +522,23 @@
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 35
+          "waitTime": 46
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 33
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 35
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 35
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 28
         },
         {
           "time": "18:30:00-04:00",
@@ -454,7 +546,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 8
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/"
@@ -507,8 +599,16 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "08:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "09:30:00-04:00",
           "waitTime": 10
+        },
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 15
         },
         {
           "time": "11:00:00-04:00",
@@ -517,6 +617,10 @@
         {
           "time": "12:00:00-04:00",
           "waitTime": 10
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "15:00:00-04:00",
@@ -619,7 +723,7 @@
     },
     {
       "id": "cea213d9-bf4f-408a-ac61-768e7709ab7d",
-      "name": "Yak & Yeti™ Restaurant",
+      "name": "Yak & Yeti\u2122 Restaurant",
       "shortName": "Yak & Yeti Restaurant",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -642,7 +746,7 @@
     },
     {
       "id": "6c1fb59d-e0c0-4d42-b57a-4fc0e02414c9",
-      "name": "Yak & Yeti™ Local Food Cafes",
+      "name": "Yak & Yeti\u2122 Local Food Cafes",
       "shortName": "Yak & Yeti Local Foods",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -665,7 +769,7 @@
     },
     {
       "id": "84f51faa-72a3-4491-9449-20a999e5885c",
-      "name": "Yak & Yeti™ Quality Beverages",
+      "name": "Yak & Yeti\u2122 Quality Beverages",
       "shortName": "Yak & Yeti Beverages",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -688,7 +792,7 @@
     },
     {
       "id": "224d803c-cd7a-45d8-bfab-d843f2030983",
-      "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+      "name": "Rainforest Cafe\u00ae at Disney's Animal Kingdom",
       "shortName": "Rainforest Cafe",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -846,24 +950,56 @@
       "hasAirConditioning": true,
       "forecast": [
         {
-          "time": "10:00:00-04:00",
-          "waitTime": 15
+          "time": "09:00:00-04:00",
+          "waitTime": 30
         },
         {
-          "time": "11:30:00-04:00",
+          "time": "10:00:00-04:00",
           "waitTime": 20
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 25
+        },
+        {
           "time": "12:00:00-04:00",
+          "waitTime": 23
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 20
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 23
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 25
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 50
         },
         {
           "time": "17:00:00-04:00",
@@ -871,7 +1007,7 @@
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 45
         }
       ]
     },
@@ -899,7 +1035,7 @@
     },
     {
       "id": "a8781403-1344-4c06-89ef-b7a39b99ae59",
-      "name": "Harambe Village Street Band – Burudika",
+      "name": "Harambe Village Street Band \u2013 Burudika",
       "shortName": "Burudika",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -988,6 +1124,10 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "08:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 5
         }
@@ -1043,27 +1183,55 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 95
+          "waitTime": 100
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 120
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 120
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 95
+          "waitTime": 110
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 55
+          "waitTime": 88
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 125
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 105
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 80
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 70
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 50
+          "waitTime": 63
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 53
+          "waitTime": 58
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 55
+          "waitTime": 63
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 60
         },
         {
           "time": "17:30:00-04:00",
@@ -1071,11 +1239,11 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 46
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 48
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/"
@@ -1105,22 +1273,58 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 48
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 45
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 35
+          "waitTime": 42
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 40
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 45
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 13
         },
         {
           "time": "16:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "17:00:00-04:00",
           "waitTime": 10
         },
         {
@@ -1133,7 +1337,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 8
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjaro-safaris/"
@@ -1166,20 +1370,48 @@
           "waitTime": 30
         },
         {
-          "time": "11:30:00-04:00",
+          "time": "10:30:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "11:00:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "11:30:00-04:00",
+          "waitTime": 38
+        },
+        {
           "time": "12:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 40
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 60
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 50
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 27
+          "waitTime": 35
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 45
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 45
         },
         {
           "time": "17:30:00-04:00",
@@ -1187,7 +1419,7 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 17
         },
         {
           "time": "18:30:00-04:00",
@@ -1195,7 +1427,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 10
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/"
@@ -1269,7 +1501,7 @@
     },
     {
       "id": "93d3c183-737f-4e26-98f9-b18a3e190393",
-      "name": "Animal Encounters: Winged Encounters – The Kingdom Takes Flight",
+      "name": "Animal Encounters: Winged Encounters \u2013 The Kingdom Takes Flight",
       "shortName": "Winged Encounters",
       "entityType": "SHOW",
       "isCharacterSpot": false,

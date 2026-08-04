@@ -5,8 +5,8 @@
     "name": "Dollywood",
     "location": {
       "latitude": 35.794496,
-      "longitude": -83.53180,
-      "mapSpan": 0.009000
+      "longitude": -83.5318,
+      "mapSpan": 0.009
     },
     "liveDataFileName": "dollywood-live.json",
     "includeNonLiveEntities": true
@@ -60,7 +60,7 @@
     },
     {
       "id": "d3633775-d0cd-4417-adfa-0daf77a35782",
-      "name": "FireChaser Express ®",
+      "name": "FireChaser Express \u00ae",
       "shortName": "FireChaser Express",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -83,43 +83,79 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 13
         },
         {
-          "time": "11:30:00-04:00",
+          "time": "10:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:00:00-04:00",
           "waitTime": 50
         },
         {
-          "time": "12:00:00-04:00",
-          "waitTime": 45
+          "time": "11:30:00-04:00",
+          "waitTime": 43
         },
         {
-          "time": "15:00:00-04:00",
+          "time": "12:00:00-04:00",
+          "waitTime": 53
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 65
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 60
         },
         {
-          "time": "16:00:00-04:00",
+          "time": "15:00:00-04:00",
+          "waitTime": 68
+        },
+        {
+          "time": "15:30:00-04:00",
           "waitTime": 20
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 23
         },
         {
           "time": "16:30:00-04:00",
           "waitTime": 55
         },
         {
+          "time": "17:00:00-04:00",
+          "waitTime": 45
+        },
+        {
           "time": "17:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 20
         },
         {
           "time": "18:00:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "18:30:00-04:00",
+          "waitTime": 15
+        },
+        {
           "time": "19:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 20
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 15
         },
         {
           "time": "20:00:00-04:00",
@@ -227,7 +263,7 @@
     },
     {
       "id": "adc452a2-9389-40e8-afca-ecd3b9e39afb",
-      "name": "Lightning Rod ®",
+      "name": "Lightning Rod \u00ae",
       "shortName": "Lightning Rod",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -253,24 +289,56 @@
           "waitTime": 20
         },
         {
-          "time": "11:30:00-04:00",
+          "time": "10:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:00:00-04:00",
           "waitTime": 35
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 38
         },
         {
           "time": "12:00:00-04:00",
           "waitTime": 15
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 25
+        },
+        {
           "time": "15:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 33
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 30
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 13
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "18:00:00-04:00",
@@ -279,6 +347,10 @@
         {
           "time": "18:30:00-04:00",
           "waitTime": 10
+        },
+        {
+          "time": "19:00:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "20:00:00-04:00",
@@ -339,7 +411,15 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "18:00:00-04:00",
           "waitTime": 5
         }
       ],
@@ -373,8 +453,20 @@
           "waitTime": 5
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "12:00:00-04:00",
           "waitTime": 10
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "16:00:00-04:00",
@@ -382,6 +474,14 @@
         },
         {
           "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "18:00:00-04:00",
           "waitTime": 5
         },
         {
@@ -454,7 +554,23 @@
           "waitTime": 5
         },
         {
+          "time": "11:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "14:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "18:00:00-04:00",
           "waitTime": 5
         },
         {
@@ -559,12 +675,28 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 20
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 20
         },
         {
           "time": "15:30:00-04:00",
           "waitTime": 10
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "19:30:00-04:00",
+          "waitTime": 5
         }
       ],
       "learnMoreURL": "https://www.dollywood.com/themepark/rides/shooting-star/"
@@ -625,7 +757,19 @@
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "17:30:00-04:00",
@@ -698,11 +842,19 @@
       "forecast": [
         {
           "time": "11:00:00-04:00",
+          "waitTime": 8
+        },
+        {
+          "time": "11:30:00-04:00",
           "waitTime": 10
         },
         {
           "time": "12:00:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 10
         },
         {
           "time": "14:00:00-04:00",
@@ -721,6 +873,14 @@
           "waitTime": 5
         },
         {
+          "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "18:00:00-04:00",
           "waitTime": 10
         },
@@ -730,7 +890,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 13
         },
         {
           "time": "20:30:00-04:00",
@@ -814,31 +974,59 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 18
         },
         {
-          "time": "11:30:00-04:00",
+          "time": "10:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "11:00:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "11:30:00-04:00",
+          "waitTime": 43
+        },
+        {
           "time": "12:00:00-04:00",
+          "waitTime": 38
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "13:30:00-04:00",
           "waitTime": 35
         },
         {
+          "time": "14:00:00-04:00",
+          "waitTime": 40
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "15:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 18
         },
         {
           "time": "16:30:00-04:00",
           "waitTime": 10
         },
         {
+          "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "17:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 25
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 23
         },
         {
           "time": "18:30:00-04:00",
@@ -851,6 +1039,10 @@
         {
           "time": "19:30:00-04:00",
           "waitTime": 15
+        },
+        {
+          "time": "20:00:00-04:00",
+          "waitTime": 10
         },
         {
           "time": "21:00:00-04:00",
@@ -891,11 +1083,27 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 10
         },
         {
           "time": "16:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "17:00:00-04:00",
           "waitTime": 5
         }
       ],
@@ -995,6 +1203,14 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "16:00:00-04:00",
           "waitTime": 10
         },
@@ -1053,7 +1269,7 @@
     },
     {
       "id": "59b497c0-9076-48e6-bc5b-c6a83b4b1468",
-      "name": "Wild Eagle ®",
+      "name": "Wild Eagle \u00ae",
       "shortName": "Wild Eagle",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -1076,15 +1292,31 @@
       "forecast": [
         {
           "time": "11:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 8
         },
         {
           "time": "12:00:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "12:30:00-04:00",
           "waitTime": 10
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 15
+        },
+        {
           "time": "15:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 18
         },
         {
           "time": "16:00:00-04:00",
@@ -1092,7 +1324,7 @@
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 18
         },
         {
           "time": "17:30:00-04:00",
@@ -1155,7 +1387,13 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lemon-twist/"
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/lemon-twist/",
+      "forecast": [
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "baf860dd-bda0-4452-b21c-fec0e4aa13a0",
@@ -1205,8 +1443,8 @@
     },
     {
       "id": "4016fe55-32cc-4cf4-bf05-52941f990499",
-      "name": "Front Porch Café",
-      "shortName": "Front Porch Café",
+      "name": "Front Porch Caf\u00e9",
+      "shortName": "Front Porch Caf\u00e9",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1228,7 +1466,7 @@
     },
     {
       "id": "eb479728-234f-4211-88eb-0516a81ded29",
-      "name": "Dippin' Dots®",
+      "name": "Dippin' Dots\u00ae",
       "shortName": "Dippin' Dots",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -1341,8 +1579,8 @@
     },
     {
       "id": "b0305189-6b3a-4716-93eb-22701b4c3c76",
-      "name": "Perondi’s Stunt Dog Experience",
-      "shortName": "Perondi’s Stunt Dog Experience",
+      "name": "Perondi\u2019s Stunt Dog Experience",
+      "shortName": "Perondi\u2019s Stunt Dog Experience",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1363,8 +1601,8 @@
     },
     {
       "id": "4f26d1da-eff0-4fab-bbe5-61ea015af1c3",
-      "name": "Grandstand Café",
-      "shortName": "Grandstand Café",
+      "name": "Grandstand Caf\u00e9",
+      "shortName": "Grandstand Caf\u00e9",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -1826,7 +2064,7 @@
     },
     {
       "id": "80fd4169-e5a4-459a-b550-91a23c2064a8",
-      "name": "Gazillion Bubble Show – Evolution",
+      "name": "Gazillion Bubble Show \u2013 Evolution",
       "shortName": "Gazillion Bubble Show",
       "entityType": "SHOW",
       "isCharacterSpot": false,
@@ -1936,8 +2174,8 @@
     },
     {
       "id": "400f5e7e-7370-4a67-8102-2a7b5dcfa5db",
-      "name": "Heidi Parton’s Kin & Friends",
-      "shortName": "Heidi Parton’s Kin & Friends",
+      "name": "Heidi Parton\u2019s Kin & Friends",
+      "shortName": "Heidi Parton\u2019s Kin & Friends",
       "entityType": "SHOW",
       "isCharacterSpot": false,
       "hasCastMemberPhotographer": false,
@@ -2110,7 +2348,13 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://www.dollywood.com/themepark/rides/busy-bees/"
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/busy-bees/",
+      "forecast": [
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "84f991fb-91d7-4f8f-89bd-c62705d0059b",
@@ -2226,35 +2470,63 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 15
+        },
+        {
           "time": "11:30:00-04:00",
           "waitTime": 20
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 30
         },
         {
           "time": "14:30:00-04:00",
           "waitTime": 45
         },
         {
+          "time": "15:00:00-04:00",
+          "waitTime": 45
+        },
+        {
           "time": "15:30:00-04:00",
-          "waitTime": 35
+          "waitTime": 48
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 60
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 38
         },
         {
           "time": "17:30:00-04:00",
           "waitTime": 30
         },
         {
+          "time": "18:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "18:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 13
         }
       ],
       "learnMoreURL": "https://www.dollywood.com/themepark/rides/smoky-mountain-river-rampage/"
     },
     {
       "id": "ba6a0a85-0c9a-45c3-9332-57bb3ecb4cf2",
-      "name": "Drop Line®",
+      "name": "Drop Line\u00ae",
       "shortName": "Drop Line",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2274,11 +2546,21 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dropline/"
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/dropline/",
+      "forecast": [
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 10
+        }
+      ]
     },
     {
       "id": "4e337433-4077-4cdc-9a24-2dd69d26c494",
-      "name": "Mystery Mine ®",
+      "name": "Mystery Mine \u00ae",
       "shortName": "Mystery Mine",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2301,15 +2583,43 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 15
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 60
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 53
         },
         {
           "time": "12:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "13:00:00-04:00",
           "waitTime": 25
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 15
         },
         {
           "time": "16:00:00-04:00",
@@ -2317,7 +2627,7 @@
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 18
         },
         {
           "time": "17:30:00-04:00",
@@ -2344,7 +2654,7 @@
     },
     {
       "id": "fb95612c-888c-4c02-9ec9-65c63668160a",
-      "name": "Whistle Punk Chaser®",
+      "name": "Whistle Punk Chaser\u00ae",
       "shortName": "Whistle Punk Chaser",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2370,8 +2680,24 @@
           "waitTime": 15
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "11:30:00-04:00",
           "waitTime": 15
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "17:00:00-04:00",
@@ -2414,7 +2740,17 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://www.dollywood.com/themepark/rides/barnstormer/"
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/barnstormer/",
+      "forecast": [
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "d6da4a75-0242-4372-b7c1-b46f3fddbbe3",
@@ -2583,16 +2919,48 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "11:30:00-04:00",
           "waitTime": 15
         },
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 15
+        },
+        {
           "time": "15:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 23
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 8
         },
         {
           "time": "17:00:00-04:00",
@@ -2600,7 +2968,7 @@
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "18:00:00-04:00",
@@ -2643,7 +3011,17 @@
       },
       "hasLightningLane": false,
       "hasAirConditioning": false,
-      "learnMoreURL": "https://www.dollywood.com/themepark/rides/village-carousel/"
+      "learnMoreURL": "https://www.dollywood.com/themepark/rides/village-carousel/",
+      "forecast": [
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 5
+        }
+      ]
     },
     {
       "id": "55f9e660-314a-4dfc-be10-a08c22ea610d",
@@ -2669,20 +3047,56 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 20
+        },
+        {
           "time": "10:00:00-04:00",
           "waitTime": 10
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 20
+        },
+        {
           "time": "11:30:00-04:00",
-          "waitTime": 13
+          "waitTime": 18
         },
         {
           "time": "12:00:00-04:00",
           "waitTime": 15
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "15:00:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "16:00:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 20
         },
         {
           "time": "17:00:00-04:00",
@@ -2694,6 +3108,10 @@
         },
         {
           "time": "18:30:00-04:00",
+          "waitTime": 8
+        },
+        {
+          "time": "19:30:00-04:00",
           "waitTime": 5
         },
         {
@@ -2764,6 +3182,14 @@
       "forecast": [
         {
           "time": "11:00:00-04:00",
+          "waitTime": 8
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "17:30:00-04:00",
           "waitTime": 5
         },
         {
@@ -2824,16 +3250,48 @@
           "waitTime": 10
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 25
+        },
+        {
           "time": "11:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 45
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 55
+          "waitTime": 50
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 20
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 28
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 15
         },
         {
           "time": "17:00:00-04:00",
@@ -2841,11 +3299,15 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 30
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 15
+        },
+        {
+          "time": "19:00:00-04:00",
+          "waitTime": 15
         },
         {
           "time": "19:30:00-04:00",
@@ -2872,7 +3334,7 @@
     },
     {
       "id": "b12993d3-cdb7-401c-b935-560dc83f76ff",
-      "name": "Thunderhead ®",
+      "name": "Thunderhead \u00ae",
       "shortName": "Thunderhead",
       "entityType": "ATTRACTION",
       "isCharacterSpot": false,
@@ -2895,15 +3357,39 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 53
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 45
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 25
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 20
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "15:00:00-04:00",
@@ -2912,6 +3398,10 @@
         {
           "time": "15:30:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 10
         },
         {
           "time": "17:00:00-04:00",
@@ -2923,11 +3413,11 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 18
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "20:00:00-04:00",
@@ -2996,8 +3486,36 @@
           "waitTime": 8
         },
         {
-          "time": "15:30:00-04:00",
+          "time": "13:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "14:00:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 15
         }
       ],
       "learnMoreURL": "https://www.dollywood.com/themepark/rides/daredevil-falls/"
@@ -3030,8 +3548,28 @@
           "waitTime": 5
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "11:00:00-04:00",
           "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "14:30:00-04:00",
@@ -3075,6 +3613,10 @@
       "hasLightningLane": false,
       "hasAirConditioning": false,
       "forecast": [
+        {
+          "time": "09:30:00-04:00",
+          "waitTime": 5
+        },
         {
           "time": "10:30:00-04:00",
           "waitTime": 5
@@ -3325,7 +3867,7 @@
     },
     {
       "id": "f1ffd127-cd66-4e03-b59c-5f1beac05fb1",
-      "name": "Market Square BIG SKILLET ®",
+      "name": "Market Square BIG SKILLET \u00ae",
       "shortName": "Market Square BIG SKILLET",
       "entityType": "RESTAURANT",
       "isCharacterSpot": false,
@@ -3417,31 +3959,67 @@
       "forecast": [
         {
           "time": "10:00:00-04:00",
-          "waitTime": 23
+          "waitTime": 20
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 35
         },
         {
           "time": "12:00:00-04:00",
           "waitTime": 25
         },
         {
-          "time": "15:00:00-04:00",
-          "waitTime": 35
+          "time": "12:30:00-04:00",
+          "waitTime": 30
         },
         {
-          "time": "16:00:00-04:00",
-          "waitTime": 45
+          "time": "13:30:00-04:00",
+          "waitTime": 15
         },
         {
-          "time": "17:00:00-04:00",
-          "waitTime": 25
+          "time": "14:00:00-04:00",
+          "waitTime": 15
         },
         {
-          "time": "18:00:00-04:00",
+          "time": "14:30:00-04:00",
           "waitTime": 20
         },
         {
+          "time": "15:00:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 28
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 23
+        },
+        {
           "time": "18:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 30
         },
         {
           "time": "19:00:00-04:00",
@@ -3449,7 +4027,7 @@
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 10
         },
         {
           "time": "20:00:00-04:00",
