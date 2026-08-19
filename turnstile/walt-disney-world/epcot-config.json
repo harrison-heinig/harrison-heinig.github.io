@@ -495,8 +495,12 @@
       "hasAirConditioning": true,
       "forecast": [
         {
+          "time": "09:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "09:30:00-04:00",
-          "waitTime": 8
+          "waitTime": 6
         },
         {
           "time": "10:00:00-04:00",
@@ -504,11 +508,11 @@
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 29
+          "waitTime": 25
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 27
+          "waitTime": 23
         },
         {
           "time": "11:30:00-04:00",
@@ -516,11 +520,11 @@
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 26
+          "waitTime": 24
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 17
+          "waitTime": 15
         },
         {
           "time": "13:00:00-04:00",
@@ -528,62 +532,74 @@
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 17
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 11
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 16
+          "waitTime": 12
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 7
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 9
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 7
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 5
-        },
-        {
-          "time": "17:00:00-04:00",
-          "waitTime": 5
-        },
-        {
-          "time": "17:30:00-04:00",
           "waitTime": 6
         },
         {
+          "time": "17:00:00-04:00",
+          "waitTime": 7
+        },
+        {
+          "time": "17:30:00-04:00",
+          "waitTime": 8
+        },
+        {
           "time": "18:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 7
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 6
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 6
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 6
         },
         {
           "time": "20:00:00-04:00",
           "waitTime": 6
         },
         {
+          "time": "20:30:00-04:00",
+          "waitTime": 6
+        },
+        {
           "time": "21:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "21:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "22:30:00-04:00",
           "waitTime": 5
         }
       ],
@@ -614,51 +630,51 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 42
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 46
+          "waitTime": 42
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 43
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 58
+          "waitTime": 50
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 55
+          "waitTime": 52
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 50
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 58
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 61
+          "waitTime": 57
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 70
+          "waitTime": 64
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 66
+          "waitTime": 55
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 62
+          "waitTime": 55
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 67
+          "waitTime": 56
         },
         {
           "time": "15:30:00-04:00",
@@ -666,59 +682,59 @@
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 58
+          "waitTime": 53
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 54
+          "waitTime": 52
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 59
+          "waitTime": 58
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 64
+          "waitTime": 58
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 60
+          "waitTime": 55
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 52
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 50
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 51
         },
         {
           "time": "20:00:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "20:30:00-04:00",
-          "waitTime": 22
-        },
-        {
-          "time": "21:00:00-04:00",
-          "waitTime": 39
-        },
-        {
-          "time": "21:30:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "20:30:00-04:00",
+          "waitTime": 29
+        },
+        {
+          "time": "21:00:00-04:00",
+          "waitTime": 42
+        },
+        {
+          "time": "21:30:00-04:00",
+          "waitTime": 43
+        },
+        {
           "time": "22:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 28
         },
         {
           "time": "22:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 14
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/frozen-ever-after/"
@@ -796,11 +812,11 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 35
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 42
         },
         {
           "time": "10:30:00-04:00",
@@ -808,51 +824,51 @@
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 49
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 50
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 52
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 45
-        },
-        {
-          "time": "13:00:00-04:00",
           "waitTime": 43
         },
         {
+          "time": "11:30:00-04:00",
+          "waitTime": 44
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 47
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 47
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 44
+        },
+        {
           "time": "13:30:00-04:00",
-          "waitTime": 52
+          "waitTime": 47
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 56
+          "waitTime": 53
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 59
+          "waitTime": 56
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 61
+          "waitTime": 62
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 65
+          "waitTime": 64
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 50
+          "waitTime": 53
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 53
         },
         {
           "time": "17:00:00-04:00",
@@ -860,43 +876,43 @@
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 52
-        },
-        {
-          "time": "18:00:00-04:00",
-          "waitTime": 38
-        },
-        {
-          "time": "18:30:00-04:00",
-          "waitTime": 57
-        },
-        {
-          "time": "19:00:00-04:00",
-          "waitTime": 54
-        },
-        {
-          "time": "19:30:00-04:00",
           "waitTime": 48
         },
         {
+          "time": "18:00:00-04:00",
+          "waitTime": 44
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 53
+        },
+        {
+          "time": "19:00:00-04:00",
+          "waitTime": 49
+        },
+        {
+          "time": "19:30:00-04:00",
+          "waitTime": 52
+        },
+        {
           "time": "20:00:00-04:00",
-          "waitTime": 36
+          "waitTime": 39
         },
         {
           "time": "20:30:00-04:00",
-          "waitTime": 31
+          "waitTime": 33
         },
         {
           "time": "21:00:00-04:00",
-          "waitTime": 43
+          "waitTime": 42
         },
         {
           "time": "21:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 33
         },
         {
           "time": "22:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 25
         },
         {
           "time": "22:30:00-04:00",
@@ -994,15 +1010,15 @@
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 17
+          "waitTime": 16
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 17
+          "waitTime": 16
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 16
         },
         {
           "time": "13:00:00-04:00",
@@ -1116,7 +1132,7 @@
       "forecast": [
         {
           "time": "19:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 21
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/impressions-de-france/"
@@ -1154,59 +1170,59 @@
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 19
-        },
-        {
-          "time": "11:00:00-04:00",
-          "waitTime": 16
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 19
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 12
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 16
-        },
-        {
-          "time": "13:00:00-04:00",
-          "waitTime": 9
-        },
-        {
-          "time": "13:30:00-04:00",
           "waitTime": 14
         },
         {
-          "time": "14:00:00-04:00",
-          "waitTime": 13
-        },
-        {
-          "time": "14:30:00-04:00",
-          "waitTime": 13
-        },
-        {
-          "time": "15:00:00-04:00",
+          "time": "11:00:00-04:00",
           "waitTime": 15
         },
         {
-          "time": "15:30:00-04:00",
-          "waitTime": 12
+          "time": "11:30:00-04:00",
+          "waitTime": 16
         },
         {
-          "time": "16:00:00-04:00",
+          "time": "12:00:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 8
+        },
+        {
+          "time": "13:30:00-04:00",
           "waitTime": 11
         },
         {
+          "time": "14:00:00-04:00",
+          "waitTime": 11
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 11
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 9
+        },
+        {
           "time": "16:30:00-04:00",
-          "waitTime": 12
+          "waitTime": 9
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "17:30:00-04:00",
@@ -1214,23 +1230,23 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 9
-        },
-        {
-          "time": "18:30:00-04:00",
           "waitTime": 7
         },
         {
-          "time": "19:00:00-04:00",
+          "time": "18:30:00-04:00",
           "waitTime": 6
+        },
+        {
+          "time": "19:00:00-04:00",
+          "waitTime": 5
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 8
+          "waitTime": 6
         },
         {
           "time": "20:00:00-04:00",
-          "waitTime": 6
+          "waitTime": 5
         },
         {
           "time": "20:30:00-04:00",
@@ -1238,7 +1254,11 @@
         },
         {
           "time": "21:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 6
+        },
+        {
+          "time": "21:30:00-04:00",
+          "waitTime": 5
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/journey-into-imagination-with-figment/"
@@ -1272,6 +1292,14 @@
         },
         {
           "time": "09:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 15
         },
         {
@@ -1354,19 +1382,19 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 15
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 21
+          "waitTime": 19
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 28
+          "waitTime": 26
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 29
         },
         {
           "time": "11:30:00-04:00",
@@ -1374,7 +1402,7 @@
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 23
+          "waitTime": 21
         },
         {
           "time": "12:30:00-04:00",
@@ -1382,15 +1410,15 @@
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 13
+          "waitTime": 16
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 13
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 13
         },
         {
           "time": "14:30:00-04:00",
@@ -1398,19 +1426,19 @@
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 14
+          "waitTime": 12
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 13
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 11
+          "waitTime": 12
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 13
         },
         {
           "time": "17:00:00-04:00",
@@ -1418,11 +1446,11 @@
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 11
+          "waitTime": 12
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 8
+          "waitTime": 10
         },
         {
           "time": "18:30:00-04:00",
@@ -1430,22 +1458,26 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 11
+          "waitTime": 12
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 6
-        },
-        {
-          "time": "20:00:00-04:00",
           "waitTime": 8
         },
         {
+          "time": "20:00:00-04:00",
+          "waitTime": 9
+        },
+        {
           "time": "20:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 6
         },
         {
           "time": "21:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "21:30:00-04:00",
           "waitTime": 5
         }
       ],
@@ -1475,112 +1507,116 @@
       "hasAirConditioning": true,
       "forecast": [
         {
-          "time": "09:30:00-04:00",
-          "waitTime": 79
-        },
-        {
-          "time": "10:00:00-04:00",
-          "waitTime": 62
-        },
-        {
-          "time": "10:30:00-04:00",
-          "waitTime": 84
-        },
-        {
-          "time": "11:00:00-04:00",
-          "waitTime": 105
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 76
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 100
-        },
-        {
-          "time": "12:30:00-04:00",
+          "time": "09:00:00-04:00",
           "waitTime": 60
         },
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 70
+        },
+        {
+          "time": "10:00:00-04:00",
+          "waitTime": 58
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 72
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 79
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 70
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 79
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 59
+        },
+        {
           "time": "13:00:00-04:00",
-          "waitTime": 77
+          "waitTime": 62
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 92
+          "waitTime": 76
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 68
+          "waitTime": 64
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 83
+          "waitTime": 69
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 91
+          "waitTime": 79
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 68
+          "waitTime": 66
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 77
+          "waitTime": 71
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 87
-        },
-        {
-          "time": "17:00:00-04:00",
-          "waitTime": 65
-        },
-        {
-          "time": "17:30:00-04:00",
-          "waitTime": 73
-        },
-        {
-          "time": "18:00:00-04:00",
-          "waitTime": 83
-        },
-        {
-          "time": "18:30:00-04:00",
           "waitTime": 74
         },
         {
-          "time": "19:00:00-04:00",
-          "waitTime": 67
+          "time": "17:00:00-04:00",
+          "waitTime": 62
         },
         {
-          "time": "19:30:00-04:00",
+          "time": "17:30:00-04:00",
+          "waitTime": 69
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 78
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 68
+        },
+        {
+          "time": "19:00:00-04:00",
           "waitTime": 73
         },
         {
+          "time": "19:30:00-04:00",
+          "waitTime": 69
+        },
+        {
           "time": "20:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 64
         },
         {
           "time": "20:30:00-04:00",
-          "waitTime": 48
+          "waitTime": 58
         },
         {
           "time": "21:00:00-04:00",
-          "waitTime": 88
+          "waitTime": 64
         },
         {
           "time": "21:30:00-04:00",
-          "waitTime": 95
+          "waitTime": 60
         },
         {
           "time": "22:00:00-04:00",
-          "waitTime": 75
+          "waitTime": 53
         },
         {
           "time": "22:30:00-04:00",
-          "waitTime": 85
+          "waitTime": 55
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/test-track/"
@@ -2275,7 +2311,7 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 9
         },
         {
           "time": "10:00:00-04:00",
@@ -2283,51 +2319,51 @@
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 22
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 24
+          "waitTime": 25
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 24
+          "waitTime": 19
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 18
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 20
-        },
-        {
-          "time": "13:00:00-04:00",
           "waitTime": 15
         },
         {
-          "time": "13:30:00-04:00",
-          "waitTime": 18
+          "time": "12:30:00-04:00",
+          "waitTime": 16
         },
         {
-          "time": "14:00:00-04:00",
+          "time": "13:00:00-04:00",
           "waitTime": 13
         },
         {
-          "time": "14:30:00-04:00",
+          "time": "13:30:00-04:00",
           "waitTime": 12
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 9
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 11
+          "waitTime": 8
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 11
+          "waitTime": 9
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 12
+          "waitTime": 9
         },
         {
           "time": "16:30:00-04:00",
@@ -2347,7 +2383,7 @@
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 6
         },
         {
           "time": "19:00:00-04:00",
@@ -2367,6 +2403,10 @@
         },
         {
           "time": "21:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "21:30:00-04:00",
           "waitTime": 5
         }
       ],
@@ -2635,6 +2675,22 @@
         {
           "time": "10:00:00-04:00",
           "waitTime": 16
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 20
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 18
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 15
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/beauty-and-the-beast-sing-along/"
@@ -2723,6 +2779,10 @@
           "waitTime": 15
         },
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
           "time": "21:00:00-04:00",
           "waitTime": 15
         }
@@ -2754,7 +2814,7 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 33
+          "waitTime": 26
         },
         {
           "time": "10:00:00-04:00",
@@ -2762,7 +2822,7 @@
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 41
+          "waitTime": 35
         },
         {
           "time": "11:00:00-04:00",
@@ -2770,19 +2830,19 @@
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 44
+          "waitTime": 41
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 43
+          "waitTime": 39
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 36
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 41
+          "waitTime": 35
         },
         {
           "time": "13:30:00-04:00",
@@ -2794,59 +2854,67 @@
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 41
+          "waitTime": 35
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 39
+          "waitTime": 34
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 36
+          "waitTime": 30
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 41
+          "waitTime": 36
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "17:00:00-04:00",
-          "waitTime": 30
-        },
-        {
-          "time": "17:30:00-04:00",
           "waitTime": 28
         },
         {
-          "time": "18:00:00-04:00",
-          "waitTime": 30
-        },
-        {
-          "time": "18:30:00-04:00",
-          "waitTime": 24
-        },
-        {
-          "time": "19:00:00-04:00",
+          "time": "17:00:00-04:00",
           "waitTime": 26
         },
         {
+          "time": "17:30:00-04:00",
+          "waitTime": 26
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 21
+        },
+        {
+          "time": "19:00:00-04:00",
+          "waitTime": 23
+        },
+        {
           "time": "19:30:00-04:00",
-          "waitTime": 22
+          "waitTime": 20
         },
         {
           "time": "20:00:00-04:00",
-          "waitTime": 13
+          "waitTime": 15
         },
         {
           "time": "20:30:00-04:00",
-          "waitTime": 13
+          "waitTime": 14
         },
         {
           "time": "21:00:00-04:00",
           "waitTime": 25
+        },
+        {
+          "time": "21:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "22:30:00-04:00",
+          "waitTime": 10
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/epcot/soarin-around-world/"
@@ -2880,7 +2948,7 @@
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 16
+          "waitTime": 17
         },
         {
           "time": "10:30:00-04:00",
@@ -2888,35 +2956,35 @@
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 28
+          "waitTime": 22
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 21
+          "waitTime": 19
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 18
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 20
-        },
-        {
-          "time": "13:00:00-04:00",
-          "waitTime": 15
-        },
-        {
-          "time": "13:30:00-04:00",
           "waitTime": 17
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 16
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 16
+        },
+        {
           "time": "14:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 16
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 16
         },
         {
           "time": "15:00:00-04:00",
@@ -2936,7 +3004,7 @@
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 18
+          "waitTime": 16
         },
         {
           "time": "17:30:00-04:00",
@@ -2968,6 +3036,10 @@
         },
         {
           "time": "21:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "21:30:00-04:00",
           "waitTime": 15
         }
       ],
@@ -3001,107 +3073,107 @@
         },
         {
           "time": "09:30:00-04:00",
-          "waitTime": 73
+          "waitTime": 68
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 75
+          "waitTime": 67
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 80
+          "waitTime": 70
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 92
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 82
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 89
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 77
-        },
-        {
-          "time": "13:00:00-04:00",
-          "waitTime": 87
-        },
-        {
-          "time": "13:30:00-04:00",
-          "waitTime": 83
-        },
-        {
-          "time": "14:00:00-04:00",
           "waitTime": 79
         },
         {
+          "time": "11:30:00-04:00",
+          "waitTime": 75
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 77
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 75
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 69
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 69
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 72
+        },
+        {
           "time": "14:30:00-04:00",
-          "waitTime": 78
+          "waitTime": 71
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 76
+          "waitTime": 67
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 90
+          "waitTime": 76
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 83
+          "waitTime": 76
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 83
+          "waitTime": 75
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 84
+          "waitTime": 77
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 92
+          "waitTime": 81
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 90
+          "waitTime": 82
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 86
+          "waitTime": 83
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 84
+          "waitTime": 85
         },
         {
           "time": "19:30:00-04:00",
-          "waitTime": 110
+          "waitTime": 100
         },
         {
           "time": "20:00:00-04:00",
-          "waitTime": 87
+          "waitTime": 82
         },
         {
           "time": "20:30:00-04:00",
-          "waitTime": 84
+          "waitTime": 85
         },
         {
           "time": "21:00:00-04:00",
-          "waitTime": 113
-        },
-        {
-          "time": "21:30:00-04:00",
           "waitTime": 90
         },
         {
+          "time": "21:30:00-04:00",
+          "waitTime": 68
+        },
+        {
           "time": "22:00:00-04:00",
-          "waitTime": 95
+          "waitTime": 65
         },
         {
           "time": "22:30:00-04:00",
@@ -3142,8 +3214,16 @@
           "waitTime": 10
         },
         {
+          "time": "11:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "12:00:00-04:00",
-          "waitTime": 18
+          "waitTime": 14
         },
         {
           "time": "12:30:00-04:00",
@@ -3151,19 +3231,19 @@
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 15
-        },
-        {
-          "time": "13:30:00-04:00",
-          "waitTime": 15
-        },
-        {
-          "time": "14:00:00-04:00",
           "waitTime": 10
         },
         {
-          "time": "14:30:00-04:00",
+          "time": "13:30:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "14:00:00-04:00",
           "waitTime": 11
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 10
         },
         {
           "time": "15:00:00-04:00",
@@ -3171,11 +3251,11 @@
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 8
+          "waitTime": 6
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 12
+          "waitTime": 9
         },
         {
           "time": "16:30:00-04:00",
@@ -3183,15 +3263,15 @@
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 7
+          "waitTime": 6
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 9
+          "waitTime": 7
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 8
+          "waitTime": 6
         },
         {
           "time": "18:30:00-04:00",
@@ -3199,7 +3279,7 @@
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 5
+          "waitTime": 9
         },
         {
           "time": "19:30:00-04:00",
@@ -3207,10 +3287,22 @@
         },
         {
           "time": "20:00:00-04:00",
+          "waitTime": 7
+        },
+        {
+          "time": "20:30:00-04:00",
           "waitTime": 0
         },
         {
           "time": "21:00:00-04:00",
+          "waitTime": 7
+        },
+        {
+          "time": "21:30:00-04:00",
+          "waitTime": 0
+        },
+        {
+          "time": "22:00:00-04:00",
           "waitTime": 5
         }
       ],
@@ -3244,23 +3336,23 @@
         },
         {
           "time": "09:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 48
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 38
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 37
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 32
+          "waitTime": 29
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 27
+          "waitTime": 26
         },
         {
           "time": "12:00:00-04:00",
@@ -3268,7 +3360,7 @@
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 25
         },
         {
           "time": "13:00:00-04:00",
@@ -3276,43 +3368,43 @@
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "14:00:00-04:00",
           "waitTime": 30
         },
         {
+          "time": "14:00:00-04:00",
+          "waitTime": 32
+        },
+        {
           "time": "14:30:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "15:00:00-04:00",
-          "waitTime": 31
-        },
-        {
-          "time": "15:30:00-04:00",
-          "waitTime": 26
-        },
-        {
-          "time": "16:00:00-04:00",
-          "waitTime": 20
-        },
-        {
-          "time": "16:30:00-04:00",
           "waitTime": 29
         },
         {
-          "time": "17:00:00-04:00",
-          "waitTime": 37
+          "time": "15:00:00-04:00",
+          "waitTime": 26
         },
         {
-          "time": "17:30:00-04:00",
+          "time": "15:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 22
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 30
+        },
+        {
+          "time": "17:00:00-04:00",
           "waitTime": 36
         },
         {
+          "time": "17:30:00-04:00",
+          "waitTime": 35
+        },
+        {
           "time": "18:00:00-04:00",
-          "waitTime": 37
+          "waitTime": 36
         }
       ]
     },
@@ -3468,19 +3560,19 @@
       "forecast": [
         {
           "time": "09:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 21
         },
         {
           "time": "09:30:00-04:00",
-          "waitTime": 23
+          "waitTime": 24
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 18
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 21
+          "waitTime": 20
         },
         {
           "time": "11:00:00-04:00",
@@ -3488,7 +3580,7 @@
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 18
         },
         {
           "time": "12:00:00-04:00",
@@ -3496,27 +3588,31 @@
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 17
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 16
         },
         {
           "time": "13:30:00-04:00",
+          "waitTime": 13
+        },
+        {
+          "time": "14:00:00-04:00",
           "waitTime": 15
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 22
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 18
+          "waitTime": 19
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 13
         },
         {
           "time": "16:00:00-04:00",
@@ -3524,39 +3620,39 @@
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 23
+          "waitTime": 21
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 15
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 28
+          "waitTime": 26
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 22
+          "waitTime": 26
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "19:00:00-04:00",
-          "waitTime": 23
-        },
-        {
-          "time": "19:30:00-04:00",
           "waitTime": 29
         },
         {
+          "time": "19:00:00-04:00",
+          "waitTime": 26
+        },
+        {
+          "time": "19:30:00-04:00",
+          "waitTime": 28
+        },
+        {
           "time": "20:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 25
         },
         {
           "time": "20:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 29
         }
       ]
     },

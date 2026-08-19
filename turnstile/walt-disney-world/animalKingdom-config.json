@@ -123,7 +123,7 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 11
+          "waitTime": 12
         },
         {
           "time": "10:00:00-04:00",
@@ -131,7 +131,7 @@
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 14
+          "waitTime": 13
         },
         {
           "time": "11:00:00-04:00",
@@ -143,11 +143,11 @@
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 17
+          "waitTime": 16
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 14
         },
         {
           "time": "13:00:00-04:00",
@@ -155,7 +155,7 @@
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 16
         },
         {
           "time": "14:00:00-04:00",
@@ -191,7 +191,7 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 9
+          "waitTime": 10
         },
         {
           "time": "18:30:00-04:00",
@@ -199,6 +199,10 @@
         },
         {
           "time": "19:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "19:30:00-04:00",
           "waitTime": 10
         }
       ],
@@ -250,83 +254,87 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 52
+          "waitTime": 43
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 43
+          "waitTime": 44
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 51
+          "waitTime": 49
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 43
+          "waitTime": 46
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 51
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 47
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 49
+          "waitTime": 48
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 49
+          "waitTime": 44
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 49
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 46
+          "waitTime": 47
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 43
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 46
+          "waitTime": 43
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 39
+          "waitTime": 41
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 34
+          "waitTime": 37
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 39
-        },
-        {
-          "time": "17:00:00-04:00",
           "waitTime": 35
         },
         {
+          "time": "17:00:00-04:00",
+          "waitTime": 33
+        },
+        {
           "time": "17:30:00-04:00",
-          "waitTime": 34
+          "waitTime": 29
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 24
+          "waitTime": 21
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 22
+          "waitTime": 19
         },
         {
           "time": "19:00:00-04:00",
           "waitTime": 19
+        },
+        {
+          "time": "20:00:00-04:00",
+          "waitTime": 20
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/"
@@ -479,12 +487,32 @@
           "waitTime": 5
         },
         {
+          "time": "10:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 5
         },
         {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "16:00:00-04:00",
-          "waitTime": 0
+          "waitTime": 3
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 5
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajah-jungle-trek/"
@@ -514,15 +542,15 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 13
+          "waitTime": 18
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 27
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 41
+          "waitTime": 40
         },
         {
           "time": "11:00:00-04:00",
@@ -530,67 +558,71 @@
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 38
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 40
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 50
-        },
-        {
-          "time": "13:00:00-04:00",
-          "waitTime": 60
-        },
-        {
-          "time": "13:30:00-04:00",
-          "waitTime": 55
-        },
-        {
-          "time": "14:00:00-04:00",
-          "waitTime": 57
-        },
-        {
-          "time": "14:30:00-04:00",
-          "waitTime": 58
-        },
-        {
-          "time": "15:00:00-04:00",
-          "waitTime": 43
-        },
-        {
-          "time": "15:30:00-04:00",
-          "waitTime": 45
-        },
-        {
-          "time": "16:00:00-04:00",
-          "waitTime": 31
-        },
-        {
-          "time": "16:30:00-04:00",
-          "waitTime": 33
-        },
-        {
-          "time": "17:00:00-04:00",
           "waitTime": 41
         },
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 42
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 55
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 52
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 52
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 58
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 51
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 44
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 43
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 33
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 35
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 32
+        },
+        {
           "time": "17:30:00-04:00",
-          "waitTime": 36
+          "waitTime": 26
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 27
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 17
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 7
+          "waitTime": 8
+        },
+        {
+          "time": "20:00:00-04:00",
+          "waitTime": 5
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/"
@@ -647,6 +679,10 @@
           "waitTime": 5
         },
         {
+          "time": "08:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "09:30:00-04:00",
           "waitTime": 10
         },
@@ -660,7 +696,7 @@
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 15
         },
         {
           "time": "12:00:00-04:00",
@@ -676,15 +712,15 @@
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 19
+          "waitTime": 20
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 22
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 18
         },
         {
           "time": "15:00:00-04:00",
@@ -692,7 +728,7 @@
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 9
         },
         {
           "time": "16:00:00-04:00",
@@ -1023,7 +1059,7 @@
       "forecast": [
         {
           "time": "09:00:00-04:00",
-          "waitTime": 30
+          "waitTime": 28
         },
         {
           "time": "09:30:00-04:00",
@@ -1031,31 +1067,31 @@
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 18
+          "waitTime": 17
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 20
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 23
-        },
-        {
-          "time": "11:30:00-04:00",
           "waitTime": 24
         },
         {
+          "time": "11:30:00-04:00",
+          "waitTime": 25
+        },
+        {
           "time": "12:00:00-04:00",
-          "waitTime": 28
+          "waitTime": 27
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 26
+          "waitTime": 33
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 27
+          "waitTime": 25
         },
         {
           "time": "13:30:00-04:00",
@@ -1063,35 +1099,35 @@
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 29
+          "waitTime": 26
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 27
+          "waitTime": 22
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 28
+          "waitTime": 29
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 30
+          "waitTime": 24
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 27
+          "waitTime": 23
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 38
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 49
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 49
+          "waitTime": 48
         }
       ]
     },
@@ -1212,12 +1248,28 @@
           "waitTime": 5
         },
         {
+          "time": "09:00:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "14:30:00-04:00",
           "waitTime": 5
         },
         {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        },
+        {
           "time": "16:00:00-04:00",
-          "waitTime": 0
+          "waitTime": 3
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 5
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/gorilla-falls-forest-exploration-trail/"
@@ -1271,83 +1323,87 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 70
+          "waitTime": 59
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 86
-        },
-        {
-          "time": "10:30:00-04:00",
-          "waitTime": 89
-        },
-        {
-          "time": "11:00:00-04:00",
-          "waitTime": 86
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 88
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 78
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 78
-        },
-        {
-          "time": "13:00:00-04:00",
-          "waitTime": 57
-        },
-        {
-          "time": "13:30:00-04:00",
-          "waitTime": 80
-        },
-        {
-          "time": "14:00:00-04:00",
           "waitTime": 69
         },
         {
+          "time": "10:30:00-04:00",
+          "waitTime": 67
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 72
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 72
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 67
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 69
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 50
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 59
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 56
+        },
+        {
           "time": "14:30:00-04:00",
-          "waitTime": 63
+          "waitTime": 53
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 58
+          "waitTime": 51
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 53
-        },
-        {
-          "time": "16:00:00-04:00",
-          "waitTime": 53
-        },
-        {
-          "time": "16:30:00-04:00",
           "waitTime": 48
         },
         {
+          "time": "16:00:00-04:00",
+          "waitTime": 51
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 43
+        },
+        {
           "time": "17:00:00-04:00",
-          "waitTime": 49
+          "waitTime": 41
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 43
+          "waitTime": 38
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 44
+          "waitTime": 38
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 47
+          "waitTime": 34
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 43
+          "waitTime": 41
+        },
+        {
+          "time": "20:00:00-04:00",
+          "waitTime": 30
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/"
@@ -1377,67 +1433,67 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 55
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 46
+          "waitTime": 53
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 51
+          "waitTime": 56
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 47
+          "waitTime": 45
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 45
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 51
+          "waitTime": 39
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 41
+          "waitTime": 31
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 36
+          "waitTime": 22
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 20
-        },
-        {
-          "time": "14:00:00-04:00",
-          "waitTime": 25
-        },
-        {
-          "time": "14:30:00-04:00",
-          "waitTime": 25
-        },
-        {
-          "time": "15:00:00-04:00",
           "waitTime": 13
         },
         {
+          "time": "14:00:00-04:00",
+          "waitTime": 16
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 9
+        },
+        {
           "time": "15:30:00-04:00",
-          "waitTime": 12
+          "waitTime": 10
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 8
+          "waitTime": 7
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 8
+          "waitTime": 7
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 9
+          "waitTime": 7
         },
         {
           "time": "17:30:00-04:00",
@@ -1449,7 +1505,7 @@
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 12
         },
         {
           "time": "19:00:00-04:00",
@@ -1483,23 +1539,23 @@
       "forecast": [
         {
           "time": "09:30:00-04:00",
-          "waitTime": 30
+          "waitTime": 29
         },
         {
           "time": "10:00:00-04:00",
-          "waitTime": 27
+          "waitTime": 30
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 41
+          "waitTime": 33
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 41
+          "waitTime": 38
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 42
         },
         {
           "time": "12:00:00-04:00",
@@ -1507,55 +1563,55 @@
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 47
+          "waitTime": 41
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 50
+          "waitTime": 38
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 50
-        },
-        {
-          "time": "14:00:00-04:00",
-          "waitTime": 36
-        },
-        {
-          "time": "14:30:00-04:00",
-          "waitTime": 43
-        },
-        {
-          "time": "15:00:00-04:00",
-          "waitTime": 35
-        },
-        {
-          "time": "15:30:00-04:00",
-          "waitTime": 32
-        },
-        {
-          "time": "16:00:00-04:00",
-          "waitTime": 36
-        },
-        {
-          "time": "16:30:00-04:00",
           "waitTime": 31
         },
         {
-          "time": "17:00:00-04:00",
+          "time": "14:00:00-04:00",
           "waitTime": 27
         },
         {
+          "time": "14:30:00-04:00",
+          "waitTime": 29
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 28
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 26
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 25
+        },
+        {
+          "time": "17:00:00-04:00",
+          "waitTime": 17
+        },
+        {
           "time": "17:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 15
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 16
+          "waitTime": 12
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 12
+          "waitTime": 9
         },
         {
           "time": "19:00:00-04:00",
