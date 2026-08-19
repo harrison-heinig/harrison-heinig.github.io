@@ -122,40 +122,44 @@
       "hasAirConditioning": true,
       "forecast": [
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 11
+        },
+        {
           "time": "10:00:00-04:00",
-          "waitTime": 13
+          "waitTime": 12
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 14
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 14
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 18
+          "waitTime": 16
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 18
+          "waitTime": 17
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 18
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 13
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 15
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 11
         },
         {
           "time": "14:30:00-04:00",
@@ -174,6 +178,10 @@
           "waitTime": 10
         },
         {
+          "time": "16:30:00-04:00",
+          "waitTime": 10
+        },
+        {
           "time": "17:00:00-04:00",
           "waitTime": 10
         },
@@ -183,10 +191,14 @@
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 9
         },
         {
           "time": "18:30:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "19:00:00-04:00",
           "waitTime": 10
         }
       ],
@@ -237,16 +249,20 @@
       "hasAirConditioning": true,
       "forecast": [
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 52
+        },
+        {
           "time": "10:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 43
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 51
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 43
         },
         {
           "time": "11:30:00-04:00",
@@ -254,51 +270,63 @@
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 48
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 40
+          "waitTime": 49
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 49
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 40
-        },
-        {
-          "time": "14:00:00-04:00",
           "waitTime": 45
         },
         {
+          "time": "14:00:00-04:00",
+          "waitTime": 46
+        },
+        {
           "time": "14:30:00-04:00",
-          "waitTime": 55
+          "waitTime": 45
+        },
+        {
+          "time": "15:00:00-04:00",
+          "waitTime": 46
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 35
+          "waitTime": 39
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 28
+          "waitTime": 34
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 39
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 30
-        },
-        {
-          "time": "17:30:00-04:00",
           "waitTime": 35
         },
         {
+          "time": "17:30:00-04:00",
+          "waitTime": 34
+        },
+        {
+          "time": "18:00:00-04:00",
+          "waitTime": 24
+        },
+        {
           "time": "18:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 22
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 15
+          "waitTime": 19
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/"
@@ -453,6 +481,10 @@
         {
           "time": "14:30:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 0
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajah-jungle-trek/"
@@ -481,20 +513,28 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 13
+        },
+        {
           "time": "10:00:00-04:00",
-          "waitTime": 37
+          "waitTime": 25
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 41
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 40
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 28
+          "waitTime": 38
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 33
+          "waitTime": 40
         },
         {
           "time": "12:30:00-04:00",
@@ -502,51 +542,55 @@
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 50
+          "waitTime": 60
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 55
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 75
+          "waitTime": 57
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 58
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 43
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 46
+          "waitTime": 45
         },
         {
           "time": "16:00:00-04:00",
+          "waitTime": 31
+        },
+        {
+          "time": "16:30:00-04:00",
           "waitTime": 33
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 41
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 35
+          "waitTime": 36
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 28
+          "waitTime": 25
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 18
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 8
+          "waitTime": 7
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/"
@@ -612,19 +656,47 @@
         },
         {
           "time": "11:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "11:30:00-04:00",
           "waitTime": 20
         },
         {
           "time": "12:00:00-04:00",
+          "waitTime": 15
+        },
+        {
+          "time": "12:30:00-04:00",
           "waitTime": 10
         },
         {
+          "time": "13:00:00-04:00",
+          "waitTime": 35
+        },
+        {
           "time": "13:30:00-04:00",
+          "waitTime": 19
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 10
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 5
         },
         {
           "time": "15:00:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "15:30:00-04:00",
+          "waitTime": 5
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 10
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlife-express-train/"
@@ -954,60 +1026,72 @@
           "waitTime": 30
         },
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 30
+        },
+        {
           "time": "10:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 18
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 15
+          "waitTime": 18
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 23
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 24
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 23
+          "waitTime": 28
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 26
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 25
+          "waitTime": 27
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 26
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 20
+          "waitTime": 29
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 27
         },
         {
           "time": "15:00:00-04:00",
-          "waitTime": 23
+          "waitTime": 28
         },
         {
           "time": "15:30:00-04:00",
-          "waitTime": 25
+          "waitTime": 30
         },
         {
           "time": "16:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 27
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 50
+          "waitTime": 40
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 48
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 49
         }
       ]
     },
@@ -1130,6 +1214,10 @@
         {
           "time": "14:30:00-04:00",
           "waitTime": 5
+        },
+        {
+          "time": "16:00:00-04:00",
+          "waitTime": 0
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/gorilla-falls-forest-exploration-trail/"
@@ -1182,68 +1270,84 @@
       "hasAirConditioning": true,
       "forecast": [
         {
-          "time": "10:00:00-04:00",
-          "waitTime": 100
-        },
-        {
-          "time": "10:30:00-04:00",
-          "waitTime": 120
-        },
-        {
-          "time": "11:00:00-04:00",
-          "waitTime": 120
-        },
-        {
-          "time": "11:30:00-04:00",
-          "waitTime": 110
-        },
-        {
-          "time": "12:00:00-04:00",
-          "waitTime": 88
-        },
-        {
-          "time": "12:30:00-04:00",
-          "waitTime": 125
-        },
-        {
-          "time": "13:30:00-04:00",
-          "waitTime": 105
-        },
-        {
-          "time": "14:00:00-04:00",
-          "waitTime": 80
-        },
-        {
-          "time": "14:30:00-04:00",
+          "time": "09:30:00-04:00",
           "waitTime": 70
         },
         {
-          "time": "15:00:00-04:00",
+          "time": "10:00:00-04:00",
+          "waitTime": 86
+        },
+        {
+          "time": "10:30:00-04:00",
+          "waitTime": 89
+        },
+        {
+          "time": "11:00:00-04:00",
+          "waitTime": 86
+        },
+        {
+          "time": "11:30:00-04:00",
+          "waitTime": 88
+        },
+        {
+          "time": "12:00:00-04:00",
+          "waitTime": 78
+        },
+        {
+          "time": "12:30:00-04:00",
+          "waitTime": 78
+        },
+        {
+          "time": "13:00:00-04:00",
+          "waitTime": 57
+        },
+        {
+          "time": "13:30:00-04:00",
+          "waitTime": 80
+        },
+        {
+          "time": "14:00:00-04:00",
+          "waitTime": 69
+        },
+        {
+          "time": "14:30:00-04:00",
           "waitTime": 63
         },
         {
-          "time": "15:30:00-04:00",
+          "time": "15:00:00-04:00",
           "waitTime": 58
         },
         {
+          "time": "15:30:00-04:00",
+          "waitTime": 53
+        },
+        {
           "time": "16:00:00-04:00",
-          "waitTime": 63
+          "waitTime": 53
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 48
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 60
+          "waitTime": 49
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 43
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 46
+          "waitTime": 44
+        },
+        {
+          "time": "18:30:00-04:00",
+          "waitTime": 47
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 43
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/"
@@ -1272,72 +1376,84 @@
       "hasAirConditioning": false,
       "forecast": [
         {
+          "time": "09:30:00-04:00",
+          "waitTime": 45
+        },
+        {
           "time": "10:00:00-04:00",
-          "waitTime": 48
+          "waitTime": 46
         },
         {
           "time": "10:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 51
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 47
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 42
+          "waitTime": 50
         },
         {
           "time": "12:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 51
         },
         {
           "time": "12:30:00-04:00",
-          "waitTime": 55
+          "waitTime": 41
         },
         {
           "time": "13:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 36
         },
         {
           "time": "13:30:00-04:00",
-          "waitTime": 30
+          "waitTime": 20
         },
         {
           "time": "14:00:00-04:00",
-          "waitTime": 35
+          "waitTime": 25
         },
         {
           "time": "14:30:00-04:00",
-          "waitTime": 45
+          "waitTime": 25
         },
         {
-          "time": "15:30:00-04:00",
+          "time": "15:00:00-04:00",
           "waitTime": 13
         },
         {
+          "time": "15:30:00-04:00",
+          "waitTime": 12
+        },
+        {
           "time": "16:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "16:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 9
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         },
         {
           "time": "18:00:00-04:00",
+          "waitTime": 8
+        },
+        {
+          "time": "18:30:00-04:00",
           "waitTime": 10
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 8
+          "waitTime": 6
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjaro-safaris/"
@@ -1366,68 +1482,84 @@
       "hasAirConditioning": false,
       "forecast": [
         {
-          "time": "10:00:00-04:00",
+          "time": "09:30:00-04:00",
           "waitTime": 30
         },
         {
+          "time": "10:00:00-04:00",
+          "waitTime": 27
+        },
+        {
           "time": "10:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 41
         },
         {
           "time": "11:00:00-04:00",
-          "waitTime": 40
+          "waitTime": 41
         },
         {
           "time": "11:30:00-04:00",
-          "waitTime": 38
-        },
-        {
-          "time": "12:00:00-04:00",
           "waitTime": 40
         },
         {
+          "time": "12:00:00-04:00",
+          "waitTime": 37
+        },
+        {
           "time": "12:30:00-04:00",
-          "waitTime": 60
+          "waitTime": 47
         },
         {
           "time": "13:00:00-04:00",
           "waitTime": 50
         },
         {
-          "time": "14:30:00-04:00",
-          "waitTime": 65
-        },
-        {
-          "time": "15:00:00-04:00",
+          "time": "13:30:00-04:00",
           "waitTime": 50
         },
         {
-          "time": "15:30:00-04:00",
+          "time": "14:00:00-04:00",
+          "waitTime": 36
+        },
+        {
+          "time": "14:30:00-04:00",
+          "waitTime": 43
+        },
+        {
+          "time": "15:00:00-04:00",
           "waitTime": 35
         },
         {
+          "time": "15:30:00-04:00",
+          "waitTime": 32
+        },
+        {
           "time": "16:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 36
+        },
+        {
+          "time": "16:30:00-04:00",
+          "waitTime": 31
         },
         {
           "time": "17:00:00-04:00",
-          "waitTime": 45
+          "waitTime": 27
         },
         {
           "time": "17:30:00-04:00",
-          "waitTime": 20
+          "waitTime": 18
         },
         {
           "time": "18:00:00-04:00",
-          "waitTime": 17
+          "waitTime": 16
         },
         {
           "time": "18:30:00-04:00",
-          "waitTime": 5
+          "waitTime": 12
         },
         {
           "time": "19:00:00-04:00",
-          "waitTime": 10
+          "waitTime": 8
         }
       ],
       "learnMoreURL": "https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/"
